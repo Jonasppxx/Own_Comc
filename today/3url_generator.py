@@ -390,4 +390,4 @@ def verarbeite_urls(input_dateipfad, output_dateipfad):
         json.dump(neue_daten, file, ensure_ascii=False, indent=4)
 
 # Beispielaufruf der Funktion mit dem angegebenen Pfad
-verarbeite_urls('C:\\Users\\jonas\\OneDrive\\Desktop\\Own_comc\\today\\dumb\\2cards_data.json', 'C:\\Users\\jonas\\OneDrive\\Desktop\\Own_comc\\today\\dumb\\3cards_info.json')
+verarbeite_urls('C:\\Users\\jonas\\OneDrive\\Desktop\\GITHUB\\Own_Comc\\Own_comc\\today\\dumb\\2cards_data.json', 'C:\\Users\\jonas\\OneDrive\\Desktop\\GITHUB\\Own_Comc\\Own_comc\\today\\dumb\\3cards_info.json')

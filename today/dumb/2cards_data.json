@@ -134,7 +134,7 @@
     },
     "SecretRare-FanofWaves #226": {
         "guid": "https://www.comc.com/Cards/Pokemon/2021/Pokemon_Sword__Shield_-_Chilling_Reign_-_Base/226/Secret_Rare_-_Fan_of_Waves/19971870",
-        "salePrice": 1.82,
+        "salePrice": 7.38,
         "cardNumber": "226",
         "cardName": "SecretRare-FanofWaves",
         "pubDate": "Thu, 15 Aug  2024 09:46:22 GMT"
@@ -265,6 +265,20 @@
         "cardName": "PsychicEnergy",
         "pubDate": "Wed, 14 Aug  2024 12:04:32 GMT"
     },
+    "Forretressex #212": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2023-Current/Pokemon_Scarlet__Violet_-_Paldean_Fates_-_Base/212/Shiny_Ultra_Rare_-_Forretress_ex/24953445",
+        "salePrice": 4.0,
+        "cardNumber": "212",
+        "cardName": "Forretressex",
+        "pubDate": "Thu, 15 Aug  2024 09:41:10 GMT"
+    },
+    "PaldeanClodsireex #219": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2023-Current/Pokemon_Scarlet__Violet_-_Paldean_Fates_-_Base/219/Shiny_Ultra_Rare_-_Paldean_Clodsire_ex/24953446",
+        "salePrice": 3.5,
+        "cardNumber": "219",
+        "cardName": "PaldeanClodsireex",
+        "pubDate": "Thu, 15 Aug  2024 09:40:50 GMT"
+    },
     "Charizardex #54": {
         "guid": "https://www.comc.com/Cards/Pokemon/2023-Current/Pokemon_Scarlet__Violet_-_Paldean_Fates_-_Base/054/Charizard_ex/24953461",
         "salePrice": 2.72,
@@ -281,24 +295,31 @@
     },
     "Dodrio #200": {
         "guid": "https://www.comc.com/Cards/Pokemon/2023-Current/Pokemon_Scarlet__Violet_-_Paldean_Fates_-_Base/200/Shiny_Rare_-_Dodrio/24953463",
-        "salePrice": 2.72,
+        "salePrice": 5.5,
         "cardNumber": "200",
         "cardName": "Dodrio",
         "pubDate": "Thu, 15 Aug  2024 09:37:59 GMT"
     },
     "Electrode #134": {
         "guid": "https://www.comc.com/Cards/Pokemon/2023-Current/Pokemon_Scarlet__Violet_-_Paldean_Fates_-_Base/134/Shiny_Rare_-_Electrode/24953466",
-        "salePrice": 1.82,
+        "salePrice": 3.0,
         "cardNumber": "134",
         "cardName": "Electrode",
         "pubDate": "Thu, 15 Aug  2024 09:37:43 GMT"
     },
     "Kingambit #187": {
         "guid": "https://www.comc.com/Cards/Pokemon/2023-Current/Pokemon_Scarlet__Violet_-_Paldean_Fates_-_Base/187/Shiny_Rare_-_Kingambit/24953467",
-        "salePrice": 1.82,
+        "salePrice": 4.0,
         "cardNumber": "187",
         "cardName": "Kingambit",
         "pubDate": "Thu, 15 Aug  2024 09:37:29 GMT"
+    },
+    "Flittle #164": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2023-Current/Pokemon_Scarlet__Violet_-_Paldean_Fates_-_Base/164/Shiny_Rare_-_Flittle/24953497",
+        "salePrice": 3.0,
+        "cardNumber": "164",
+        "cardName": "Flittle",
+        "pubDate": "Thu, 15 Aug  2024 09:37:15 GMT"
     },
     "Tinkatuff #166": {
         "guid": "https://www.comc.com/Cards/Pokemon/2023-Current/Pokemon_Scarlet__Violet_-_Paldean_Fates_-_Base/166/Shiny_Rare_-_Tinkatuff/25032878",
@@ -321,6 +342,20 @@
         "cardName": "Riolu",
         "pubDate": "Thu, 15 Aug  2024 09:36:39 GMT"
     },
+    "Glimmoraex #218": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2023-Current/Pokemon_Scarlet__Violet_-_Paldean_Fates_-_Base/218/Shiny_Ultra_Rare_-_Glimmora_ex/25114062",
+        "salePrice": 4.5,
+        "cardNumber": "218",
+        "cardName": "Glimmoraex",
+        "pubDate": "Thu, 15 Aug  2024 09:36:28 GMT"
+    },
+    "Wigglytuffex #222": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2023-Current/Pokemon_Scarlet__Violet_-_Paldean_Fates_-_Base/222/Shiny_Ultra_Rare_-_Wigglytuff_ex/25127734",
+        "salePrice": 2.7,
+        "cardNumber": "222",
+        "cardName": "Wigglytuffex",
+        "pubDate": "Thu, 15 Aug  2024 09:35:52 GMT"
+    },
     "Drifblim #156": {
         "guid": "https://www.comc.com/Cards/Pokemon/2023-Current/Pokemon_Scarlet__Violet_-_Paldean_Fates_-_Base/156/Shiny_Rare_-_Drifblim/25127740",
         "salePrice": 1.82,
@@ -330,7 +365,7 @@
     },
     "Gardevoirex #217": {
         "guid": "https://www.comc.com/Cards/Pokemon/2023-Current/Pokemon_Scarlet__Violet_-_Paldean_Fates_-_Base/217/Shiny_Ultra_Rare_-_Gardevoir_ex/25179908",
-        "salePrice": 2.72,
+        "salePrice": 4.75,
         "cardNumber": "217",
         "cardName": "Gardevoirex",
         "pubDate": "Thu, 15 Aug  2024 09:35:09 GMT"
@@ -414,7 +449,7 @@
     },
     "Koraidonex #245": {
         "guid": "https://www.comc.com/Cards/Pokemon/2023-Current/Pokemon_Scarlet__Violet_-_Paldean_Fates_-_Base/245/Hyper_Rare_-_Koraidon_ex/25371244",
-        "salePrice": 9.92,
+        "salePrice": 18.5,
         "cardNumber": "245",
         "cardName": "Koraidonex",
         "pubDate": "Thu, 15 Aug  2024 09:31:49 GMT"
@@ -461,6 +496,13 @@
         "cardName": "Pidgeotto",
         "pubDate": "Thu, 15 Aug  2024 09:30:22 GMT"
     },
+    "Poliwhirl #176": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_151_(MEWEN)_-_Base/176/Illustration_Rare_-_Poliwhirl/24063321",
+        "salePrice": 13.0,
+        "cardNumber": "176",
+        "cardName": "Poliwhirl",
+        "pubDate": "Thu, 15 Aug  2024 12:41:08 GMT"
+    },
     "Applin #185": {
         "guid": "https://www.comc.com/Cards/Pokemon/2024/Pokemon_Scarlet__Violet_-_Twilight_Masquerade_-_Base/185/Illustration_Rare_-_Applin/26005333",
         "salePrice": 1.82,
@@ -481,6 +523,13 @@
         "cardNumber": "20",
         "cardName": "Milotic",
         "pubDate": "Wed, 14 Aug  2024 22:30:39 GMT"
+    },
+    "Tentacruel #73": {
+        "guid": "https://www.comc.com/Cards/Pokemon/1998/Amada_Pokemon_Kaku_Menko_-_Base/073/Tentacruel_(Dokukurage)/26246557",
+        "salePrice": 2.25,
+        "cardNumber": "73",
+        "cardName": "Tentacruel",
+        "pubDate": "Thu, 15 Aug  2024 13:34:56 GMT"
     },
     "RainbowBrush #182": {
         "guid": "https://www.comc.com/Cards/Pokemon/2018/Pokémon_Sun__Moon_-_Celestial_Storm_-_Base/182/Secret_-_Rainbow_Brush/13998502",
@@ -628,26 +677,5 @@
         "cardNumber": "102",
         "cardName": "Exeggcute",
         "pubDate": "Thu, 15 Aug  2024 03:26:40 GMT"
-    },
-    "Parasect #47": {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Game_FreakNintendo_Poker_Playing_Cards_-_Base_-_Gold_Back/047/Parasect/26249921",
-        "salePrice": 3.0,
-        "cardNumber": "47",
-        "cardName": "Parasect",
-        "pubDate": "Thu, 15 Aug  2024 03:26:39 GMT"
-    },
-    "Skiploom #188": {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Game_FreakNintendo_Poker_Playing_Cards_-_Base_-_Silver_Lugia_Back/188/Skiploom/26249981",
-        "salePrice": 3.0,
-        "cardNumber": "188",
-        "cardName": "Skiploom",
-        "pubDate": "Thu, 15 Aug  2024 03:26:38 GMT"
-    },
-    "Paras #46": {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Game_FreakNintendo_Poker_Playing_Cards_-_Base_-_Silver_Lugia_Back/046/Paras/26249984",
-        "salePrice": 3.0,
-        "cardNumber": "46",
-        "cardName": "Paras",
-        "pubDate": "Thu, 15 Aug  2024 03:26:37 GMT"
     }
 }

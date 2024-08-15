@@ -2,7 +2,7 @@ import subprocess
 import os
 
 # Pfad zum Verzeichnis mit den Skripten
-directory = r"C:\Users\jonas\OneDrive\Desktop\Own_comc\today"
+directory = r"C:\Users\jonas\OneDrive\Desktop\GITHUB\Own_Comc\Own_comc\today"
 
 # Liste der Skripte, die ausgeführt werden sollen
 scripts = [

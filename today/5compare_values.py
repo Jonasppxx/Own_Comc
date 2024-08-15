@@ -21,8 +21,8 @@ def main():
     Hauptfunktion des Skripts, die die Daten aus der JSON-Datei liest,
     den Prozentsatz der Ungleichheit berechnet, und die Karten nach der Differenz sortiert.
     """
-    input_file = r'C:\Users\jonas\OneDrive\Desktop\Own_comc\today\dumb\4filtered_cards_info.json'  # Der Pfad zur JSON-Datei
-    output_file = r'C:\Users\jonas\OneDrive\Desktop\Own_comc\5sorted_cards_by_difference.json'  # Der Pfad zur Ausgabedatei
+    input_file = r'C:\Users\jonas\OneDrive\Desktop\GITHUB\Own_Comc\Own_comc\today\dumb\4filtered_cards_info.json'  # Der Pfad zur JSON-Datei
+    output_file = r'C:\Users\jonas\OneDrive\Desktop\GITHUB\Own_Comc\Own_comc\5sorted_cards_by_difference.json'  # Der Pfad zur Ausgabedatei
     
     # Überprüfen, ob die Eingabedatei existiert
     if not os.path.exists(input_file):
