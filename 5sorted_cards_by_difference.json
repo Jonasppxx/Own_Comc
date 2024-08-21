@@ -1,0 +1,72 @@
+[
+    {
+        "guid": "https://www.comc.com/Cards/Pokemon/2000/Pokemon_-_Gym_Heroes_-_Base_-_Unlimited/26/Erikas_Victreebel/4341975",
+        "url": "https://www.pricecharting.com/game/pokemon-gym-heroes/erika%27s-victreebel-26",
+        "comc": 3.45,
+        "pricecharting": 8.74,
+        "difference": 60.526315789473685
+    },
+    {
+        "guid": "https://www.comc.com/Cards/Pokemon/2002/Pokemon_e-Card_Series_-_Expedition_-_Base/124/Pikachu/4344558",
+        "url": "https://www.pricecharting.com/game/pokemon-expedition/pikachu-124",
+        "comc": 1.85,
+        "pricecharting": 3.99,
+        "difference": 53.63408521303258
+    },
+    {
+        "guid": "https://www.comc.com/Cards/Pokemon/2018/Pokémon_Sun__Moon_-_Forbidden_Light_-_Base/73/Zygarde_GX/13387983",
+        "url": "https://www.pricecharting.com/game/pokemon-forbidden-light/zygarde-gx-73",
+        "comc": 3.0,
+        "pricecharting": 5.22,
+        "difference": 42.5287356321839
+    },
+    {
+        "guid": "https://www.comc.com/Cards/Pokemon/2024/Pokemon_Scarlet__Violet_-_Temporal_Forces_-_Base/166/Illustration_Rare_-_Sawsbuck/25550786",
+        "url": "https://www.pricecharting.com/game/pokemon-temporal-forces/sawsbuck-166",
+        "comc": 5.24,
+        "pricecharting": 8.31,
+        "difference": 36.94344163658243
+    },
+    {
+        "guid": "https://www.comc.com/Cards/Pokemon/2000/Pokemon_Neo_Genesis_-_Base_-_1st_Edition/90/Time_Capsule/4342439",
+        "url": "https://www.pricecharting.com/game/pokemon-neo-genesis/time-capsule-1st-edition-90",
+        "comc": 2.65,
+        "pricecharting": 3.86,
+        "difference": 31.34715025906736
+    },
+    {
+        "guid": "https://www.comc.com/Cards/Pokemon/2010/Pokémon_HeartGold__SoulSilver_-_Undaunted_-_Base/53/Houndour/24599487",
+        "url": "https://www.pricecharting.com/game/pokemon-undaunted/houndour-53",
+        "comc": 1.85,
+        "pricecharting": 2.29,
+        "difference": 19.213973799126634
+    },
+    {
+        "guid": "https://www.comc.com/Cards/Pokemon/2018/Pokémon_Sun__Moon_-_Dragon_Storm_(SM6a)_-_Base_-_Korean/055/Kingdra_GX/25875131",
+        "url": "https://www.pricecharting.com/game/pokemon-sun-moon-dragon-storm-base/kingdra-gx-55",
+        "comc": 9.05,
+        "pricecharting": 10.95,
+        "difference": 17.35159817351597
+    },
+    {
+        "guid": "https://www.comc.com/Cards/Pokemon/2009/Pokémon_Platinum_-_Rising_Rivals_-_Base_-_Reverse_Foil/48/Scizor/5770472",
+        "url": "https://www.pricecharting.com/game/pokemon-rising-rivals/scizor-reverse-holo-48",
+        "comc": 2.73,
+        "pricecharting": 2.99,
+        "difference": 8.69565217391305
+    },
+    {
+        "guid": "https://www.comc.com/Cards/Pokemon/2019-2020/Pokémon_Sun__Moon_-_Team_Up_-_Base/188/Rainbow_-_Incineroar_GX/17537648",
+        "url": "https://www.pricecharting.com/game/pokemon-team-up/incineroar-gx-188",
+        "comc": 15.25,
+        "pricecharting": 16.39,
+        "difference": 6.955460646735817
+    },
+    {
+        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_(SV1EN)_-_Base/255/Hyper_Rare_-_Nest_Ball/22958442",
+        "url": "https://www.pricecharting.com/game/pokemon-scarlet-violet/nest-ball-255",
+        "comc": 11.0,
+        "pricecharting": 11.26,
+        "difference": 2.3090586145648295
+    }
+]
