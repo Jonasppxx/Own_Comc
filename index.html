@@ -6,39 +6,53 @@
     <title>JSON Data Display</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
+            font-family: 'Roboto', sans-serif;
+            background-color: #f0f2f5;
             margin: 0;
             padding: 20px;
+            color: #333;
         }
         h1 {
             text-align: center;
-            color: #333;
+            color: #444;
+            margin-bottom: 40px;
+            font-size: 2.5em;
         }
         .card {
             background-color: #fff;
-            border: 1px solid #ccc;
+            border: none;
             padding: 20px;
             margin: 20px auto;
-            border-radius: 5px;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
             max-width: 600px;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        .card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
         }
         .card h2 {
             margin-top: 0;
-            font-size: 1.5em;
+            font-size: 1.75em;
             color: #007BFF;
         }
         .card p {
             margin: 10px 0;
             color: #555;
+            font-size: 1.1em;
         }
         .card a {
             color: #007BFF;
             text-decoration: none;
+            font-weight: bold;
         }
         .card a:hover {
             text-decoration: underline;
+        }
+        .card p span {
+            font-weight: bold;
+            color: #333;
         }
     </style>
 </head>
@@ -67,9 +81,9 @@
                 card.innerHTML = `
                     <h2><a href="${item.guid}" target="_blank">Product Link</a></h2>
                     <p>URL: <a href="${item.url}" target="_blank">${item.url}</a></p>
-                    <p>COMC Price: $${item.comc}</p>
-                    <p>PriceCharting Price: $${item.pricecharting}</p>
-                    <p>Difference: ${item.difference.toFixed(2)}%</p>
+                    <p>COMC Price: <span>$${item.comc}</span></p>
+                    <p>PriceCharting Price: <span>$${item.pricecharting}</span></p>
+                    <p>Difference: <span>${item.difference.toFixed(2)}%</span></p>
                 `;
                 container.appendChild(card);
             });
