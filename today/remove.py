@@ -1,5 +1,6 @@
 import json
 from datetime import datetime, timedelta
+import os
 
 def filter_cards_by_today(file_path):
     # Heutiges und gestriges Datum im Format "02 Aug 2024"
@@ -31,6 +32,6 @@ def filter_cards_by_today(file_path):
     print(f"Data in {file_path} has been filtered and saved.")
 
 if __name__ == "__main__":
-    file_path = r'C:\Users\jonas\OneDrive\Desktop\GITHUB\Own_Comc\Own_comc\today\dumb\2cards_data.json'  # Pfad zur JSON-Datei
+    file_path = os.path.join(os.path.dirname(__file__), 'dumb', '2cards_data.json')
     
     filter_cards_by_today(file_path)

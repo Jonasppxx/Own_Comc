@@ -132,7 +132,7 @@ def clear_directory(directory):
 
 def main():
     # Verzeichnis vorbereiten
-    directory = r'C:\Users\jonas\OneDrive\Desktop\GITHUB\Own_Comc\Own_comc\today\dumb'
+    directory = os.path.join(os.path.dirname(__file__), 'dumb')
     clear_directory(directory)
 
     for url in urls:

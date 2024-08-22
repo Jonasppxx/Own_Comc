@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JSON Data Display</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        .card {
+            background-color: #fff;
+            border: 1px solid #ccc;
+            padding: 20px;
+            margin: 20px auto;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            max-width: 600px;
+        }
+        .card h2 {
+            margin-top: 0;
+            font-size: 1.5em;
+            color: #007BFF;
+        }
+        .card p {
+            margin: 10px 0;
+            color: #555;
+        }
+        .card a {
+            color: #007BFF;
+            text-decoration: none;
+        }
+        .card a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>JSON Data Display</h1>
+    <div id="data-container"></div>
+
+    <script>
+        // Function to fetch and display JSON data
+        async function fetchAndDisplayData() {
+            try {
+                const response = await fetch('5sorted_cards_by_difference.json');
+                const jsonData = await response.json();
+                displayData(jsonData);
+            } catch (error) {
+                console.error('Error fetching JSON data:', error);
+            }
+        }
+
+        // Function to display JSON data
+        function displayData(data) {
+            const container = document.getElementById('data-container');
+            data.forEach(item => {
+                const card = document.createElement('div');
+                card.className = 'card';
+                card.innerHTML = `
+                    <h2><a href="${item.guid}" target="_blank">Product Link</a></h2>
+                    <p>URL: <a href="${item.url}" target="_blank">${item.url}</a></p>
+                    <p>COMC Price: $${item.comc}</p>
+                    <p>PriceCharting Price: $${item.pricecharting}</p>
+                    <p>Difference: ${item.difference.toFixed(2)}%</p>
+                `;
+                container.appendChild(card);
+            });
+        }
+
+        // Call the function to fetch and display data
+        fetchAndDisplayData();
+    </script>
+</body>
+</html>

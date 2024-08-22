@@ -2,7 +2,7 @@ import subprocess
 import os
 
 # Pfad zum Verzeichnis mit den Skripten
-directory = r"C:\Users\jonas\OneDrive\Desktop\GITHUB\Own_Comc\Own_comc\today"
+directory = os.path.join(os.path.dirname(__file__), 'today')
 
 # Liste der Skripte, die ausgeführt werden sollen
 scripts = [

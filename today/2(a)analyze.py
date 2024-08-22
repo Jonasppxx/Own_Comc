@@ -120,7 +120,7 @@ def save_to_json(data, output_file):
         json.dump(data, f, indent=4, ensure_ascii=False)
 
 if __name__ == "__main__":
-    folder_path = r'C:\Users\jonas\OneDrive\Desktop\GITHUB\Own_Comc\Own_comc\today\dumb'
+    folder_path =  os.path.join(os.path.dirname(__file__), 'dumb')
     output_file = os.path.join(folder_path, '2cards_data.json')
     
     all_cards = extract_guids_from_folder(folder_path)

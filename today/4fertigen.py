@@ -76,7 +76,7 @@ def save_to_json(data, output_file):
         print(f"Error saving data to file: {e}", file=sys.stderr)
 
 def main():
-    folder_path = r'C:\Users\jonas\OneDrive\Desktop\GITHUB\Own_Comc\Own_comc\today\dumb'
+    folder_path = os.path.join(os.path.dirname(__file__), 'dumb')
     input_json_file = os.path.join(folder_path, '3cards_info.json')
     output_json_file = os.path.join(folder_path, '4filtered_cards_info.json')
     error_urls_file = os.path.join(folder_path, 'error_urls.json')

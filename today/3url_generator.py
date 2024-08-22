@@ -1,6 +1,6 @@
 import json
 import re
-
+import os
 def verarbeite_urls(input_dateipfad, output_dateipfad):
     # Lese die JSON-Datei ein
     with open(input_dateipfad, 'r', encoding='utf-8') as file:
@@ -390,4 +390,4 @@ def verarbeite_urls(input_dateipfad, output_dateipfad):
         json.dump(neue_daten, file, ensure_ascii=False, indent=4)
 
 # Beispielaufruf der Funktion mit dem angegebenen Pfad
-verarbeite_urls('C:\\Users\\jonas\\OneDrive\\Desktop\\GITHUB\\Own_Comc\\Own_comc\\today\\dumb\\2cards_data.json', 'C:\\Users\\jonas\\OneDrive\\Desktop\\GITHUB\\Own_Comc\\Own_comc\\today\\dumb\\3cards_info.json')
+verarbeite_urls(os.path.join(os.path.dirname(__file__), 'dumb', '2cards_data.json'), os.path.join(os.path.dirname(__file__), 'dumb', '3cards_info.json'))
