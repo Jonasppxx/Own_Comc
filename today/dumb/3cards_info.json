@@ -205,14 +205,9 @@
         "salePrice": 2.81
     },
     {
-        "guid": "https://www.comc.com/Cards/Pokemon/2000/Pokemon_Neo_Genesis_-_Base_-_1st_Edition/74/Snubbull/4342423",
-        "url": "https://www.pricecharting.com/game/pokemon-neo-genesis/snubbull-1st-edition-74",
-        "salePrice": 1.8
-    },
-    {
         "guid": "https://www.comc.com/Cards/Pokemon/2000/Pokemon_Neo_Genesis_-_Base_-_1st_Edition/66/Marill/4342415",
         "url": "https://www.pricecharting.com/game/pokemon-neo-genesis/marill-1st-edition-66",
-        "salePrice": 2.05
+        "salePrice": 2.25
     },
     {
         "guid": "https://www.comc.com/Cards/Pokemon/2007/Pokémon_Diamond__Pearl_-_Secret_Wonders_-_Base_-_Reverse_Foil/98/Phanpy/5962116",
@@ -443,6 +438,11 @@
         "guid": "https://www.comc.com/Cards/Pokemon/2021/Pokemon_Sword__Shield_-_Fusion_Strike_-_Base_-_Reverse_Foil/061/Mantine/20169311/Ungraded/COMC/EX-NM",
         "url": "https://www.pricecharting.com/game/pokemon-fusion-strike/mantine-reverse-holo-61",
         "salePrice": 1.95
+    },
+    {
+        "guid": "https://www.comc.com/Cards/Pokemon/2021/Pokémon_Sword__Shield_-_Evolving_Skies_-_Base/095/Umbreon_VMAX/17606419",
+        "url": "https://www.pricecharting.com/game/pokemon-evolving-skies/umbreon-vmax-95",
+        "salePrice": 9.99
     },
     {
         "guid": "https://www.comc.com/Cards/Pokemon/2021/Pokémon_Sword__Shield_-_Evolving_Skies_-_Base/092/Full_Art_-_Lycanroc_VMAX/17528395",

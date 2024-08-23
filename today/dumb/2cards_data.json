@@ -286,16 +286,9 @@
         "cardName": "Quagsire",
         "pubDate": "Fri, 23 Aug  2024 11:17:27 GMT"
     },
-    "Snubbull #74": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2000/Pokemon_Neo_Genesis_-_Base_-_1st_Edition/74/Snubbull/4342423",
-        "salePrice": 1.8,
-        "cardNumber": "74",
-        "cardName": "Snubbull",
-        "pubDate": "Fri, 23 Aug  2024 11:17:23 GMT"
-    },
     "Marill #66": {
         "guid": "https://www.comc.com/Cards/Pokemon/2000/Pokemon_Neo_Genesis_-_Base_-_1st_Edition/66/Marill/4342415",
-        "salePrice": 2.05,
+        "salePrice": 2.25,
         "cardNumber": "66",
         "cardName": "Marill",
         "pubDate": "Fri, 23 Aug  2024 11:17:21 GMT"
@@ -621,6 +614,13 @@
         "cardNumber": "61",
         "cardName": "Mantine",
         "pubDate": "Thu, 22 Aug  2024 11:59:06 GMT"
+    },
+    "UmbreonVMAX #95": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2021/Pokémon_Sword__Shield_-_Evolving_Skies_-_Base/095/Umbreon_VMAX/17606419",
+        "salePrice": 9.99,
+        "cardNumber": "95",
+        "cardName": "UmbreonVMAX",
+        "pubDate": "Fri, 23 Aug  2024 16:21:35 GMT"
     },
     "LycanrocVMAX #92": {
         "guid": "https://www.comc.com/Cards/Pokemon/2021/Pokémon_Sword__Shield_-_Evolving_Skies_-_Base/092/Full_Art_-_Lycanroc_VMAX/17528395",

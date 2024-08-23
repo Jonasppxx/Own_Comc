@@ -9,7 +9,7 @@
         "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_German_1st_Edition/90/Super_Potion/12273405",
         "url": "https://www.pricecharting.com/game/pokemon-base-set/super-potion-1st-edition-90",
         "comc": 2.81,
-        "pricecharting": 12.04
+        "pricecharting": 12.99
     },
     {
         "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_French_1st_Edition/102/Water_Energy/12445127",
@@ -63,7 +63,7 @@
         "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Jungle_-_Base/20/Jolteon/4340484",
         "url": "https://www.pricecharting.com/game/pokemon-jungle/jolteon-20",
         "comc": 3.85,
-        "pricecharting": 7.38
+        "pricecharting": 6.82
     },
     {
         "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Jungle_-_Base_-_1st_Edition/45/Rhydon/4340446/Ungraded/COMC/EX-NM",
@@ -114,15 +114,9 @@
         "pricecharting": 4.57
     },
     {
-        "guid": "https://www.comc.com/Cards/Pokemon/2000/Pokemon_Neo_Genesis_-_Base_-_1st_Edition/74/Snubbull/4342423",
-        "url": "https://www.pricecharting.com/game/pokemon-neo-genesis/snubbull-1st-edition-74",
-        "comc": 1.8,
-        "pricecharting": 2.23
-    },
-    {
         "guid": "https://www.comc.com/Cards/Pokemon/2000/Pokemon_Neo_Genesis_-_Base_-_1st_Edition/66/Marill/4342415",
         "url": "https://www.pricecharting.com/game/pokemon-neo-genesis/marill-1st-edition-66",
-        "comc": 2.05,
+        "comc": 2.25,
         "pricecharting": 2.84
     },
     {

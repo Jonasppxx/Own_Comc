@@ -17,8 +17,8 @@
         "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_German_1st_Edition/90/Super_Potion/12273405",
         "url": "https://www.pricecharting.com/game/pokemon-base-set/super-potion-1st-edition-90",
         "comc": 2.81,
-        "pricecharting": 12.04,
-        "difference": 76.6611295681063
+        "pricecharting": 12.99,
+        "difference": 78.3679753656659
     },
     {
         "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_Spanish_1st_Edition/45/Caterpie/14661460",
@@ -91,13 +91,6 @@
         "difference": 48.52941176470588
     },
     {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Jungle_-_Base/20/Jolteon/4340484",
-        "url": "https://www.pricecharting.com/game/pokemon-jungle/jolteon-20",
-        "comc": 3.85,
-        "pricecharting": 7.38,
-        "difference": 47.8319783197832
-    },
-    {
         "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_Spanish_1st_Edition/65/Staryu/12445157",
         "url": "https://www.pricecharting.com/game/pokemon-base-set/staryu-1st-edition-65",
         "comc": 5.25,
@@ -124,6 +117,13 @@
         "comc": 2.0,
         "pricecharting": 3.57,
         "difference": 43.977591036414566
+    },
+    {
+        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Jungle_-_Base/20/Jolteon/4340484",
+        "url": "https://www.pricecharting.com/game/pokemon-jungle/jolteon-20",
+        "comc": 3.85,
+        "pricecharting": 6.82,
+        "difference": 43.54838709677419
     },
     {
         "guid": "https://www.comc.com/Cards/Pokemon/2000/Pokemon_Neo_Genesis_-_Base_-_1st_Edition/45/Quagsire/12163300",
@@ -154,13 +154,6 @@
         "difference": 28.26086956521739
     },
     {
-        "guid": "https://www.comc.com/Cards/Pokemon/2000/Pokemon_Neo_Genesis_-_Base_-_1st_Edition/66/Marill/4342415",
-        "url": "https://www.pricecharting.com/game/pokemon-neo-genesis/marill-1st-edition-66",
-        "comc": 2.05,
-        "pricecharting": 2.84,
-        "difference": 27.816901408450708
-    },
-    {
         "guid": "https://www.comc.com/Cards/Pokemon/2000/Pokemon_Neo_Genesis_-_Base_-_1st_Edition/44/Piloswine/12871331",
         "url": "https://www.pricecharting.com/game/pokemon-neo-genesis/piloswine-1st-edition-44",
         "comc": 2.75,
@@ -182,18 +175,18 @@
         "difference": 21.60804020100502
     },
     {
+        "guid": "https://www.comc.com/Cards/Pokemon/2000/Pokemon_Neo_Genesis_-_Base_-_1st_Edition/66/Marill/4342415",
+        "url": "https://www.pricecharting.com/game/pokemon-neo-genesis/marill-1st-edition-66",
+        "comc": 2.25,
+        "pricecharting": 2.84,
+        "difference": 20.77464788732394
+    },
+    {
         "guid": "https://www.comc.com/Cards/Pokemon/2019/Pokémon_Sun__Moon_-_Cosmic_Eclipse_-_Base/246/Secret_-_Excadrill/14947700",
         "url": "https://www.pricecharting.com/game/pokemon-cosmic-eclipse/excadrill-246",
         "comc": 1.83,
         "pricecharting": 2.28,
         "difference": 19.736842105263147
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2000/Pokemon_Neo_Genesis_-_Base_-_1st_Edition/74/Snubbull/4342423",
-        "url": "https://www.pricecharting.com/game/pokemon-neo-genesis/snubbull-1st-edition-74",
-        "comc": 1.8,
-        "pricecharting": 2.23,
-        "difference": 19.28251121076233
     },
     {
         "guid": "https://www.comc.com/Cards/Pokemon/2015/Pokemon_XY_-_Roaring_Skies_-_Base/101/Ultra_Rare_-_Latios_EX/11669579/Ungraded/COMC/G-VG-EX",
