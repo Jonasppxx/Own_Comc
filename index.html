@@ -5,6 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>JSON Data Display</title>
     <style>
+        @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
         body {
             font-family: 'Roboto', sans-serif;
             background-color: #f0f2f5;
@@ -54,11 +56,31 @@
             font-weight: bold;
             color: #333;
         }
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+        }
+        .card {
+            flex: 1 1 calc(33% - 40px);
+            box-sizing: border-box;
+        }
+        @media (max-width: 768px) {
+            .card {
+                flex: 1 1 calc(50% - 40px);
+            }
+        }
+        @media (max-width: 480px) {
+            .card {
+                flex: 1 1 100%;
+            }
+        }
     </style>
 </head>
 <body>
     <h1>JSON Data Display</h1>
-    <div id="data-container"></div>
+    <div id="data-container" class="container"></div>
 
     <script>
         // Function to fetch and display JSON data
