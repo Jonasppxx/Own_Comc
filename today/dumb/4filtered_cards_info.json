@@ -1,254 +1,188 @@
 [
     {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_German_1st_Edition/17/Beedrill/11707944",
-        "url": "https://www.pricecharting.com/game/pokemon-base-set/beedrill-1st-edition-17",
-        "comc": 2.65,
-        "pricecharting": 92.5
+        "guid": "https://www.comc.com/Cards/Pokemon/2006/Pokémon_EX_-_Dragon_Frontiers_-_Expansion_Set_Base_-_Reverse_Foil/64/Smoochum/4348326",
+        "url": "https://www.pricecharting.com/game/pokemon-dragon-frontiers/smoochum-reverse-holo-64",
+        "comc": 5.24,
+        "pricecharting": 5.3
     },
     {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_German_1st_Edition/90/Super_Potion/12273405",
-        "url": "https://www.pricecharting.com/game/pokemon-base-set/super-potion-1st-edition-90",
-        "comc": 2.81,
-        "pricecharting": 12.99
+        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_Shadowless/24/Charmeleon/8505367/Ungraded/COMC/EX-NM",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set/charmeleon-shadowless-24",
+        "comc": 2.2,
+        "pricecharting": 3.3
     },
     {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_French_1st_Edition/102/Water_Energy/12445127",
-        "url": "https://www.pricecharting.com/game/pokemon-base-set/water-energy-1st-edition-102",
-        "comc": 5.25,
-        "pricecharting": 5.48
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_Spanish_1st_Edition/65/Staryu/12445157",
-        "url": "https://www.pricecharting.com/game/pokemon-base-set/staryu-1st-edition-65",
-        "comc": 5.25,
-        "pricecharting": 10.0
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_German_1st_Edition/100/Lightning_Energy/13485207",
-        "url": "https://www.pricecharting.com/game/pokemon-base-set/lightning-energy-1st-edition-100",
-        "comc": 2.81,
-        "pricecharting": 5.28
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_German_1st_Edition/92/Energy_Removal/13485210",
-        "url": "https://www.pricecharting.com/game/pokemon-base-set/energy-removal-1st-edition-92",
-        "comc": 2.75,
-        "pricecharting": 6.73
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_Spanish_1st_Edition/45/Caterpie/14661460",
-        "url": "https://www.pricecharting.com/game/pokemon-base-set/caterpie-1st-edition-45",
-        "comc": 5.25,
-        "pricecharting": 22.19
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_Spanish_1st_Edition/35/Magikarp/25810353",
-        "url": "https://www.pricecharting.com/game/pokemon-base-set/magikarp-1st-edition-35",
-        "comc": 5.25,
-        "pricecharting": 29.21
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_Spanish_1st_Edition/68/Vulpix/25810536",
-        "url": "https://www.pricecharting.com/game/pokemon-base-set/vulpix-1st-edition-68",
-        "comc": 5.25,
-        "pricecharting": 19.99
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Jungle_-_Base/27/Snorlax/4340491/Ungraded/COMC/EX-NM",
-        "url": "https://www.pricecharting.com/game/pokemon-jungle/snorlax-27",
-        "comc": 2.25,
-        "pricecharting": 4.39
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Jungle_-_Base/20/Jolteon/4340484",
-        "url": "https://www.pricecharting.com/game/pokemon-jungle/jolteon-20",
-        "comc": 3.85,
-        "pricecharting": 6.82
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Jungle_-_Base_-_1st_Edition/45/Rhydon/4340446/Ungraded/COMC/EX-NM",
-        "url": "https://www.pricecharting.com/game/pokemon-jungle/rhydon-1st-edition-45",
-        "comc": 2.75,
-        "pricecharting": 2.99
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Jungle_-_Base_-_1st_Edition/51/Eevee/4340452/Ungraded/COMC/EX-NM",
-        "url": "https://www.pricecharting.com/game/pokemon-jungle/eevee-1st-edition-51",
-        "comc": 2.75,
-        "pricecharting": 2.92
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999-2003/Pokemon_Wizards_of_the_Coast_-_Exclusive_Black_Star_Promos/27/Pikachu_(The_Power_of_One)/5714012/Ungraded/COMC/EX-NM",
-        "url": "https://www.pricecharting.com/game/pokemon-promo/pikachu-27",
-        "comc": 2.25,
-        "pricecharting": 6.5
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2000/Pokemon_Team_Rocket_-_Base_-_German_1st_Edition/78/Goop_Gas_Attack/25392277",
-        "url": "https://www.pricecharting.com/game/pokemon-team-rocket/goop-gas-attack-1st-edition-78",
-        "comc": 1.56,
-        "pricecharting": 1.99
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2000/Pokemon_-_Gym_Heroes_-_Base_-_Unlimited/31/Mistys_Poliwrath/4341980/Ungraded/COMC/EX-NM",
-        "url": "https://www.pricecharting.com/game/pokemon-gym-heroes/misty%27s-poliwrath-31",
-        "comc": 2.45,
-        "pricecharting": 7.07
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2000/Pokemon_Neo_Genesis_-_Base_-_1st_Edition/106/Fighting_Energy/11425279",
-        "url": "https://www.pricecharting.com/game/pokemon-neo-genesis/fighting-energy-1st-edition-106",
-        "comc": 2.15,
-        "pricecharting": 2.33
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2000/Pokemon_Neo_Genesis_-_Base_-_1st_Edition/44/Piloswine/12871331",
-        "url": "https://www.pricecharting.com/game/pokemon-neo-genesis/piloswine-1st-edition-44",
-        "comc": 2.75,
-        "pricecharting": 3.68
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2000/Pokemon_Neo_Genesis_-_Base_-_1st_Edition/45/Quagsire/12163300",
-        "url": "https://www.pricecharting.com/game/pokemon-neo-genesis/quagsire-1st-edition-45",
-        "comc": 2.81,
-        "pricecharting": 4.57
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2000/Pokemon_Neo_Genesis_-_Base_-_1st_Edition/66/Marill/4342415",
-        "url": "https://www.pricecharting.com/game/pokemon-neo-genesis/marill-1st-edition-66",
-        "comc": 2.25,
-        "pricecharting": 2.84
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2022/Pokémon_Sword__Shield_-_Silver_Tempest_-_Base/138/Lugia_V/21952140",
-        "url": "https://www.pricecharting.com/game/pokemon-silver-tempest/lugia-v-138",
-        "comc": 3.5,
-        "pricecharting": 4.02
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2019/Pokémon_Sun__Moon_-_Cosmic_Eclipse_-_Base/246/Secret_-_Excadrill/14947700",
-        "url": "https://www.pricecharting.com/game/pokemon-cosmic-eclipse/excadrill-246",
-        "comc": 1.83,
-        "pricecharting": 2.28
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2019/Pokémon_Sun__Moon_-_Hidden_Fates_-_Base/16/Gyarados_GX/14631433",
-        "url": "https://www.pricecharting.com/game/pokemon-hidden-fates/gyarados-gx-16",
-        "comc": 2.25,
-        "pricecharting": 2.38
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2019/Pokemon_Sun__Moon_-_Unified_Minds_-_Base/160/Naganadel_GX/14631249",
-        "url": "https://www.pricecharting.com/game/pokemon-unified-minds/naganadel-gx-160",
+        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_Shadowless/44/Bulbasaur/9973225/Ungraded/COMC/EX-NM",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set/bulbasaur-shadowless-44",
         "comc": 2.0,
-        "pricecharting": 2.56
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2014/Pokemon_XY_-_Phantom_Forces_-_Base/62/Dialga_EX/10535496",
-        "url": "https://www.pricecharting.com/game/pokemon-phantom-forces/dialga-ex-62",
-        "comc": 2.0,
-        "pricecharting": 4.5
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2015/Pokemon_XY_-_Roaring_Skies_-_Base/101/Ultra_Rare_-_Latios_EX/11669579/Ungraded/COMC/G-VG-EX",
-        "url": "https://www.pricecharting.com/game/pokemon-roaring-skies/latios-ex-101",
-        "comc": 8.25,
-        "pricecharting": 9.95
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2015/Pokemon_XY_-_Ancient_Origins_-_Base/42/Tyranitar_EX/10901943/Ungraded/COMC/G-VG-EX",
-        "url": "https://www.pricecharting.com/game/pokemon-ancient-origins/tyranitar-ex-42",
-        "comc": 2.25,
-        "pricecharting": 2.68
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2016/Pokémon_XY_-_Breakpoint_-_Base/115/M_Gyarados_EX_(Full_Art)/11734979/Ungraded/COMC/EX-NM",
-        "url": "https://www.pricecharting.com/game/pokemon-breakpoint/m-gyarados-ex-115",
-        "comc": 24.99,
-        "pricecharting": 26.1
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2016/Pokemon_XY_-_Fates_Collide_-_Base/14/Delphox_BREAK/11669427",
-        "url": "https://www.pricecharting.com/game/pokemon-fates-collide/delphox-break-14",
-        "comc": 1.65,
-        "pricecharting": 2.3
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2016/Pokemon_XY_-_Fates_Collide_-_Base/64/Genesect_EX/11708335",
-        "url": "https://www.pricecharting.com/game/pokemon-fates-collide/genesect-ex-64",
-        "comc": 1.65,
-        "pricecharting": 2.34
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2016/Pokémon_XY_-_Steam_Siege_-_Base/66/Yveltal_BREAK/12005965",
-        "url": "https://www.pricecharting.com/game/pokemon-steam-siege/yveltal-break-66",
-        "comc": 2.0,
-        "pricecharting": 3.61
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2016/Pokémon_XY_-_Steam_Siege_-_Base/26/Volcanion_EX/12149920",
-        "url": "https://www.pricecharting.com/game/pokemon-steam-siege/volcanion-ex-26",
-        "comc": 1.95,
-        "pricecharting": 2.17
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2016/Pokémon_XY_Evolutions_-_20th_Anniversary_Base_-_Reverse_Foil/34/Gyarados/11992292",
-        "url": "https://www.pricecharting.com/game/pokemon-evolutions/gyarados-reverse-holo-34",
-        "comc": 2.45,
-        "pricecharting": 4.76
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2016/Pokémon_XY_Evolutions_-_20th_Anniversary_Base/15/Holo_-_Ninetales/11992302",
-        "url": "https://www.pricecharting.com/game/pokemon-evolutions/ninetales-15",
-        "comc": 2.0,
-        "pricecharting": 3.57
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2016/Pokémon_XY_Evolutions_-_20th_Anniversary_Base_-_Reverse_Foil/53/Mew/11993242",
-        "url": "https://www.pricecharting.com/game/pokemon-evolutions/mew-reverse-holo-53",
-        "comc": 1.73,
         "pricecharting": 5.97
     },
     {
-        "guid": "https://www.comc.com/Cards/Pokemon/2016/Pokémon_XY_Evolutions_-_20th_Anniversary_Base_-_Reverse_Foil/35/Pikachu/12054039",
-        "url": "https://www.pricecharting.com/game/pokemon-evolutions/pikachu-reverse-holo-35",
+        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base/70/Clefairy_Doll/4340310/Ungraded/COMC/EX-NM",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set/clefairy-doll-70",
         "comc": 1.65,
-        "pricecharting": 3.23
+        "pricecharting": 2.85
     },
     {
-        "guid": "https://www.comc.com/Cards/Pokemon/2022/Pokémon_Sword__Shield_-_Lost_Origin_-_Base_-_Reverse_Foil/088/Machamp/22117760",
-        "url": "https://www.pricecharting.com/game/pokemon-lost-origin/machamp-reverse-holo-88",
-        "comc": 1.55,
-        "pricecharting": 1.86
+        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_Shadowless/22/Pidgeotto/6241721/Ungraded/COMC/EX-NM",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set/pidgeotto-shadowless-22",
+        "comc": 1.74,
+        "pricecharting": 9.99
     },
     {
-        "guid": "https://www.comc.com/Cards/Pokemon/2022/Pokémon_Sword__Shield_-_Lost_Origin_-_Base_-_Reverse_Foil/122/Hoopa/24521739",
-        "url": "https://www.pricecharting.com/game/pokemon-lost-origin/hoopa-reverse-holo-122",
-        "comc": 1.55,
-        "pricecharting": 1.56
+        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_Shadowless/71/Computer_Search/9234830/Ungraded/COMC/EX-NM",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set/computer-search-shadowless-71",
+        "comc": 2.74,
+        "pricecharting": 5.99
     },
     {
-        "guid": "https://www.comc.com/Cards/Pokemon/2021/Pokémon_Sword__Shield_-_Evolving_Skies_-_Base/092/Full_Art_-_Lycanroc_VMAX/17528395",
-        "url": "https://www.pricecharting.com/game/pokemon-evolving-skies/lycanroc-vmax-92",
-        "comc": 1.85,
+        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_Shadowless/93/Gust_of_Wind/10473176/Ungraded/COMC/EX-NM",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set/gust-of-wind-shadowless-93",
+        "comc": 1.74,
+        "pricecharting": 1.93
+    },
+    {
+        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_Shadowless/25/Dewgong/10473192/Ungraded/COMC/EX-NM",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set/dewgong-shadowless-25",
+        "comc": 2.24,
+        "pricecharting": 2.57
+    },
+    {
+        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base/78/Scoop_Up/4340316/Ungraded/COMC/EX-NM",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set/scoop-up-78",
+        "comc": 2.24,
+        "pricecharting": 5.0
+    },
+    {
+        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_Shadowless/26/Dratini/6241717/Ungraded/COMC/EX-NM",
+        "url": "https://www.pricecharting.com/game/pokemon-base-set/dratini-shadowless-26",
+        "comc": 2.05,
+        "pricecharting": 3.52
+    },
+    {
+        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Jungle_-_Base/28/Vaporeon/4340492/Ungraded/COMC/G-VG-EX",
+        "url": "https://www.pricecharting.com/game/pokemon-jungle/vaporeon-28",
+        "comc": 2.74,
+        "pricecharting": 4.79
+    },
+    {
+        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Jungle_-_Base/26/Scyther/4340490/Ungraded/COMC/EX-NM",
+        "url": "https://www.pricecharting.com/game/pokemon-jungle/scyther-26",
+        "comc": 2.74,
+        "pricecharting": 5.0
+    },
+    {
+        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Jungle_-_Base_-_1st_Edition/51/Eevee/4340452/Ungraded/COMC/G-VG-EX",
+        "url": "https://www.pricecharting.com/game/pokemon-jungle/eevee-1st-edition-51",
+        "comc": 1.99,
+        "pricecharting": 2.92
+    },
+    {
+        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Jungle_-_Base_-_1st_Edition/61/Rhyhorn/4340462/Ungraded/COMC/G-VG-EX",
+        "url": "https://www.pricecharting.com/game/pokemon-jungle/rhyhorn-1st-edition-61",
+        "comc": 1.74,
+        "pricecharting": 3.09
+    },
+    {
+        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Fossil_-_Base/17/Articuno/4340606/Ungraded/COMC/G-VG-EX",
+        "url": "https://www.pricecharting.com/game/pokemon-fossil/articuno-17",
+        "comc": 1.65,
+        "pricecharting": 5.0
+    },
+    {
+        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Fossil_-_Base_-_1st_Edition/53/Psyduck/4340580/Ungraded/COMC/EX-NM",
+        "url": "https://www.pricecharting.com/game/pokemon-fossil/psyduck-1st-edition-53",
+        "comc": 1.75,
         "pricecharting": 2.0
     },
     {
-        "guid": "https://www.comc.com/Cards/Pokemon/2021/Pokémon_Sword__Shield_-_Evolving_Skies_-_Base/094/Umbreon_V/17537781",
-        "url": "https://www.pricecharting.com/game/pokemon-evolving-skies/umbreon-v-94",
-        "comc": 2.99,
-        "pricecharting": 3.29
+        "guid": "https://www.comc.com/Cards/Pokemon/2004/Pokémon_-_EX_Team_Rocket_Returns_-_Base/18/Dark_Sandslash/4346606/Ungraded/COMC/G-VG-EX",
+        "url": "https://www.pricecharting.com/game/pokemon-team-rocket-returns/dark-sandslash-18",
+        "comc": 1.74,
+        "pricecharting": 6.9
     },
     {
-        "guid": "https://www.comc.com/Cards/Pokemon/2017/Pokémon_Sun__Moon_-_Guardians_Rising_-_Base/115/Drampa_GX/12287883",
-        "url": "https://www.pricecharting.com/game/pokemon-sun-moon-guardians-rising-base/drampa-gx-115",
-        "comc": 1.65,
-        "pricecharting": 1.9
+        "guid": "https://www.comc.com/Cards/Pokemon/2000/Pokemon_Neo_Genesis_-_Base_-_1st_Edition/81/Totodile/7973758/Ungraded/COMC/G-VG-EX",
+        "url": "https://www.pricecharting.com/game/pokemon-neo-genesis/totodile-1st-edition-81",
+        "comc": 2.24,
+        "pricecharting": 3.74
     },
     {
-        "guid": "https://www.comc.com/Cards/Pokemon/2017/Pokémon_Sun__Moon_-_Guardians_Rising_-_Base/22/Alolan_Ninetales_GX/12287897",
-        "url": "https://www.pricecharting.com/game/pokemon-sun-moon-guardians-rising-base/alolan-ninetales-gx-22",
-        "comc": 2.15,
-        "pricecharting": 3.05
+        "guid": "https://www.comc.com/Cards/Pokemon/2000/Pokemon_Neo_Genesis_-_Base_-_1st_Edition/58/Girafarig/11215395/Ungraded/COMC/EX-NM",
+        "url": "https://www.pricecharting.com/game/pokemon-neo-genesis/girafarig-1st-edition-58",
+        "comc": 1.75,
+        "pricecharting": 2.54
+    },
+    {
+        "guid": "https://www.comc.com/Cards/Pokemon/2000/Pokemon_Neo_Genesis_-_Base_-_1st_Edition/78/Sunkern/7973762/Ungraded/COMC/EX-NM",
+        "url": "https://www.pricecharting.com/game/pokemon-neo-genesis/sunkern-1st-edition-78",
+        "comc": 2.25,
+        "pricecharting": 2.81
+    },
+    {
+        "guid": "https://www.comc.com/Cards/Pokemon/2010/Pokémon_HeartGold__SoulSilver_-_Unleashed_-_Base/26/Tyranitar/7440607",
+        "url": "https://www.pricecharting.com/game/pokemon-unleashed/tyranitar-26",
+        "comc": 3.25,
+        "pricecharting": 4.64
+    },
+    {
+        "guid": "https://www.comc.com/Cards/Pokemon/2010/Pokémon_HeartGold__SoulSilver_-_Undaunted_-_Base/82/Holo_Rare_-_Houndoom_(Prime)/9235500/Ungraded/COMC/EX-NM",
+        "url": "https://www.pricecharting.com/game/pokemon-undaunted/houndoom-82",
+        "comc": 5.0,
+        "pricecharting": 16.15
+    },
+    {
+        "guid": "https://www.comc.com/Cards/Pokemon/2023-Current/Pokemon_Scarlet__Violet_-_Paldean_Fates_-_Base/156/Shiny_Rare_-_Drifblim/25127740",
+        "url": "https://www.pricecharting.com/game/pokemon-paldean-fates/drifblim-156",
+        "comc": 1.53,
+        "pricecharting": 2.83
+    },
+    {
+        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokémon_Scarlet__Violet_-_Obsidian_Flames_(OBF)_-_Base/164/Pidgeot_ex/23918048",
+        "url": "https://www.pricecharting.com/game/pokemon-obsidian-flames/pidgeot-ex-164",
+        "comc": 4.05,
+        "pricecharting": 6.48
+    },
+    {
+        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokémon_Scarlet__Violet_-_Obsidian_Flames_(OBF)_-_Base/229/Hyper_Rare_-_Artazon/23918119",
+        "url": "https://www.pricecharting.com/game/pokemon-obsidian-flames/artazon-229",
+        "comc": 2.25,
+        "pricecharting": 3.12
+    },
+    {
+        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokémon_Scarlet__Violet_-_Obsidian_Flames_(OBF)_-_Base/199/Illustration_Rare_-_Ninetales/23918197",
+        "url": "https://www.pricecharting.com/game/pokemon-obsidian-flames/ninetales-199",
+        "comc": 7.75,
+        "pricecharting": 11.12
+    },
+    {
+        "guid": "https://www.comc.com/Cards/Pokemon/2023-Current/Pokémon_Scarlet__Violet_-_SVP_Black_Star_-_Promos/022/Pelipper/23811825",
+        "url": "https://www.pricecharting.com/game/pokemon-promo/pelipper-22",
+        "comc": 3.06,
+        "pricecharting": 3.61
+    },
+    {
+        "guid": "https://www.comc.com/Cards/Pokemon/2023-Current/Pokémon_Scarlet__Violet_-_SVP_Black_Star_-_Promos/065/Scream_Tail/24477413",
+        "url": "https://www.pricecharting.com/game/pokemon-promo/scream-tail-65",
+        "comc": 1.7,
+        "pricecharting": 3.54
+    },
+    {
+        "guid": "https://www.comc.com/Cards/Pokemon/2015/Pokémon_XY_-_BREAKthrough_-_Base/50/Raichu_BREAK/11913913",
+        "url": "https://www.pricecharting.com/game/pokemon-xy-breakthrough-base/raichu-break-50",
+        "comc": 4.25,
+        "pricecharting": 4.87
+    },
+    {
+        "guid": "https://www.comc.com/Cards/Pokemon/2017/Pokemon_Sun__Moon_-_Burning_Shadows_-_Base/17/Golisopod_GX/12487181",
+        "url": "https://www.pricecharting.com/game/pokemon-sun-moon-burning-shadows-base/golisopod-gx-17",
+        "comc": 1.85,
+        "pricecharting": 1.96
+    },
+    {
+        "guid": "https://www.comc.com/Cards/Pokemon/2015/Pokémon_XY_-_BREAKthrough_-_Base_-_Reverse_Foil/49/Raichu/14080060",
+        "url": "https://www.pricecharting.com/game/pokemon-xy-breakthrough-base/raichu-reverse-holo-49",
+        "comc": 2.05,
+        "pricecharting": 3.09
     }
 ]
