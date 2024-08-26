@@ -1,12 +1,5 @@
 [
     {
-        "guid": "https://www.comc.com/Cards/Pokemon/2006/Pokémon_EX_-_Dragon_Frontiers_-_Expansion_Set_Base_-_Reverse_Foil/42/Vibrava/4348304/Ungraded/COMC/EX-NM",
-        "url": "https://www.pricecharting.com/game/pokemon-dragon-frontiers/vibrava-reverse-holo-42",
-        "comc": 1.25,
-        "pricecharting": 5.9,
-        "difference": 78.8135593220339
-    },
-    {
         "guid": "https://www.comc.com/Cards/Pokemon/2010/Pokémon_HeartGold__SoulSilver_-_Undaunted_-_Base/82/Holo_Rare_-_Houndoom_(Prime)/9235500/Ungraded/COMC/EX-NM",
         "url": "https://www.pricecharting.com/game/pokemon-undaunted/houndoom-82",
         "comc": 5.0,
@@ -14,80 +7,10 @@
         "difference": 69.04024767801857
     },
     {
-        "guid": "https://www.comc.com/Cards/Pokemon/2024/Pokemon_Scarlet__Violet_-_Temporal_Forces_-_Base_-_Reverse_Foil/146/Eri/25867098",
-        "url": "https://www.pricecharting.com/game/pokemon-temporal-forces/eri-reverse-holo-146",
-        "comc": 0.6,
-        "pricecharting": 1.58,
-        "difference": 62.02531645569621
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_151_(MEWEN)_-_Base_-_Reverse_Foil/111/Rhyhorn/24133774",
-        "url": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/rhyhorn-reverse-holo-111",
-        "comc": 0.7,
-        "pricecharting": 1.75,
-        "difference": 60.0
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2022/Pokémon_Sword__Shield_-_Dark_Phantasma_(s10a)_-_Base_-_Japanese/055/Hisuian_Goodra/23127566",
-        "url": "https://www.pricecharting.com/game/pokemon-sword-shield-dark-phantasma-base-japanese/hisuian-goodra-55",
-        "comc": 0.68,
-        "pricecharting": 1.63,
-        "difference": 58.282208588957054
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2007/Pokémon_Diamond__Pearl_-_Mysterious_Treasures_-_Base_-_Reverse_Foil/68/Vigoroth/5751929/Ungraded/COMC/EX-NM",
-        "url": "https://www.pricecharting.com/game/pokemon-mysterious-treasures/vigoroth-reverse-holo-68",
-        "comc": 1.25,
-        "pricecharting": 2.75,
-        "difference": 54.54545454545454
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2020/Pokémon_Sword__Shield_-_Shiny_Star_V_(s4a)_-_Base_-_Japanese/041/Inteleon/16476933",
-        "url": "https://www.pricecharting.com/game/pokemon-sword-shield-shiny-star-v-base-japanese/inteleon-41",
-        "comc": 0.75,
-        "pricecharting": 1.45,
-        "difference": 48.275862068965516
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2024/Pokemon_Scarlet__Violet_-_Temporal_Forces_-_Base/062/Iron_Thorns/25457045",
-        "url": "https://www.pricecharting.com/game/pokemon-temporal-forces/iron-thorns-62",
-        "comc": 1.05,
-        "pricecharting": 1.69,
-        "difference": 37.869822485207095
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2022/Pokémon_Sword__Shield_-_Battle_Region_(s9a)_-_Base_-_Japanese_Reverse_Foil/067/Jubilife_Village/21417430",
-        "url": "https://www.pricecharting.com/game/pokemon-sword-shield-battle-region-base-japanese/jubilife-village-reverse-holo-67",
-        "comc": 0.93,
-        "pricecharting": 1.39,
-        "difference": 33.09352517985611
-    },
-    {
         "guid": "https://www.comc.com/Cards/Pokemon/2010/Pokémon_HeartGold__SoulSilver_-_Unleashed_-_Base/26/Tyranitar/7440607",
         "url": "https://www.pricecharting.com/game/pokemon-unleashed/tyranitar-26",
         "comc": 3.25,
         "pricecharting": 4.64,
         "difference": 29.95689655172413
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2024/Pokemon_Scarlet__Violet_-_Temporal_Forces_-_Base/129/Dudunsparce/25370331",
-        "url": "https://www.pricecharting.com/game/pokemon-temporal-forces/dudunsparce-129",
-        "comc": 1.1,
-        "pricecharting": 1.43,
-        "difference": 23.076923076923066
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2024/Pokemon_Scarlet__Violet_-_Twilight_Masquerade_-_Base/024/Teal_Mask_Ogerpon/26005189",
-        "url": "https://www.pricecharting.com/game/pokemon-twilight-masquerade/teal-mask-ogerpon-24",
-        "comc": 1.05,
-        "pricecharting": 1.19,
-        "difference": 11.764705882352935
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_Paradox_Rift_(PAREN)_-_Base_-_Reverse_Foil/158/Iron_Jugulis/25179080",
-        "url": "https://www.pricecharting.com/game/pokemon-paradox-rift/iron-jugulis-reverse-holo-158",
-        "comc": 1.25,
-        "pricecharting": 1.29,
-        "difference": 3.1007751937984525
     }
 ]
