@@ -3,11 +3,13 @@ import requests
 from datetime import datetime
 import random
 import shutil
+from number_worth import scrape_comc
 
-
-# Aktualisierte Liste der URLs, die XML-Daten liefern
-urls = [
-    "https://www.comc.com/SearchFeed?SportID=-13&SubSearch=Base+Set+-japanese+-italian+-meiji+-topps&ListingFormat=b&GradeAction=Ungraded&Path=Cards%2fPokemon&Sort%3dr",
+# Check if scrape_comc is True
+if scrape_comc:
+    # Aktualisierte Liste der URLs, die XML-Daten liefern
+    urls = [
+        "https://www.comc.com/SearchFeed?SportID=-13&SubSearch=Base+Set+-japanese+-italian+-meiji+-topps&ListingFormat=b&GradeAction=Ungraded&Path=Cards%2fPokemon&Sort%3dr",
     "https://www.comc.com/SearchFeed?SportID=-13&SubSearch=Jungle+-japanese+-italian+-meiji+-topps&ListingFormat=b&GradeAction=Ungraded&Path=Cards%2fPokemon&Sort%3dr",
     "https://www.comc.com/SearchFeed?SportID=-13&SubSearch=Wizards+of+the+Coast+Promos+-japanese+-italian+-meiji+-topps&ListingFormat=b&GradeAction=Ungraded&Path=Cards%2fPokemon&Sort%3dr",
     "https://www.comc.com/SearchFeed?SportID=-13&SubSearch=Fossil+-japanese+-italian+-meiji+-topps&ListingFormat=b&GradeAction=Ungraded&Path=Cards%2fPokemon&Sort%3dr",
@@ -85,67 +87,66 @@ urls = [
     "https://www.comc.com/SearchFeed?SportID=-13&Team=407940&TeamPath=Pokemon%2fMega_Pokemon%2fc407940&SubSearch=-thai+-russian+-japanese+-italian+-meiji+-topps&ListingFormat=b&GradeAction=Ungraded&Sort%3dr"
 ]
 
-def fetch_xml(url):
-    """Lädt die XML-Daten von der URL herunter und gibt sie zurück."""
-    try:
-        response = requests.get(url)
-        response.raise_for_status()  # Überprüft, ob der Request erfolgreich war
-        return response.content
-    except requests.RequestException as e:
-        print(f"Fehler beim Abrufen der URL {url}: {e}")
-        return None
+    def fetch_xml(url):
+        """Lädt die XML-Daten von der URL herunter und gibt sie zurück."""
+        try:
+            response = requests.get(url)
+            response.raise_for_status()  # Überprüft, ob der Request erfolgreich war
+            return response.content
+        except requests.RequestException as e:
+            print(f"Fehler beim Abrufen der URL {url}: {e}")
+            return None
 
-def save_to_file(filename, data):
-    """Speichert die Daten in einer Datei."""
-    try:
-        with open(filename, 'wb') as file:
-            file.write(data)
-        print(f"Gespeichert: {filename}")
-    except IOError as e:
-        print(f"Fehler beim Speichern der Datei {filename}: {e}")
+    def save_to_file(filename, data):
+        """Speichert die Daten in einer Datei."""
+        try:
+            with open(filename, 'wb') as file:
+                file.write(data)
+            print(f"Gespeichert: {filename}")
+        except IOError as e:
+            print(f"Fehler beim Speichern der Datei {filename}: {e}")
 
-def generate_unique_filename():
-    """Generiert einen Dateinamen basierend auf Datum, Zeit und einer Zufallszahl."""
-    # Erhalte die aktuelle Zeit
-    now = datetime.now()
-    date_str = now.strftime("%d-%m-%y")  # z.B. 02-08-24
-    time_str = now.strftime("%H-%M-%S")  # z.B. 17-36-45
-    # Generiere eine zufällige Zahl
-    random_number = random.randint(1000, 9999)
-    # Setze den Dateinamen zusammen
-    return f"{date_str}_{time_str}_{random_number}.xml"
+    def generate_unique_filename():
+        """Generiert einen Dateinamen basierend auf Datum, Zeit und einer Zufallszahl."""
+        # Erhalte die aktuelle Zeit
+        now = datetime.now()
+        date_str = now.strftime("%d-%m-%y")  # z.B. 02-08-24
+        time_str = now.strftime("%H-%M-%S")  # z.B. 17-36-45
+        # Generiere eine zufällige Zahl
+        random_number = random.randint(1000, 9999)
+        # Setze den Dateinamen zusammen
+        return f"{date_str}_{time_str}_{random_number}.xml"
 
-def clear_directory(directory):
-    """Löscht alle Dateien im angegebenen Verzeichnis."""
-    try:
-        if os.path.exists(directory):
-            shutil.rmtree(directory)  # Löscht das Verzeichnis und seinen Inhalt
-            os.makedirs(directory)  # Erstellt das Verzeichnis erneut
-            print(f"Verzeichnis '{directory}' wurde geleert.")
-        else:
-            os.makedirs(directory)  # Erstellt das Verzeichnis, wenn es nicht existiert
-            print(f"Verzeichnis '{directory}' wurde erstellt.")
-    except Exception as e:
-        print(f"Fehler beim Leeren des Verzeichnisses '{directory}': {e}")
+    def clear_directory(directory):
+        """Löscht alle Dateien im angegebenen Verzeichnis."""
+        try:
+            if os.path.exists(directory):
+                shutil.rmtree(directory)  # Löscht das Verzeichnis und seinen Inhalt
+                os.makedirs(directory)  # Erstellt das Verzeichnis erneut
+                print(f"Verzeichnis '{directory}' wurde geleert.")
+            else:
+                os.makedirs(directory)  # Erstellt das Verzeichnis, wenn es nicht existiert
+                print(f"Verzeichnis '{directory}' wurde erstellt.")
+        except Exception as e:
+            print(f"Fehler beim Leeren des Verzeichnisses '{directory}': {e}")
 
+    def main():
+        # Verzeichnis vorbereiten
+        directory = os.path.join(os.path.dirname(__file__), 'dumb')
+        clear_directory(directory)
 
-
-def main():
-    # Verzeichnis vorbereiten
-    directory = os.path.join(os.path.dirname(__file__), 'dumb')
-    clear_directory(directory)
-
-    for url in urls:
-        # Generiere einen einzigartigen Dateinamen
-        file_name = generate_unique_filename()
-        file_path = os.path.join(directory, file_name)
-        
-        # Lade die XML-Daten herunter
-        xml_data = fetch_xml(url)
-        if xml_data:
-            # Speichere die XML-Daten in einer Datei
-            save_to_file(file_path, xml_data)
-
+        for url in urls:
+            # Generiere einen einzigartigen Dateinamen
+            file_name = generate_unique_filename()
+            file_path = os.path.join(directory, file_name)
             
-if __name__ == "__main__":
-    main()
+            # Lade die XML-Daten herunter
+            xml_data = fetch_xml(url)
+            if xml_data:
+                # Speichere die XML-Daten in einer Datei
+                save_to_file(file_path, xml_data)
+
+    if __name__ == "__main__":
+        main()
+else:
+    print("Script is not running because scrape_comc is False")

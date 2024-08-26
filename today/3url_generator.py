@@ -144,6 +144,7 @@ def verarbeite_urls(input_dateipfad, output_dateipfad):
         url = url.replace("pokemon-platinum-base","pokemon-platinum")
         url = url.replace("palkia-12","palkia-g-12")
         url = url.replace("-1999-2000","")
+        url = url.replace("pokemon-sword-shield-champions-path-base","pokemon-champions-path")
         
         
 

@@ -2,6 +2,8 @@ import xml.etree.ElementTree as ET
 import os
 import json
 import re
+from number_worth import price_cart
+
 
 def extract_card_info_from_description(description, guid):
     # Sale Price extrahieren
@@ -78,7 +80,7 @@ def extract_guids_from_file(xml_file):
         sale_price, card_number, cleaned_card_name = extract_card_info_from_description(description, guid)
         
         # Speichere die Karte nur, wenn der Kartennamen nicht "N/A" und der Sale-Preis über 2.00 USD ist
-        if cleaned_card_name != "N/A" and sale_price > 1.5:
+        if cleaned_card_name != "N/A" and sale_price > price_cart:
             card_info = {
                 'guid': guid,
                 'salePrice': sale_price,

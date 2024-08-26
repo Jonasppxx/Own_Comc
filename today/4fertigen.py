@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup
 import time
 import sys
 import os
+from number_worth import fertigen_waitingtime
 
 def fetch_price(url):
     """Holt den aktuellen Preis von der angegebenen URL."""
@@ -53,8 +54,8 @@ def process_json_file(json_file):
                     errors += 1
                     error_urls.append(url)  # Speichern der URL direkt
 
-                # Warte 2 Sekunden bevor die nächste URL überprüft wird
-                time.sleep(1.5)
+                # Warte "fertigen_waitingtime" Sekunden bevor die nächste URL überprüft wird
+                time.sleep(fertigen_waitingtime)
 
                 # Live-Update der Statusanzeige
                 sys.stdout.write(f"\rProcessed: {checked_urls}/{total_urls} URLs | Errors: {errors}")
