@@ -13,8 +13,6 @@ def verarbeite_urls(input_dateipfad, output_dateipfad):
         url = url.lower()  # Klein machen 
         url = url.strip()  # Entferne eventuelle Leerzeichen und Zeilenumbrüche
         url = url.replace("https://www.comc.com/cards/pokemon/", "https://www.pricecharting.com/game/")
- 
-
         parts = url.split("/") #in die verschiedenen unterteilen
         positions_to_remove = [4,8,9,10,11]  #die die gelöscht werden müssen 
 
@@ -50,15 +48,9 @@ def verarbeite_urls(input_dateipfad, output_dateipfad):
         url = url.replace("impostor","imposter")
 
 
-        
         url = re.sub(r'\(.*?\)|\[.*?\]|\{.*?\}', '', url)
 
         url = url.replace("--","-")
-
-
-        
-        
-        
 
         if '1st-edition' in url:
             # Verwende einen regulären Ausdruck, um "1st-edition" zwischen den letzten zwei Segmenten einzufügen
