@@ -1,4 +1,53 @@
 {
+    "Ivysaur #30": {
+        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_Shadowless/30/Ivysaur/6241713",
+        "salePrice": 3.58,
+        "cardNumber": "30",
+        "cardName": "Ivysaur",
+        "pubDate": "Sun, 01 Sep  2024 04:25:13 GMT"
+    },
+    "Bulbasaur #44": {
+        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_Shadowless/44/Bulbasaur/9973225",
+        "salePrice": 2.41,
+        "cardNumber": "44",
+        "cardName": "Bulbasaur",
+        "pubDate": "Sun, 01 Sep  2024 04:25:02 GMT"
+    },
+    "Beedrill #17": {
+        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_Shadowless/17/Beedrill/10473189/Ungraded/COMC/EX-NM",
+        "salePrice": 4.75,
+        "cardNumber": "17",
+        "cardName": "Beedrill",
+        "pubDate": "Sun, 01 Sep  2024 04:24:38 GMT"
+    },
+    "Togetic #11": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2006/Pokémon_EX_-_Dragon_Frontiers_-_Expansion_Set_Base/11/Togetic/4348072",
+        "salePrice": 12.25,
+        "cardNumber": "11",
+        "cardName": "Togetic",
+        "pubDate": "Sat, 31 Aug  2024 11:31:11 GMT"
+    },
+    "Mantyke #55": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2007/Pokémon_-_Diamond__Pearl_-_Base_Set/55/Mantyke/4348559",
+        "salePrice": 20.25,
+        "cardNumber": "55",
+        "cardName": "Mantyke",
+        "pubDate": "Sat, 31 Aug  2024 11:29:53 GMT"
+    },
+    "Charmeleon #24": {
+        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_Shadowless/24/Charmeleon/8505367",
+        "salePrice": 1.75,
+        "cardNumber": "24",
+        "cardName": "Charmeleon",
+        "pubDate": "Sat, 31 Aug  2024 11:18:24 GMT"
+    },
+    "Charmander #46": {
+        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_Shadowless/46/Charmander/10473185",
+        "salePrice": 2.0,
+        "cardNumber": "46",
+        "cardName": "Charmander",
+        "pubDate": "Sat, 31 Aug  2024 11:18:07 GMT"
+    },
     "Empoleon #120": {
         "guid": "https://www.comc.com/Cards/Pokemon/2007/Pokémon_-_Diamond__Pearl_-_Base_Set/120/Empoleon/4348624/Ungraded/COMC/EX-NM",
         "salePrice": 7.25,
@@ -6,292 +55,12 @@
         "cardName": "Empoleon",
         "pubDate": "Sat, 31 Aug  2024 08:32:42 GMT"
     },
-    "SuperEnergyRemoval #79": {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_German_1st_Edition/79/Super_Energy_Removal/4342879/Ungraded/COMC/EX-NM",
-        "salePrice": 5.25,
-        "cardNumber": "79",
-        "cardName": "SuperEnergyRemoval",
-        "pubDate": "Fri, 30 Aug  2024 17:59:56 GMT"
-    },
-    "PokemonBreeder #76": {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_German_1st_Edition/76/Pokemon_Breeder/5503313/Ungraded/COMC/EX-NM",
-        "salePrice": 5.25,
-        "cardNumber": "76",
-        "cardName": "PokemonBreeder",
-        "pubDate": "Fri, 30 Aug  2024 17:59:55 GMT"
-    },
-    "Arcanine #23": {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_German_1st_Edition/23/Arcanine/9973226/Ungraded/COMC/EX-NM",
-        "salePrice": 5.25,
-        "cardNumber": "23",
-        "cardName": "Arcanine",
-        "pubDate": "Fri, 30 Aug  2024 17:59:55 GMT"
-    },
-    "Staryu #65": {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_German_1st_Edition/65/Staryu/9973228/Ungraded/COMC/EX-NM",
-        "salePrice": 5.25,
-        "cardNumber": "65",
-        "cardName": "Staryu",
-        "pubDate": "Fri, 30 Aug  2024 17:59:54 GMT"
-    },
-    "WaterEnergy #102": {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_German_1st_Edition/102/Water_Energy/10778111/Ungraded/COMC/EX-NM",
-        "salePrice": 5.25,
-        "cardNumber": "102",
-        "cardName": "WaterEnergy",
-        "pubDate": "Fri, 30 Aug  2024 17:59:54 GMT"
-    },
-    "Revive #89": {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_German_1st_Edition/89/Revive/11597220/Ungraded/COMC/EX-NM",
-        "salePrice": 5.25,
-        "cardNumber": "89",
-        "cardName": "Revive",
-        "pubDate": "Fri, 30 Aug  2024 17:59:54 GMT"
-    },
-    "GustofWind #93": {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_German_1st_Edition/93/Gust_of_Wind/11597221/Ungraded/COMC/EX-NM",
-        "salePrice": 5.25,
-        "cardNumber": "93",
-        "cardName": "GustofWind",
-        "pubDate": "Fri, 30 Aug  2024 17:59:54 GMT"
-    },
-    "Bill #91": {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_German_1st_Edition/91/Bill/11597222/Ungraded/COMC/EX-NM",
-        "salePrice": 2.0,
-        "cardNumber": "91",
-        "cardName": "Bill",
-        "pubDate": "Fri, 30 Aug  2024 17:59:53 GMT"
-    },
-    "Diglett #47": {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_German_1st_Edition/47/Diglett/11670799/Ungraded/COMC/EX-NM",
-        "salePrice": 5.25,
-        "cardNumber": "47",
-        "cardName": "Diglett",
-        "pubDate": "Fri, 30 Aug  2024 17:59:53 GMT"
-    },
-    "Haunter #29": {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_German_1st_Edition/29/Haunter/11707948/Ungraded/COMC/EX-NM",
-        "salePrice": 5.25,
-        "cardNumber": "29",
-        "cardName": "Haunter",
-        "pubDate": "Fri, 30 Aug  2024 17:59:52 GMT"
-    },
-    "Seel #41": {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_German_1st_Edition/41/Seel/12273394/Ungraded/COMC/EX-NM",
-        "salePrice": 5.25,
-        "cardNumber": "41",
-        "cardName": "Seel",
-        "pubDate": "Fri, 30 Aug  2024 17:59:17 GMT"
-    },
-    "Poliwhirl #38": {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_German_1st_Edition/38/Poliwhirl/12273395/Ungraded/COMC/EX-NM",
-        "salePrice": 5.25,
-        "cardNumber": "38",
-        "cardName": "Poliwhirl",
-        "pubDate": "Fri, 30 Aug  2024 17:59:17 GMT"
-    },
-    "Poliwag #59": {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_German_1st_Edition/59/Poliwag/12273401/Ungraded/COMC/EX-NM",
-        "salePrice": 5.25,
-        "cardNumber": "59",
-        "cardName": "Poliwag",
-        "pubDate": "Fri, 30 Aug  2024 17:59:17 GMT"
-    },
-    "Gastly #50": {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_German_1st_Edition/50/Gastly/12273402/Ungraded/COMC/EX-NM",
-        "salePrice": 5.25,
-        "cardNumber": "50",
-        "cardName": "Gastly",
-        "pubDate": "Fri, 30 Aug  2024 17:59:17 GMT"
-    },
-    "Voltorb #67": {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_German_1st_Edition/67/Voltorb/12273404/Ungraded/COMC/EX-NM",
-        "salePrice": 1.56,
-        "cardNumber": "67",
-        "cardName": "Voltorb",
-        "pubDate": "Fri, 30 Aug  2024 17:59:16 GMT"
-    },
-    "Tangela #66": {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_German_1st_Edition/66/Tangela/12273408/Ungraded/COMC/EX-NM",
-        "salePrice": 5.25,
-        "cardNumber": "66",
-        "cardName": "Tangela",
-        "pubDate": "Fri, 30 Aug  2024 17:59:16 GMT"
-    },
-    "Ponyta #60": {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_German_1st_Edition/60/Ponyta/12273409/Ungraded/COMC/EX-NM",
-        "salePrice": 5.25,
-        "cardNumber": "60",
-        "cardName": "Ponyta",
-        "pubDate": "Fri, 30 Aug  2024 17:59:16 GMT"
-    },
-    "ImpostorProfessorOak #73": {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_German_1st_Edition/73/Impostor_Professor_Oak/12273417/Ungraded/COMC/EX-NM",
-        "salePrice": 5.24,
-        "cardNumber": "73",
-        "cardName": "ImpostorProfessorOak",
-        "pubDate": "Fri, 30 Aug  2024 17:59:15 GMT"
-    },
-    "FireEnergy #98": {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_German_1st_Edition/98/Fire_Energy/12273420/Ungraded/COMC/EX-NM",
-        "salePrice": 5.25,
-        "cardNumber": "98",
-        "cardName": "FireEnergy",
-        "pubDate": "Fri, 30 Aug  2024 17:59:15 GMT"
-    },
-    "Dewgong #25": {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_German_1st_Edition/25/Dewgong/12445134/Ungraded/COMC/EX-NM",
-        "salePrice": 5.25,
-        "cardNumber": "25",
-        "cardName": "Dewgong",
-        "pubDate": "Fri, 30 Aug  2024 17:59:14 GMT"
-    },
-    "Weedle #69": {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_German_1st_Edition/69/Weedle/12445135/Ungraded/COMC/EX-NM",
-        "salePrice": 5.25,
-        "cardNumber": "69",
-        "cardName": "Weedle",
-        "pubDate": "Fri, 30 Aug  2024 17:59:14 GMT"
-    },
-    "FullHeal #82": {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_German_1st_Edition/82/Full_Heal/12445137/Ungraded/COMC/EX-NM",
-        "salePrice": 5.25,
-        "cardNumber": "82",
-        "cardName": "FullHeal",
-        "pubDate": "Fri, 30 Aug  2024 17:59:14 GMT"
-    },
-    "PlusPower #84": {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_German_1st_Edition/84/PlusPower/12445138/Ungraded/COMC/EX-NM",
-        "salePrice": 5.25,
-        "cardNumber": "84",
-        "cardName": "PlusPower",
-        "pubDate": "Fri, 30 Aug  2024 17:59:13 GMT"
-    },
-    "PokemonCenter #85": {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_German_1st_Edition/85/Pokemon_Center/12445139/Ungraded/COMC/EX-NM",
-        "salePrice": 5.25,
-        "cardNumber": "85",
-        "cardName": "PokemonCenter",
-        "pubDate": "Fri, 30 Aug  2024 17:59:12 GMT"
-    },
-    "Pokedex #87": {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_German_1st_Edition/87/Pokedex/12445141/Ungraded/COMC/EX-NM",
-        "salePrice": 5.25,
-        "cardNumber": "87",
-        "cardName": "Pokedex",
-        "pubDate": "Fri, 30 Aug  2024 17:59:12 GMT"
-    },
-    "DoubleColorlessEnergy #96": {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_German_1st_Edition/96/Double_Colorless_Energy/12445143/Ungraded/COMC/EX-NM",
-        "salePrice": 5.25,
-        "cardNumber": "96",
-        "cardName": "DoubleColorlessEnergy",
-        "pubDate": "Fri, 30 Aug  2024 17:59:12 GMT"
-    },
-    "Rattata #61": {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_German_1st_Edition/61/Rattata/12445144/Ungraded/COMC/EX-NM",
-        "salePrice": 5.25,
-        "cardNumber": "61",
-        "cardName": "Rattata",
-        "pubDate": "Fri, 30 Aug  2024 17:59:11 GMT"
-    },
-    "Starmie #64": {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_German_1st_Edition/64/Starmie/12445145/Ungraded/COMC/EX-NM",
-        "salePrice": 5.25,
-        "cardNumber": "64",
-        "cardName": "Starmie",
-        "pubDate": "Fri, 30 Aug  2024 17:59:11 GMT"
-    },
-    "Kadabra #32": {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_German_1st_Edition/32/Kadabra/12445148/Ungraded/COMC/EX-NM",
-        "salePrice": 5.25,
-        "cardNumber": "32",
-        "cardName": "Kadabra",
-        "pubDate": "Fri, 30 Aug  2024 17:59:11 GMT"
-    },
-    "Drowzee #49": {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_German_1st_Edition/49/Drowzee/12445151/Ungraded/COMC/EX-NM",
-        "salePrice": 5.25,
-        "cardNumber": "49",
-        "cardName": "Drowzee",
-        "pubDate": "Fri, 30 Aug  2024 17:59:10 GMT"
-    },
-    "Koffing #51": {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_German_1st_Edition/51/Koffing/12445152/Ungraded/COMC/EX-NM",
-        "salePrice": 5.25,
-        "cardNumber": "51",
-        "cardName": "Koffing",
-        "pubDate": "Fri, 30 Aug  2024 17:59:10 GMT"
-    },
-    "Magnemite #53": {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_German_1st_Edition/53/Magnemite/12445154/Ungraded/COMC/EX-NM",
-        "salePrice": 5.25,
-        "cardNumber": "53",
-        "cardName": "Magnemite",
-        "pubDate": "Fri, 30 Aug  2024 17:59:10 GMT"
-    },
-    "Metapod #54": {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_German_1st_Edition/54/Metapod/12445155/Ungraded/COMC/EX-NM",
-        "salePrice": 5.25,
-        "cardNumber": "54",
-        "cardName": "Metapod",
-        "pubDate": "Fri, 30 Aug  2024 17:59:09 GMT"
-    },
-    "LightningEnergy #100": {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_German_1st_Edition/100/Lightning_Energy/13485207/Ungraded/COMC/EX-NM",
-        "salePrice": 5.25,
-        "cardNumber": "100",
-        "cardName": "LightningEnergy",
-        "pubDate": "Fri, 30 Aug  2024 17:59:08 GMT"
-    },
-    "PsychicEnergy #101": {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_German_1st_Edition/101/Psychic_Energy/13485209/Ungraded/COMC/EX-NM",
-        "salePrice": 5.25,
-        "cardNumber": "101",
-        "cardName": "PsychicEnergy",
-        "pubDate": "Fri, 30 Aug  2024 17:59:08 GMT"
-    },
-    "Electrode #21": {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_German_1st_Edition/21/Electrode/14706096/Ungraded/COMC/EX-NM",
-        "salePrice": 5.25,
-        "cardNumber": "21",
-        "cardName": "Electrode",
-        "pubDate": "Fri, 30 Aug  2024 17:59:07 GMT"
-    },
-    "Defender #80": {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_German_1st_Edition/80/Defender/12445142",
-        "salePrice": 5.25,
-        "cardNumber": "80",
-        "cardName": "Defender",
-        "pubDate": "Fri, 30 Aug  2024 17:58:56 GMT"
-    },
-    "Dragonair #22": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2000/Pokemon_Base_Set_2_-_Base/22/Dragonair/4341293/Ungraded/COMC/EX-NM",
-        "salePrice": 1.75,
-        "cardNumber": "22",
-        "cardName": "Dragonair",
-        "pubDate": "Fri, 30 Aug  2024 13:41:11 GMT"
-    },
-    "Dugtrio #23": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2000/Pokemon_Base_Set_2_-_Base/23/Dugtrio/4341294/Ungraded/COMC/EX-NM",
-        "salePrice": 1.74,
-        "cardNumber": "23",
-        "cardName": "Dugtrio",
-        "pubDate": "Fri, 30 Aug  2024 13:41:08 GMT"
-    },
-    "Ivysaur #44": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2000/Pokemon_Base_Set_2_-_Base/44/Ivysaur/4341315/Ungraded/COMC/EX-NM",
-        "salePrice": 1.15,
-        "cardNumber": "44",
-        "cardName": "Ivysaur",
-        "pubDate": "Fri, 30 Aug  2024 13:40:43 GMT"
-    },
-    "Kakuna #47": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2000/Pokemon_Base_Set_2_-_Base/47/Kakuna/4341318/Ungraded/COMC/EX-NM",
-        "salePrice": 1.24,
-        "cardNumber": "47",
-        "cardName": "Kakuna",
-        "pubDate": "Fri, 30 Aug  2024 13:40:41 GMT"
+    "Holo-Flareon #3": {
+        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Jungle_-_Base/3/Holo_-_Flareon/5681933",
+        "salePrice": 26.85,
+        "cardNumber": "3",
+        "cardName": "Holo-Flareon",
+        "pubDate": "Sat, 31 Aug  2024 13:25:30 GMT"
     },
     "Pinsir #25": {
         "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Jungle_-_Base/25/Pinsir/4340489",
@@ -300,19 +69,33 @@
         "cardName": "Pinsir",
         "pubDate": "Sat, 31 Aug  2024 02:34:47 GMT"
     },
-    "Holo-Nidoqueen #7": {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Jungle_-_Base/7/Holo_-_Nidoqueen/5681937/Ungraded/COMC/EX-NM",
-        "salePrice": 10.24,
-        "cardNumber": "7",
-        "cardName": "Holo-Nidoqueen",
-        "pubDate": "Fri, 30 Aug  2024 13:43:29 GMT"
+    "Mewtwo #3": {
+        "guid": "https://www.comc.com/Cards/Pokemon/1999-2003/Pokemon_Wizards_of_the_Coast_-_Exclusive_Black_Star_Promos/3/Mewtwo_(Pokemon_The_First_Movie)/5713992",
+        "salePrice": 8.24,
+        "cardNumber": "3",
+        "cardName": "Mewtwo",
+        "pubDate": "Sat, 31 Aug  2024 14:36:10 GMT"
     },
-    "Golem #36": {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Fossil_-_Base_-_1st_Edition/36/Golem/4340563",
-        "salePrice": 1.75,
-        "cardNumber": "36",
-        "cardName": "Golem",
-        "pubDate": "Fri, 30 Aug  2024 17:59:06 GMT"
+    "DarkMachoke #40": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2000/Pokemon_Team_Rocket_-_Base_-_1st_Edition/40/Dark_Machoke/4341553",
+        "salePrice": 1.73,
+        "cardNumber": "40",
+        "cardName": "DarkMachoke",
+        "pubDate": "Sat, 31 Aug  2024 14:36:02 GMT"
+    },
+    "Erika'sDratini #42": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2000/Pokemon_-_Gym_Heroes_-_Base_-_Unlimited/42/Erikas_Dratini/4341991",
+        "salePrice": 1.25,
+        "cardNumber": "42",
+        "cardName": "Erika'sDratini",
+        "pubDate": "Sat, 31 Aug  2024 13:49:17 GMT"
+    },
+    "NidoranM #83": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2002/Pokemon_Legendary_Collection_-_Base_-_Reverse_Foil/83/Nidoran_M/4344676/Ungraded/COMC/G-VG-EX",
+        "salePrice": 44.99,
+        "cardNumber": "83",
+        "cardName": "NidoranM",
+        "pubDate": "Sat, 31 Aug  2024 16:13:37 GMT"
     },
     "Cubone #72": {
         "guid": "https://www.comc.com/Cards/Pokemon/2002/Pokemon_e-Card_Series_-_Aquapolis_-_Base_-_Reverse_Foil/72/Cubone/22759420",
@@ -321,47 +104,138 @@
         "cardName": "Cubone",
         "pubDate": "Sat, 31 Aug  2024 04:39:48 GMT"
     },
-    "Typhlosion #64": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2002/Pokemon_e-Card_Series_-_Expedition_-_Base_-_German_Reverse_Foil/64/Typhlosion/26377620/Ungraded/COMC/EX-NM",
-        "salePrice": 19.99,
-        "cardNumber": "64",
-        "cardName": "Typhlosion",
-        "pubDate": "Fri, 30 Aug  2024 17:59:07 GMT"
+    "Feraligatr #47": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2002/Pokemon_e-Card_Series_-_Expedition_-_Base/47/Feraligatr/4344481",
+        "salePrice": 20.25,
+        "cardNumber": "47",
+        "cardName": "Feraligatr",
+        "pubDate": "Sat, 31 Aug  2024 11:32:37 GMT"
     },
-    "Gengar #40": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2009/Pokémon_Platinum_-_Rising_Rivals_-_Base/40/Gengar/16172852/Ungraded/COMC/EX-NM",
-        "salePrice": 1.44,
-        "cardNumber": "40",
-        "cardName": "Gengar",
-        "pubDate": "Fri, 30 Aug  2024 13:42:40 GMT"
-    },
-    "Jynx #37": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2014/Pokemon_XY_-_Furious_Fists_-_Base_-_Reverse_Foil/37/Jynx/12235195/Ungraded/COMC/EX-NM",
+    "Jynx #83": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2002/Pokemon_e-Card_Series_-_Expedition_-_Base/83/Jynx/4344517",
         "salePrice": 10.25,
-        "cardNumber": "37",
+        "cardNumber": "83",
         "cardName": "Jynx",
-        "pubDate": "Fri, 30 Aug  2024 22:30:11 GMT"
+        "pubDate": "Sat, 31 Aug  2024 11:32:29 GMT"
     },
-    "Wailmer #37": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2022/Pokémon_Sword__Shield_-_Silver_Tempest_-_Base_-_Reverse_Foil/037/Wailmer/23151132",
-        "salePrice": 1.25,
-        "cardNumber": "37",
-        "cardName": "Wailmer",
-        "pubDate": "Fri, 30 Aug  2024 02:01:07 GMT"
+    "Squirtle #112": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2007/Pokémon_Diamond__Pearl_-_Secret_Wonders_-_Base/112/Squirtle/4348975",
+        "salePrice": 2.23,
+        "cardNumber": "112",
+        "cardName": "Squirtle",
+        "pubDate": "Sat, 31 Aug  2024 11:28:23 GMT"
     },
-    "Rhydon #94": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2019/Pokémon_Sun__Moon_-_Unbroken_Bonds_-_Base/94/Rhydon/14632003",
-        "salePrice": 2.75,
-        "cardNumber": "94",
-        "cardName": "Rhydon",
-        "pubDate": "Fri, 30 Aug  2024 22:34:12 GMT"
+    "Croconaw #44": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2007/Pokémon_Diamond__Pearl_-_Mysterious_Treasures_-_Base_-_Reverse_Foil/44/Croconaw/5751905",
+        "salePrice": 7.75,
+        "cardNumber": "44",
+        "cardName": "Croconaw",
+        "pubDate": "Sat, 31 Aug  2024 11:28:14 GMT"
     },
-    "Larvitar #114": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2018/Pokemon_Sun__Moon_-_Lost_Thunder_-_Base/114/Larvitar/17630087",
-        "salePrice": 2.25,
-        "cardNumber": "114",
-        "cardName": "Larvitar",
-        "pubDate": "Fri, 30 Aug  2024 22:31:51 GMT"
+    "Holo-Blastoise #2": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2009/Pokémon_-_Platinum_-_Base/2/Holo_-_Blastoise/5850587",
+        "salePrice": 14.0,
+        "cardNumber": "2",
+        "cardName": "Holo-Blastoise",
+        "pubDate": "Sat, 31 Aug  2024 11:18:53 GMT"
+    },
+    "Blastoise #31": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2012/Pokemon_Black__White_-_Boundaries_Crossed_-_Base/31/Blastoise/6214471",
+        "salePrice": 4.25,
+        "cardNumber": "31",
+        "cardName": "Blastoise",
+        "pubDate": "Sat, 31 Aug  2024 11:18:33 GMT"
+    },
+    "ChaoticSwell #187": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2019/Pokémon_Sun__Moon_-_Cosmic_Eclipse_-_Base_-_Reverse_Foil/187/Chaotic_Swell/15202564/Ungraded/COMC/EX-NM",
+        "salePrice": 4.24,
+        "cardNumber": "187",
+        "cardName": "ChaoticSwell",
+        "pubDate": "Sat, 31 Aug  2024 13:15:40 GMT"
+    },
+    "ResetStamp #253": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2019/Pokemon_Sun__Moon_-_Unified_Minds_-_Base/253/Secret_-_Reset_Stamp/14631343",
+        "salePrice": 5.25,
+        "cardNumber": "253",
+        "cardName": "ResetStamp",
+        "pubDate": "Sun, 01 Sep  2024 04:17:49 GMT"
+    },
+    "CelesteelaGX #208": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2019/Pokémon_Sun__Moon_-_Unbroken_Bonds_-_Base/208/Full_Art_-_Celesteela_GX/14613281",
+        "salePrice": 4.24,
+        "cardNumber": "208",
+        "cardName": "CelesteelaGX",
+        "pubDate": "Sun, 01 Sep  2024 04:17:35 GMT"
+    },
+    "Molayne #212": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2019/Pokémon_Sun__Moon_-_Unbroken_Bonds_-_Base/212/Full_Art_-_Molayne/15203619",
+        "salePrice": 5.25,
+        "cardNumber": "212",
+        "cardName": "Molayne",
+        "pubDate": "Sun, 01 Sep  2024 04:17:17 GMT"
+    },
+    "PikachuZekromGX #33": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2019-2020/Pokémon_Sun__Moon_-_Team_Up_-_Base/33/Pikachu__Zekrom_GX/14249926",
+        "salePrice": 10.0,
+        "cardNumber": "33",
+        "cardName": "PikachuZekromGX",
+        "pubDate": "Sun, 01 Sep  2024 07:39:08 GMT"
+    },
+    "Nidoking #59": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2019-2020/Pokémon_Sun__Moon_-_Team_Up_-_Base_-_Reverse_Foil/59/Nidoking/16672645",
+        "salePrice": 4.85,
+        "cardNumber": "59",
+        "cardName": "Nidoking",
+        "pubDate": "Sun, 01 Sep  2024 04:16:47 GMT"
+    },
+    "Umbreon #120": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2018/Pokemon_Sun__Moon_-_Lost_Thunder_-_Base/120/Umbreon/14508393",
+        "salePrice": 5.05,
+        "cardNumber": "120",
+        "cardName": "Umbreon",
+        "pubDate": "Sun, 01 Sep  2024 04:18:27 GMT"
+    },
+    "Espeon #89": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2018/Pokemon_Sun__Moon_-_Lost_Thunder_-_Base_-_Reverse_Foil/89/Espeon/16521837",
+        "salePrice": 6.25,
+        "cardNumber": "89",
+        "cardName": "Espeon",
+        "pubDate": "Sun, 01 Sep  2024 04:17:06 GMT"
+    },
+    "FieryFlint #76": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2018/Pokémon_Sun__Moon_-_Dragon_Majesty_-_Base/76/Full_Art_-_Fiery_Flint/17073848",
+        "salePrice": 5.25,
+        "cardNumber": "76",
+        "cardName": "FieryFlint",
+        "pubDate": "Sun, 01 Sep  2024 04:22:57 GMT"
+    },
+    "Croagunk #63": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2018/Pokémon_Sun__Moon_-_Forbidden_Light_-_Base_-_Reverse_Foil/63/Croagunk/25920795/Ungraded/COMC/EX-NM",
+        "salePrice": 5.24,
+        "cardNumber": "63",
+        "cardName": "Croagunk",
+        "pubDate": "Sat, 31 Aug  2024 13:13:57 GMT"
+    },
+    "EnergySwitch #109": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2015/Pokemon_XY_-_Roaring_Skies_-_Base/109/Secret_-_Energy_Switch/12358892",
+        "salePrice": 18.25,
+        "cardNumber": "109",
+        "cardName": "EnergySwitch",
+        "pubDate": "Sun, 01 Sep  2024 04:24:18 GMT"
+    },
+    "Holo-Gengar #35": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2016/Pokémon_XY_-_Generations_-_Base/35/Holo_-_Gengar/11876462",
+        "salePrice": 4.0,
+        "cardNumber": "35",
+        "cardName": "Holo-Gengar",
+        "pubDate": "Sun, 01 Sep  2024 04:19:31 GMT"
+    },
+    "Ho-OhEX #92": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2016/Pokémon_XY_-_Breakpoint_-_Base/92/Ho-Oh_EX/12653383",
+        "salePrice": 4.5,
+        "cardNumber": "92",
+        "cardName": "Ho-OhEX",
+        "pubDate": "Sun, 01 Sep  2024 04:18:45 GMT"
     },
     "GreninjaBREAK #41": {
         "guid": "https://www.comc.com/Cards/Pokemon/2016/Pokémon_XY_-_Breakpoint_-_Base/41/Greninja_BREAK/12657704",
@@ -377,26 +251,12 @@
         "cardName": "DarknessEnergy",
         "pubDate": "Sat, 31 Aug  2024 06:19:37 GMT"
     },
-    "Holo-Machamp #59": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2016/Pokémon_XY_Evolutions_-_20th_Anniversary_Base/59/Holo_-_Machamp/11992312",
-        "salePrice": 1.2,
-        "cardNumber": "59",
-        "cardName": "Holo-Machamp",
-        "pubDate": "Fri, 30 Aug  2024 22:36:07 GMT"
-    },
-    "WaterEnergy #93": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2016/Pokémon_XY_Evolutions_-_20th_Anniversary_Base_-_Reverse_Foil/93/Water_Energy/12363386",
-        "salePrice": 2.15,
-        "cardNumber": "93",
-        "cardName": "WaterEnergy",
-        "pubDate": "Fri, 30 Aug  2024 17:58:07 GMT"
-    },
-    "Arcanine #18": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2016/Pokémon_XY_Evolutions_-_20th_Anniversary_Base_-_Reverse_Foil/18/Arcanine/11820314",
-        "salePrice": 2.24,
-        "cardNumber": "18",
-        "cardName": "Arcanine",
-        "pubDate": "Fri, 30 Aug  2024 17:58:02 GMT"
+    "Spectrier #81": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2022/Pokémon_Sword__Shield_-_Lost_Origin_-_Base_-_Reverse_Foil/081/Spectrier/23715111/Ungraded/COMC/EX-NM",
+        "salePrice": 4.24,
+        "cardNumber": "81",
+        "cardName": "Spectrier",
+        "pubDate": "Sat, 31 Aug  2024 13:16:44 GMT"
     },
     "GiratinaVSTAR #201": {
         "guid": "https://www.comc.com/Cards/Pokemon/2022/Pokémon_Sword__Shield_-_Lost_Origin_-_Base/201/Secret_-_Giratina_VSTAR/21642636",
@@ -412,33 +272,12 @@
         "cardName": "KyuremVMAX",
         "pubDate": "Sat, 31 Aug  2024 01:35:50 GMT"
     },
-    "Sableye #70": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2022/Pokémon_Sword__Shield_-_Lost_Origin_-_Base_-_Reverse_Foil/070/Sableye/23714020",
-        "salePrice": 1.18,
-        "cardNumber": "70",
-        "cardName": "Sableye",
-        "pubDate": "Sat, 31 Aug  2024 00:33:26 GMT"
-    },
-    "Goomy #132": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2022/Pokémon_Sword__Shield_-_Lost_Origin_-_Base_-_Reverse_Foil/132/Goomy/21730802",
-        "salePrice": 1.25,
-        "cardNumber": "132",
-        "cardName": "Goomy",
-        "pubDate": "Fri, 30 Aug  2024 02:00:13 GMT"
-    },
     "Glaceon #38": {
         "guid": "https://www.comc.com/Cards/Pokemon/2022/Pokémon_Sword__Shield_-_Astral_Radiance_-_Base_-_Reverse_Foil/038/Glaceon/21704860",
-        "salePrice": 1.25,
+        "salePrice": 1.2,
         "cardNumber": "38",
         "cardName": "Glaceon",
         "pubDate": "Sat, 31 Aug  2024 00:32:02 GMT"
-    },
-    "Drifblim #64": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2022/Pokémon_Sword__Shield_-_Astral_Radiance_-_Base/064/Drifblim/24304688",
-        "salePrice": 1.13,
-        "cardNumber": "64",
-        "cardName": "Drifblim",
-        "pubDate": "Fri, 30 Aug  2024 03:31:06 GMT"
     },
     "PikachuV #157": {
         "guid": "https://www.comc.com/Cards/Pokemon/2022/Pokémon_Sword__Shield_-_Brilliant_Stars_-_Base/157/Full_Art_-_Pikachu_V/18908592",
@@ -449,28 +288,28 @@
     },
     "Hitmontop #72": {
         "guid": "https://www.comc.com/Cards/Pokemon/2022/Pokémon_Sword__Shield_-_Brilliant_Stars_-_Base_-_Reverse_Foil/072/Hitmontop/18774232",
-        "salePrice": 1.65,
+        "salePrice": 1.55,
         "cardNumber": "72",
         "cardName": "Hitmontop",
         "pubDate": "Sat, 31 Aug  2024 01:57:27 GMT"
     },
     "Grimmsnarl #94": {
         "guid": "https://www.comc.com/Cards/Pokemon/2022/Pokémon_Sword__Shield_-_Brilliant_Stars_-_Base/094/Grimmsnarl/18780749",
-        "salePrice": 1.4,
+        "salePrice": 1.3,
         "cardNumber": "94",
         "cardName": "Grimmsnarl",
         "pubDate": "Sat, 31 Aug  2024 01:57:09 GMT"
     },
     "DoubleTurboEnergy #151": {
         "guid": "https://www.comc.com/Cards/Pokemon/2022/Pokémon_Sword__Shield_-_Brilliant_Stars_-_Base/151/Double_Turbo_Energy/18880147",
-        "salePrice": 5.85,
+        "salePrice": 5.5,
         "cardNumber": "151",
         "cardName": "DoubleTurboEnergy",
         "pubDate": "Sat, 31 Aug  2024 01:56:58 GMT"
     },
     "Corphish #32": {
         "guid": "https://www.comc.com/Cards/Pokemon/2022/Pokémon_Sword__Shield_-_Brilliant_Stars_-_Base_-_Reverse_Foil/032/Corphish/23675259",
-        "salePrice": 1.55,
+        "salePrice": 1.5,
         "cardNumber": "32",
         "cardName": "Corphish",
         "pubDate": "Sat, 31 Aug  2024 01:54:31 GMT"
@@ -481,20 +320,6 @@
         "cardNumber": "135",
         "cardName": "ChoiceBelt",
         "pubDate": "Sat, 31 Aug  2024 01:54:22 GMT"
-    },
-    "Staraptor #119": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2022/Pokémon_Sword__Shield_-_Brilliant_Stars_-_Base/119/Staraptor/19726434",
-        "salePrice": 1.9,
-        "cardNumber": "119",
-        "cardName": "Staraptor",
-        "pubDate": "Fri, 30 Aug  2024 16:38:23 GMT"
-    },
-    "Fraxure #111": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2022/Pokémon_Sword__Shield_-_Brilliant_Stars_-_Base/111/Fraxure/24368437",
-        "salePrice": 5.1,
-        "cardNumber": "111",
-        "cardName": "Fraxure",
-        "pubDate": "Fri, 30 Aug  2024 16:24:05 GMT"
     },
     "BoltundVMAX #267": {
         "guid": "https://www.comc.com/Cards/Pokemon/2021/Pokemon_Sword__Shield_-_Fusion_Strike_-_Base/267/Secret_-_Boltund_VMAX/19744976",
@@ -510,37 +335,23 @@
         "cardName": "Snorlax",
         "pubDate": "Sat, 31 Aug  2024 00:32:18 GMT"
     },
-    "Morgrem #177": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2021/Pokemon_Sword__Shield_-_Fusion_Strike_-_Base_-_Reverse_Foil/177/Morgrem/22065597",
-        "salePrice": 1.95,
-        "cardNumber": "177",
-        "cardName": "Morgrem",
-        "pubDate": "Fri, 30 Aug  2024 22:24:05 GMT"
+    "Electabuzz #44": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2021/Pokémon_Sword__Shield_-_Battle_Styles_-_Base_-_Reverse_Foil/044/Electabuzz/17023564/Ungraded/COMC/EX-NM",
+        "salePrice": 4.24,
+        "cardNumber": "44",
+        "cardName": "Electabuzz",
+        "pubDate": "Sat, 31 Aug  2024 13:16:55 GMT"
     },
-    "Helioptile #98": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2021/Pokemon_Sword__Shield_-_Fusion_Strike_-_Base/098/Helioptile/18284632",
-        "salePrice": 1.55,
-        "cardNumber": "98",
-        "cardName": "Helioptile",
-        "pubDate": "Fri, 30 Aug  2024 03:38:26 GMT"
-    },
-    "Ninetales #31": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2021/Pokemon_Sword__Shield_-_Fusion_Strike_-_Base_-_Reverse_Foil/031/Ninetales/18385459",
-        "salePrice": 1.25,
-        "cardNumber": "31",
-        "cardName": "Ninetales",
-        "pubDate": "Fri, 30 Aug  2024 01:59:33 GMT"
-    },
-    "DhelmiseVMAX #10": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2021/Pokémon_Sword__Shield_-_Shining_Fates_-_Base/010/Dhelmise_VMAX/16772638",
-        "salePrice": 1.1,
-        "cardNumber": "10",
-        "cardName": "DhelmiseVMAX",
-        "pubDate": "Sat, 31 Aug  2024 02:27:23 GMT"
+    "Garbodor #111": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2020/Pokémon_Sword__Shield_-_Vivid_Voltage_-_Base/111/Garbodor/16487386",
+        "salePrice": 2.05,
+        "cardNumber": "111",
+        "cardName": "Garbodor",
+        "pubDate": "Sun, 01 Sep  2024 01:51:57 GMT"
     },
     "Chatot #139": {
         "guid": "https://www.comc.com/Cards/Pokemon/2020/Pokémon_Sword__Shield_-_Vivid_Voltage_-_Base/139/Chatot/16528843",
-        "salePrice": 1.38,
+        "salePrice": 2.05,
         "cardNumber": "139",
         "cardName": "Chatot",
         "pubDate": "Sat, 31 Aug  2024 01:59:38 GMT"
@@ -558,6 +369,41 @@
         "cardNumber": "199",
         "cardName": "Oranguru",
         "pubDate": "Sat, 31 Aug  2024 01:40:31 GMT"
+    },
+    "EternatusVMAX #65": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2020/Pokémon_Sword__Shield_-_Infinity_Zone_(s3)_-_Base_-_Japanese/065/Eternatus_VMAX/23177145",
+        "salePrice": 2.25,
+        "cardNumber": "65",
+        "cardName": "EternatusVMAX",
+        "pubDate": "Sun, 01 Sep  2024 15:37:46 GMT"
+    },
+    "MewtwoV #72": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2022/Pokémon_Sword__Shield_-_Pokemon_Go_-_Base/072/Ultra_Rare_-_Mewtwo_V/21642062",
+        "salePrice": 17.75,
+        "cardNumber": "72",
+        "cardName": "MewtwoV",
+        "pubDate": "Sat, 31 Aug  2024 14:09:32 GMT"
+    },
+    "CharizardV #18": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokémon_Sword__Shield_-_Crown_Zenith_-_Base/018/Charizard_V/22372827",
+        "salePrice": 9.25,
+        "cardNumber": "18",
+        "cardName": "CharizardV",
+        "pubDate": "Sat, 31 Aug  2024 14:08:38 GMT"
+    },
+    "CharacterRare-Snorlax #77": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2022/Pokémon_Sword__Shield_-_Dark_Phantasma_(s10a_T)_-_Base_-_Thai/077/Character_Rare_-_Snorlax/26381814",
+        "salePrice": 16.25,
+        "cardNumber": "77",
+        "cardName": "CharacterRare-Snorlax",
+        "pubDate": "Sat, 31 Aug  2024 11:34:06 GMT"
+    },
+    "LaprasVMAX #50": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2020/Pokemon_Sword__Shield_-_Base/050/Lapras_VMAX/16158001",
+        "salePrice": 3.25,
+        "cardNumber": "50",
+        "cardName": "LaprasVMAX",
+        "pubDate": "Sat, 31 Aug  2024 11:20:00 GMT"
     },
     "GalarianMr.Mime #18": {
         "guid": "https://www.comc.com/Cards/Pokemon/2020/Pokémon_Sword__Shield_-_VMAX_Rising_(s1a)_-_Base_-_Korean/018/Galarian_Mr_Mime/26381392",
@@ -643,13 +489,6 @@
         "cardName": "Archen",
         "pubDate": "Sat, 31 Aug  2024 02:59:58 GMT"
     },
-    "Armarouge #115": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023-Current/Pokemon_Scarlet__Violet_-_Paldean_Fates_-_Base/115/Shiny_Rare_-_Armarouge/25176022",
-        "salePrice": 2.16,
-        "cardNumber": "115",
-        "cardName": "Armarouge",
-        "pubDate": "Sat, 31 Aug  2024 04:34:43 GMT"
-    },
     "Gardevoirex #217": {
         "guid": "https://www.comc.com/Cards/Pokemon/2023-Current/Pokemon_Scarlet__Violet_-_Paldean_Fates_-_Base/217/Shiny_Ultra_Rare_-_Gardevoir_ex/25179908",
         "salePrice": 3.01,
@@ -664,12 +503,54 @@
         "cardName": "Toedscruelex",
         "pubDate": "Sat, 31 Aug  2024 04:34:30 GMT"
     },
-    "Tandemaus #73": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023-Current/Pokemon_Scarlet__Violet_-_Paldean_Fates_-_Base_-_Reverse_Foil/073/Tandemaus/25176014",
-        "salePrice": 1.1,
-        "cardNumber": "73",
-        "cardName": "Tandemaus",
-        "pubDate": "Fri, 30 Aug  2024 03:21:29 GMT"
+    "Dwebble #6": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_Paradox_Rift_(PAREN)_-_Base/006/Dwebble/24439694",
+        "salePrice": 1.25,
+        "cardNumber": "6",
+        "cardName": "Dwebble",
+        "pubDate": "Sun, 01 Sep  2024 01:51:32 GMT"
+    },
+    "Crocalor #24": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_Paradox_Rift_(PAREN)_-_Base/024/Crocalor/24439712",
+        "salePrice": 1.25,
+        "cardNumber": "24",
+        "cardName": "Crocalor",
+        "pubDate": "Sun, 01 Sep  2024 01:51:29 GMT"
+    },
+    "Remoraid #33": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_Paradox_Rift_(PAREN)_-_Base/033/Remoraid/24439721",
+        "salePrice": 1.24,
+        "cardNumber": "33",
+        "cardName": "Remoraid",
+        "pubDate": "Sun, 01 Sep  2024 01:51:27 GMT"
+    },
+    "Joltik #64": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_Paradox_Rift_(PAREN)_-_Base/064/Joltik/24439752",
+        "salePrice": 1.24,
+        "cardNumber": "64",
+        "cardName": "Joltik",
+        "pubDate": "Sun, 01 Sep  2024 01:51:24 GMT"
+    },
+    "Minior #99": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_Paradox_Rift_(PAREN)_-_Base/099/Minior/24439787",
+        "salePrice": 1.25,
+        "cardNumber": "99",
+        "cardName": "Minior",
+        "pubDate": "Sun, 01 Sep  2024 01:51:20 GMT"
+    },
+    "Loudred #149": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_Paradox_Rift_(PAREN)_-_Base/149/Loudred/24439837",
+        "salePrice": 1.25,
+        "cardNumber": "149",
+        "cardName": "Loudred",
+        "pubDate": "Sun, 01 Sep  2024 01:51:18 GMT"
+    },
+    "ProfessorSada'sVitality #170": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_Paradox_Rift_(PAREN)_-_Base/170/Professor_Sadas_Vitality/24439858",
+        "salePrice": 1.25,
+        "cardNumber": "170",
+        "cardName": "ProfessorSada'sVitality",
+        "pubDate": "Sun, 01 Sep  2024 01:51:14 GMT"
     },
     "Rika #258": {
         "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_Paradox_Rift_(PAREN)_-_Base/258/Special_Illustration_Rare_-_Rika/24439946",
@@ -692,23 +573,23 @@
         "cardName": "Aegislashex",
         "pubDate": "Sat, 31 Aug  2024 01:39:18 GMT"
     },
-    "Masquerain #2": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_Paradox_Rift_(PAREN)_-_Base_-_Reverse_Foil/002/Masquerain/24854298",
-        "salePrice": 1.31,
-        "cardNumber": "2",
-        "cardName": "Masquerain",
-        "pubDate": "Fri, 30 Aug  2024 03:22:50 GMT"
+    "Snorlax #143": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokémon_Scarlet__Violet_-_151_(sv2a_T)_-_Base_-_Thai/143/Snorlax/26381816",
+        "salePrice": 5.25,
+        "cardNumber": "143",
+        "cardName": "Snorlax",
+        "pubDate": "Sat, 31 Aug  2024 11:35:59 GMT"
     },
-    "Remoraid #33": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_Paradox_Rift_(PAREN)_-_Base_-_Reverse_Foil/033/Remoraid/24854301",
-        "salePrice": 1.68,
-        "cardNumber": "33",
-        "cardName": "Remoraid",
-        "pubDate": "Fri, 30 Aug  2024 03:22:40 GMT"
+    "Snorlax #181": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokémon_Scarlet__Violet_-_151_(sv2a_T)_-_Base_-_Thai/181/Art_Rare_-_Snorlax/26381818",
+        "salePrice": 16.25,
+        "cardNumber": "181",
+        "cardName": "Snorlax",
+        "pubDate": "Sat, 31 Aug  2024 11:33:32 GMT"
     },
     "Venusaurex #3": {
         "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_151_(MEWEN)_-_Base/003/Venusaur_ex/24063147",
-        "salePrice": 1.55,
+        "salePrice": 1.5,
         "cardNumber": "3",
         "cardName": "Venusaurex",
         "pubDate": "Sat, 31 Aug  2024 04:36:45 GMT"
@@ -727,40 +608,12 @@
         "cardName": "Erika'sInvitation",
         "pubDate": "Sat, 31 Aug  2024 04:35:40 GMT"
     },
-    "Mewex #53": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023-Current/Pokémon_Scarlet__Violet_-_SVP_Black_Star_-_Promos/053/Mew_ex_(151_Ultra-Premium_Collection)/24264606",
-        "salePrice": 3.87,
-        "cardNumber": "53",
-        "cardName": "Mewex",
-        "pubDate": "Fri, 30 Aug  2024 15:05:28 GMT"
-    },
-    "Haunter #93": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_151_(MEWEN)_-_Base/093/Haunter/24063238",
-        "salePrice": 1.15,
-        "cardNumber": "93",
-        "cardName": "Haunter",
-        "pubDate": "Fri, 30 Aug  2024 03:34:40 GMT"
-    },
-    "Exeggutor #103": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_151_(MEWEN)_-_Base/103/Exeggutor/24063248",
-        "salePrice": 5.25,
-        "cardNumber": "103",
-        "cardName": "Exeggutor",
-        "pubDate": "Fri, 30 Aug  2024 03:34:31 GMT"
-    },
-    "Hitmonlee #106": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_151_(MEWEN)_-_Base/106/Hitmonlee/24063251",
-        "salePrice": 5.25,
-        "cardNumber": "106",
-        "cardName": "Hitmonlee",
-        "pubDate": "Fri, 30 Aug  2024 03:34:24 GMT"
-    },
-    "Wartortle #8": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_151_(MEWEN)_-_Base/008/Wartortle/24149353",
-        "salePrice": 1.15,
-        "cardNumber": "8",
-        "cardName": "Wartortle",
-        "pubDate": "Fri, 30 Aug  2024 03:32:03 GMT"
+    "Varoom #155": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokémon_Scarlet__Violet_-_Obsidian_Flames_(OBF)_-_Base_-_Reverse_Foil/155/Varoom/24146709",
+        "salePrice": 5.24,
+        "cardNumber": "155",
+        "cardName": "Varoom",
+        "pubDate": "Sat, 31 Aug  2024 13:15:05 GMT"
     },
     "Charizardex #228": {
         "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokémon_Scarlet__Violet_-_Obsidian_Flames_(OBF)_-_Base/228/Hyper_Rare_-_Charizard_ex/23895834",
@@ -789,48 +642,6 @@
         "cardNumber": "214",
         "cardName": "Absolex",
         "pubDate": "Sat, 31 Aug  2024 03:19:48 GMT"
-    },
-    "Poppy #193": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokémon_Scarlet__Violet_-_Obsidian_Flames_(OBF)_-_Base/193/Poppy/24235652",
-        "salePrice": 5.25,
-        "cardNumber": "193",
-        "cardName": "Poppy",
-        "pubDate": "Fri, 30 Aug  2024 15:04:36 GMT"
-    },
-    "Camerupt #32": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokémon_Scarlet__Violet_-_Obsidian_Flames_(OBF)_-_Base/032/Camerupt/24235686",
-        "salePrice": 1.1,
-        "cardNumber": "32",
-        "cardName": "Camerupt",
-        "pubDate": "Fri, 30 Aug  2024 03:31:54 GMT"
-    },
-    "Tsareena #18": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokémon_Scarlet__Violet_-_Obsidian_Flames_(OBF)_-_Base_-_Reverse_Foil/018/Tsareena/24357304",
-        "salePrice": 5.25,
-        "cardNumber": "18",
-        "cardName": "Tsareena",
-        "pubDate": "Fri, 30 Aug  2024 03:30:35 GMT"
-    },
-    "Numel #31": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokémon_Scarlet__Violet_-_Obsidian_Flames_(OBF)_-_Base/031/Numel/24755718",
-        "salePrice": 1.3,
-        "cardNumber": "31",
-        "cardName": "Numel",
-        "pubDate": "Fri, 30 Aug  2024 03:23:34 GMT"
-    },
-    "Palpitoad #51": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokémon_Scarlet__Violet_-_Obsidian_Flames_(OBF)_-_Base_-_Reverse_Foil/051/Palpitoad/25011361",
-        "salePrice": 1.91,
-        "cardNumber": "51",
-        "cardName": "Palpitoad",
-        "pubDate": "Fri, 30 Aug  2024 03:22:00 GMT"
-    },
-    "Mawile #39": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023-Current/Pokémon_Scarlet__Violet_-_SVP_Black_Star_-_Promos/039/Mawile_(Obsidian_Flames_Battle_Box_Exclusive)/24798951",
-        "salePrice": 2.86,
-        "cardNumber": "39",
-        "cardName": "Mawile",
-        "pubDate": "Fri, 30 Aug  2024 03:11:28 GMT"
     },
     "Fuecoco #201": {
         "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_Paldea_Evolved_-_Base/201/Illustration_Rare_-_Fuecoco/23554076",
@@ -881,132 +692,6 @@
         "cardName": "Pawmo",
         "pubDate": "Sat, 31 Aug  2024 01:35:31 GMT"
     },
-    "Shroodle #144": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_Paldea_Evolved_-_Base_-_Reverse_Foil/144/Shroodle/25383582",
-        "salePrice": 5.25,
-        "cardNumber": "144",
-        "cardName": "Shroodle",
-        "pubDate": "Fri, 30 Aug  2024 16:45:12 GMT"
-    },
-    "Grusha #184": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_Paldea_Evolved_-_Base/184/Grusha/25559640",
-        "salePrice": 1.15,
-        "cardNumber": "184",
-        "cardName": "Grusha",
-        "pubDate": "Fri, 30 Aug  2024 16:44:53 GMT"
-    },
-    "Artazon #171": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_Paldea_Evolved_-_Base/171/Artazon/25970353",
-        "salePrice": 5.25,
-        "cardNumber": "171",
-        "cardName": "Artazon",
-        "pubDate": "Fri, 30 Aug  2024 16:40:23 GMT"
-    },
-    "SuperiorEnergyRetrieval #189": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_Paldea_Evolved_-_Base/189/Superior_Energy_Retrieval/25970364",
-        "salePrice": 5.25,
-        "cardNumber": "189",
-        "cardName": "SuperiorEnergyRetrieval",
-        "pubDate": "Fri, 30 Aug  2024 16:40:17 GMT"
-    },
-    "Maschiff #141": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_Paldea_Evolved_-_Base_-_Reverse_Foil/141/Maschiff/25970380",
-        "salePrice": 3.65,
-        "cardNumber": "141",
-        "cardName": "Maschiff",
-        "pubDate": "Fri, 30 Aug  2024 16:40:12 GMT"
-    },
-    "Naclstack #122": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_Paldea_Evolved_-_Base_-_Reverse_Foil/122/Naclstack/25011341",
-        "salePrice": 1.25,
-        "cardNumber": "122",
-        "cardName": "Naclstack",
-        "pubDate": "Fri, 30 Aug  2024 16:29:22 GMT"
-    },
-    "Frigibax #57": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_Paldea_Evolved_-_Base_-_Reverse_Foil/057/Frigibax/25011331",
-        "salePrice": 1.9,
-        "cardNumber": "57",
-        "cardName": "Frigibax",
-        "pubDate": "Fri, 30 Aug  2024 16:29:13 GMT"
-    },
-    "Rabsca #99": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_Paldea_Evolved_-_Base_-_Reverse_Foil/099/Rabsca/24965825",
-        "salePrice": 1.55,
-        "cardNumber": "99",
-        "cardName": "Rabsca",
-        "pubDate": "Fri, 30 Aug  2024 16:29:06 GMT"
-    },
-    "Pawmot #76": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_Paldea_Evolved_-_Base_-_Reverse_Foil/076/Pawmot/24788439",
-        "salePrice": 1.55,
-        "cardNumber": "76",
-        "cardName": "Pawmot",
-        "pubDate": "Fri, 30 Aug  2024 15:07:14 GMT"
-    },
-    "Pawmi #74": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_Paldea_Evolved_-_Base_-_Reverse_Foil/074/Pawmi/24305939",
-        "salePrice": 1.75,
-        "cardNumber": "74",
-        "cardName": "Pawmi",
-        "pubDate": "Fri, 30 Aug  2024 15:05:47 GMT"
-    },
-    "Shroodle #145": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_Paldea_Evolved_-_Base_-_Reverse_Foil/145/Shroodle/24273473",
-        "salePrice": 3.0,
-        "cardNumber": "145",
-        "cardName": "Shroodle",
-        "pubDate": "Fri, 30 Aug  2024 15:05:38 GMT"
-    },
-    "Raichu #64": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_Paldea_Evolved_-_Base_-_Reverse_Foil/064/Raichu/24102700",
-        "salePrice": 1.9,
-        "cardNumber": "64",
-        "cardName": "Raichu",
-        "pubDate": "Fri, 30 Aug  2024 15:04:28 GMT"
-    },
-    "Vigoroth #161": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_Paldea_Evolved_-_Base_-_Reverse_Foil/161/Vigoroth/24091195",
-        "salePrice": 1.12,
-        "cardNumber": "161",
-        "cardName": "Vigoroth",
-        "pubDate": "Fri, 30 Aug  2024 15:04:20 GMT"
-    },
-    "Slowpoke #85": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_Paldea_Evolved_-_Base_-_Reverse_Foil/085/Slowpoke/24091158",
-        "salePrice": 1.05,
-        "cardNumber": "85",
-        "cardName": "Slowpoke",
-        "pubDate": "Fri, 30 Aug  2024 15:03:54 GMT"
-    },
-    "Hoppip #1": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_Paldea_Evolved_-_Base_-_Reverse_Foil/001/Hoppip/24091106",
-        "salePrice": 1.53,
-        "cardNumber": "1",
-        "cardName": "Hoppip",
-        "pubDate": "Fri, 30 Aug  2024 15:03:49 GMT"
-    },
-    "Falinks #119": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_Paldea_Evolved_-_Base_-_Reverse_Foil/119/Falinks/23634875",
-        "salePrice": 1.12,
-        "cardNumber": "119",
-        "cardName": "Falinks",
-        "pubDate": "Fri, 30 Aug  2024 15:01:28 GMT"
-    },
-    "Eiscue #48": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_Paldea_Evolved_-_Base/048/Eiscue/25970298",
-        "salePrice": 5.25,
-        "cardNumber": "48",
-        "cardName": "Eiscue",
-        "pubDate": "Fri, 30 Aug  2024 03:18:35 GMT"
-    },
-    "Jigglypuff #83": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_Paldea_Evolved_-_Base_-_Reverse_Foil/083/Jigglypuff/23934572",
-        "salePrice": 1.1,
-        "cardNumber": "83",
-        "cardName": "Jigglypuff",
-        "pubDate": "Fri, 30 Aug  2024 02:01:47 GMT"
-    },
     "Luxrayex #68": {
         "guid": "https://www.comc.com/Cards/Pokemon/2024/Pokemon_Scarlet__Violet_-_Twilight_Masquerade_-_Base/068/Luxray_ex/26005226",
         "salePrice": 2.24,
@@ -1028,6 +713,62 @@
         "cardName": "Fezandipiti",
         "pubDate": "Sat, 31 Aug  2024 00:11:14 GMT"
     },
+    "Squawkabilly #162": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_(SV1EN)_-_Base/162/Squawkabilly/23674558",
+        "salePrice": 2.23,
+        "cardNumber": "162",
+        "cardName": "Squawkabilly",
+        "pubDate": "Sun, 01 Sep  2024 01:51:34 GMT"
+    },
+    "Cyclizar #96": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2023-Current/Pokémon_Scarlet__Violet_-_SVP_Black_Star_-_Promos_-_Portuguese/096/Cyclizar/26381797",
+        "salePrice": 5.25,
+        "cardNumber": "96",
+        "cardName": "Cyclizar",
+        "pubDate": "Sat, 31 Aug  2024 11:38:49 GMT"
+    },
+    "FlutterMane #78": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2024/Pokemon_Scarlet__Violet_-_Temporal_Forces_-_Base_-_Portuguese/078/Flutter_Mane/26381798",
+        "salePrice": 5.25,
+        "cardNumber": "78",
+        "cardName": "FlutterMane",
+        "pubDate": "Sat, 31 Aug  2024 11:37:29 GMT"
+    },
+    "Magcargo #29": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2024/Pokemon_Scarlet__Violet_-_Temporal_Forces_-_Base_-_Portuguese/029/Magcargo/26381799",
+        "salePrice": 3.25,
+        "cardNumber": "29",
+        "cardName": "Magcargo",
+        "pubDate": "Sat, 31 Aug  2024 11:37:22 GMT"
+    },
+    "Grotle #11": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2024/Pokemon_Scarlet__Violet_-_Temporal_Forces_-_Base_-_Portuguese_Reverse_Foil/011/Grotle/26381810",
+        "salePrice": 2.75,
+        "cardNumber": "11",
+        "cardName": "Grotle",
+        "pubDate": "Sat, 31 Aug  2024 11:37:15 GMT"
+    },
+    "Grubbin #18": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2024/Pokemon_Scarlet__Violet_-_Temporal_Forces_-_Base_-_Portuguese_Reverse_Foil/018/Grubbin/26381811",
+        "salePrice": 2.75,
+        "cardNumber": "18",
+        "cardName": "Grubbin",
+        "pubDate": "Sat, 31 Aug  2024 11:37:09 GMT"
+    },
+    "Finizen #48": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2024/Pokemon_Scarlet__Violet_-_Temporal_Forces_-_Base_-_Portuguese_Reverse_Foil/048/Finizen/26381812",
+        "salePrice": 2.75,
+        "cardNumber": "48",
+        "cardName": "Finizen",
+        "pubDate": "Sat, 31 Aug  2024 11:37:03 GMT"
+    },
+    "Meltan #116": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2024/Pokemon_Scarlet__Violet_-_Temporal_Forces_-_Base_-_Portuguese_Reverse_Foil/116/Meltan/26381813",
+        "salePrice": 2.75,
+        "cardNumber": "116",
+        "cardName": "Meltan",
+        "pubDate": "Sat, 31 Aug  2024 11:36:55 GMT"
+    },
     "Kingambit #220": {
         "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_(SV1EN)_-_Base/220/Illustration_Rare_-_Kingambit/22855413",
         "salePrice": 5.75,
@@ -1035,30 +776,9 @@
         "cardName": "Kingambit",
         "pubDate": "Sat, 31 Aug  2024 04:37:53 GMT"
     },
-    "Koraidonex #254": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_(SV1EN)_-_Base/254/Hyper_Rare_-_Koraidon_ex/22855421",
-        "salePrice": 3.86,
-        "cardNumber": "254",
-        "cardName": "Koraidonex",
-        "pubDate": "Sat, 31 Aug  2024 04:36:29 GMT"
-    },
-    "Professor'sResearch #240": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_(SV1EN)_-_Base/240/Ultra_Rare_-_Professors_Research_(Professor_Sada)/23144837",
-        "salePrice": 3.43,
-        "cardNumber": "240",
-        "cardName": "Professor'sResearch",
-        "pubDate": "Sat, 31 Aug  2024 04:36:24 GMT"
-    },
-    "Jacq #236": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_(SV1EN)_-_Base/236/Ultra_Rare_-_Jacq/23196147",
-        "salePrice": 1.31,
-        "cardNumber": "236",
-        "cardName": "Jacq",
-        "pubDate": "Sat, 31 Aug  2024 04:36:22 GMT"
-    },
     "Slowpoke #204": {
         "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_(SV1EN)_-_Base/204/Illustration_Rare_-_Slowpoke/23196668",
-        "salePrice": 5.05,
+        "salePrice": 6.25,
         "cardNumber": "204",
         "cardName": "Slowpoke",
         "pubDate": "Sat, 31 Aug  2024 04:36:19 GMT"
@@ -1189,453 +909,75 @@
         "cardName": "Revavroom",
         "pubDate": "Sat, 31 Aug  2024 00:11:35 GMT"
     },
-    "RoaringMoonex #67": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023-Current/Pokémon_Scarlet__Violet_-_SVP_Black_Star_-_Promos/067/Roaring_Moon_ex/25199929",
-        "salePrice": 5.25,
-        "cardNumber": "67",
-        "cardName": "RoaringMoonex",
-        "pubDate": "Fri, 30 Aug  2024 16:29:38 GMT"
-    },
-    "Murkrow #131": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_Trick_or_Trade_BOOster_Pack_-_Base/131/Murkrow/24788498",
-        "salePrice": 1.1,
-        "cardNumber": "131",
-        "cardName": "Murkrow",
-        "pubDate": "Fri, 30 Aug  2024 15:06:55 GMT"
-    },
-    "Skeledirgeex #34": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023-Current/Pokémon_Scarlet__Violet_-_SVP_Black_Star_-_Promos/034/Skeledirge_ex/24240800",
-        "salePrice": 1.3,
-        "cardNumber": "34",
-        "cardName": "Skeledirgeex",
-        "pubDate": "Fri, 30 Aug  2024 15:04:43 GMT"
-    },
-    "Dragalge #82": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokémon_Sword__Shield_-_Crown_Zenith_-_Base/082/Dragalge/23144846",
-        "salePrice": 1.45,
-        "cardNumber": "82",
-        "cardName": "Dragalge",
-        "pubDate": "Fri, 30 Aug  2024 16:24:37 GMT"
-    },
-    "Tauros #106": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokémon_Sword__Shield_-_Crown_Zenith_-_Base/106/Tauros/23427171",
-        "salePrice": 1.1,
-        "cardNumber": "106",
-        "cardName": "Tauros",
-        "pubDate": "Fri, 30 Aug  2024 16:24:31 GMT"
-    },
-    "Exeggcute #57": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokémon_Sword__Shield_-_Crown_Zenith_-_Base/057/Exeggcute/24465409",
-        "salePrice": 1.25,
-        "cardNumber": "57",
-        "cardName": "Exeggcute",
-        "pubDate": "Fri, 30 Aug  2024 16:23:57 GMT"
-    },
-    "Dusclops #63": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokémon_Sword__Shield_-_Crown_Zenith_-_Base/063/Dusclops/24465721",
-        "salePrice": 1.55,
-        "cardNumber": "63",
-        "cardName": "Dusclops",
-        "pubDate": "Fri, 30 Aug  2024 16:23:49 GMT"
-    },
-    "Enamorus #67": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokémon_Sword__Shield_-_Crown_Zenith_-_Base/067/Enamorus/24465728",
-        "salePrice": 1.55,
-        "cardNumber": "67",
-        "cardName": "Enamorus",
-        "pubDate": "Fri, 30 Aug  2024 16:23:34 GMT"
-    },
-    "Larvesta #24": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokémon_Sword__Shield_-_Crown_Zenith_-_Base/024/Larvesta/24465997",
-        "salePrice": 1.55,
-        "cardNumber": "24",
-        "cardName": "Larvesta",
-        "pubDate": "Fri, 30 Aug  2024 16:23:18 GMT"
-    },
-    "GalarianMeowth #84": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokémon_Sword__Shield_-_Crown_Zenith_-_Base/084/Galarian_Meowth/24466025",
-        "salePrice": 1.25,
-        "cardNumber": "84",
-        "cardName": "GalarianMeowth",
-        "pubDate": "Fri, 30 Aug  2024 16:23:05 GMT"
-    },
-    "Pawniard #92": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokémon_Sword__Shield_-_Crown_Zenith_-_Base/092/Pawniard/24466035",
-        "salePrice": 1.25,
-        "cardNumber": "92",
-        "cardName": "Pawniard",
-        "pubDate": "Fri, 30 Aug  2024 16:22:58 GMT"
-    },
-    "Shaymin #115": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokémon_Sword__Shield_-_Crown_Zenith_-_Base/115/Shaymin/24466040",
-        "salePrice": 1.25,
-        "cardNumber": "115",
-        "cardName": "Shaymin",
-        "pubDate": "Fri, 30 Aug  2024 16:22:52 GMT"
-    },
-    "Wooloo #121": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokémon_Sword__Shield_-_Crown_Zenith_-_Base/121/Wooloo/24466044",
-        "salePrice": 1.55,
-        "cardNumber": "121",
-        "cardName": "Wooloo",
-        "pubDate": "Fri, 30 Aug  2024 16:22:38 GMT"
-    },
-    "Rockruff #73": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokémon_Sword__Shield_-_Crown_Zenith_-_Base/073/Rockruff/24701058",
-        "salePrice": 1.25,
-        "cardNumber": "73",
-        "cardName": "Rockruff",
-        "pubDate": "Fri, 30 Aug  2024 16:22:25 GMT"
-    },
-    "Wailmer #31": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokémon_Sword__Shield_-_Crown_Zenith_-_Base_-_Reverse_Foil/031/Wailmer/25843682",
-        "salePrice": 1.4,
-        "cardNumber": "31",
-        "cardName": "Wailmer",
-        "pubDate": "Fri, 30 Aug  2024 16:22:17 GMT"
-    },
-    "Koffing #75": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokémon_Sword__Shield_-_Crown_Zenith_-_Base_-_Reverse_Foil/075/Koffing/25843686",
-        "salePrice": 5.25,
-        "cardNumber": "75",
-        "cardName": "Koffing",
-        "pubDate": "Fri, 30 Aug  2024 16:22:03 GMT"
-    },
-    "Shinx #39": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokémon_Sword__Shield_-_Crown_Zenith_-_Base/039/Shinx/24701082",
-        "salePrice": 1.25,
-        "cardNumber": "39",
-        "cardName": "Shinx",
-        "pubDate": "Fri, 30 Aug  2024 15:06:05 GMT"
-    },
-    "GalarianPerrserker #85": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokémon_Sword__Shield_-_Crown_Zenith_-_Base_-_Reverse_Foil/085/Galarian_Perrserker/24305943",
-        "salePrice": 1.75,
-        "cardNumber": "85",
-        "cardName": "GalarianPerrserker",
-        "pubDate": "Fri, 30 Aug  2024 03:30:58 GMT"
-    },
-    "Krokorok #79": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokémon_Sword__Shield_-_Crown_Zenith_-_Base/079/Krokorok/24701061",
-        "salePrice": 1.25,
-        "cardNumber": "79",
-        "cardName": "Krokorok",
-        "pubDate": "Fri, 30 Aug  2024 03:27:48 GMT"
-    },
-    "Gloom #2": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokémon_Sword__Shield_-_Crown_Zenith_-_Base/002/Gloom/25843447",
-        "salePrice": 5.25,
-        "cardNumber": "2",
-        "cardName": "Gloom",
-        "pubDate": "Fri, 30 Aug  2024 03:19:20 GMT"
-    },
-    "Eelektrik #48": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokémon_Sword__Shield_-_Crown_Zenith_-_Base/048/Eelektrik/25843458",
-        "salePrice": 5.25,
-        "cardNumber": "48",
-        "cardName": "Eelektrik",
-        "pubDate": "Fri, 30 Aug  2024 03:19:12 GMT"
-    },
-    "Holo-DoubleColorlessEnergy #32": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_TCG_Classic_-_Blastoise_Deck_(CLB)/032/Holo_-_Double_Colorless_Energy/24599059",
-        "salePrice": 4.75,
-        "cardNumber": "32",
-        "cardName": "Holo-DoubleColorlessEnergy",
-        "pubDate": "Sat, 31 Aug  2024 08:25:50 GMT"
-    },
-    "Holo-Magmar #6": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_TCG_Classic_-_Charizard_Deck_(CLC)/006/Holo_-_Magmar/24599091",
-        "salePrice": 4.5,
-        "cardNumber": "6",
-        "cardName": "Holo-Magmar",
-        "pubDate": "Sat, 31 Aug  2024 08:25:35 GMT"
-    },
-    "Holo-Zapdos #12": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_TCG_Classic_-_Charizard_Deck_(CLC)/012/Holo_-_Zapdos/24599126",
-        "salePrice": 3.0,
-        "cardNumber": "12",
-        "cardName": "Holo-Zapdos",
-        "pubDate": "Sat, 31 Aug  2024 08:25:30 GMT"
-    },
-    "Holo-Lt.Surge'sRaticate #16": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_TCG_Classic_-_Blastoise_Deck_(CLB)/016/Holo_-_Lt_Surges_Raticate/24599287",
-        "salePrice": 4.75,
-        "cardNumber": "16",
-        "cardName": "Holo-Lt.Surge'sRaticate",
-        "pubDate": "Sat, 31 Aug  2024 08:25:12 GMT"
-    },
-    "Holo-Switch #29": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_TCG_Classic_-_Charizard_Deck_(CLC)/029/Holo_-_Switch/24599303",
-        "salePrice": 2.25,
-        "cardNumber": "29",
-        "cardName": "Holo-Switch",
-        "pubDate": "Sat, 31 Aug  2024 08:23:35 GMT"
-    },
-    "Holo-ScorchingCharcoal #26": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_TCG_Classic_-_Charizard_Deck_(CLC)/026/Holo_-_Scorching_Charcoal/24599308",
-        "salePrice": 2.25,
-        "cardNumber": "26",
-        "cardName": "Holo-ScorchingCharcoal",
-        "pubDate": "Sat, 31 Aug  2024 08:23:18 GMT"
-    },
-    "Holo-Hypno #12": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_TCG_Classic_-_Blastoise_Deck_(CLB)/012/Holo_-_Hypno/24599321",
-        "salePrice": 1.45,
-        "cardNumber": "12",
-        "cardName": "Holo-Hypno",
-        "pubDate": "Sat, 31 Aug  2024 08:22:53 GMT"
-    },
-    "Holo-Electrode #11": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_TCG_Classic_-_Charizard_Deck_(CLC)/011/Holo_-_Electrode/24599330",
-        "salePrice": 3.5,
-        "cardNumber": "11",
-        "cardName": "Holo-Electrode",
-        "pubDate": "Sat, 31 Aug  2024 08:22:47 GMT"
-    },
-    "Holo-Lapras #8": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_TCG_Classic_-_Blastoise_Deck_(CLB)/008/Holo_-_Lapras/24599349",
-        "salePrice": 4.74,
-        "cardNumber": "8",
-        "cardName": "Holo-Lapras",
-        "pubDate": "Sat, 31 Aug  2024 08:22:41 GMT"
-    },
-    "Holo-Clefable #14": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_TCG_Classic_-_Charizard_Deck_(CLC)/014/Holo_-_Clefable/24599355",
-        "salePrice": 3.5,
-        "cardNumber": "14",
-        "cardName": "Holo-Clefable",
-        "pubDate": "Sat, 31 Aug  2024 08:22:34 GMT"
-    },
-    "Holo-Miltank #17": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_TCG_Classic_-_Charizard_Deck_(CLC)/017/Holo_-_Miltank/24599359",
-        "salePrice": 3.75,
-        "cardNumber": "17",
-        "cardName": "Holo-Miltank",
-        "pubDate": "Sat, 31 Aug  2024 08:22:29 GMT"
-    },
-    "Holo-Voltorb #10": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_TCG_Classic_-_Charizard_Deck_(CLC)/010/Holo_-_Voltorb/24599361",
-        "salePrice": 4.0,
-        "cardNumber": "10",
-        "cardName": "Holo-Voltorb",
-        "pubDate": "Sat, 31 Aug  2024 08:22:22 GMT"
-    },
-    "Holo-Dunsparce #15": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_TCG_Classic_-_Charizard_Deck_(CLC)/015/Holo_-_Dunsparce/24600526",
-        "salePrice": 1.5,
-        "cardNumber": "15",
-        "cardName": "Holo-Dunsparce",
-        "pubDate": "Sat, 31 Aug  2024 08:22:14 GMT"
-    },
-    "Holo-Raichu #9": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_TCG_Classic_-_Charizard_Deck_(CLC)/009/Holo_-_Raichu/24953957",
-        "salePrice": 8.0,
+    "Holo-Roselia #9": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2003/Pokémon_-_EX_Dragon_-_Base/9/Holo_-_Roselia/4345505",
+        "salePrice": 1.74,
         "cardNumber": "9",
-        "cardName": "Holo-Raichu",
-        "pubDate": "Sat, 31 Aug  2024 08:22:00 GMT"
+        "cardName": "Holo-Roselia",
+        "pubDate": "Sun, 01 Sep  2024 13:58:52 GMT"
     },
-    "Holo-Wartortle #2": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_TCG_Classic_-_Blastoise_Deck_(CLB)/002/Holo_-_Wartortle/25103527",
-        "salePrice": 8.75,
-        "cardNumber": "2",
-        "cardName": "Holo-Wartortle",
-        "pubDate": "Sat, 31 Aug  2024 08:21:50 GMT"
+    "Holo-Blaziken #5": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2007/Pokemon_-_EX_Power_Keepers_-_Base/5/Holo_-_Blaziken/7973724/Ungraded/COMC/EX-NM",
+        "salePrice": 8.5,
+        "cardNumber": "5",
+        "cardName": "Holo-Blaziken",
+        "pubDate": "Sun, 01 Sep  2024 13:57:42 GMT"
     },
-    "Holo-Squirtle #1": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_TCG_Classic_-_Blastoise_Deck_(CLB)/001/Holo_-_Squirtle/24953963",
-        "salePrice": 8.75,
-        "cardNumber": "1",
-        "cardName": "Holo-Squirtle",
-        "pubDate": "Sat, 31 Aug  2024 08:21:44 GMT"
+    "DoubleColorlessEnergy #166": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2017/Pokémon_Sun__Moon_-_Guardians_Rising_-_Base/166/Secret_-_Double_Colorless_Energy/15147277",
+        "salePrice": 28.25,
+        "cardNumber": "166",
+        "cardName": "DoubleColorlessEnergy",
+        "pubDate": "Sun, 01 Sep  2024 04:23:50 GMT"
     },
-    "Holo-PokemonNurse #23": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_TCG_Classic_-_Venusaur_Deck_(CLV)/023/Holo_-_Pokemon_Nurse/25236187",
-        "salePrice": 2.25,
-        "cardNumber": "23",
-        "cardName": "Holo-PokemonNurse",
-        "pubDate": "Sat, 31 Aug  2024 08:21:32 GMT"
+    "EnhancedHammer #162": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2017/Pokémon_Sun__Moon_-_Guardians_Rising_-_Base/162/Secret_-_Enhanced_Hammer/16613666",
+        "salePrice": 13.25,
+        "cardNumber": "162",
+        "cardName": "EnhancedHammer",
+        "pubDate": "Sun, 01 Sep  2024 04:23:18 GMT"
     },
-    "Holo-GrassEnergy #33": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_TCG_Classic_-_Venusaur_Deck_(CLV)/033/Holo_-_Grass_Energy/25388173",
-        "salePrice": 1.25,
-        "cardNumber": "33",
-        "cardName": "Holo-GrassEnergy",
-        "pubDate": "Sat, 31 Aug  2024 08:21:28 GMT"
+    "CounterCatcher #120": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2017/Pokémon_Sun__Moon_-_Crimson_Invasion_-_Base_-_Reverse_Foil/120/Counter_Catcher/25182602",
+        "salePrice": 13.75,
+        "cardNumber": "120",
+        "cardName": "CounterCatcher",
+        "pubDate": "Sun, 01 Sep  2024 04:21:26 GMT"
     },
-    "Holo-UltraBall #30": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_TCG_Classic_-_Venusaur_Deck_(CLV)/030/Holo_-_Ultra_Ball/25897290",
-        "salePrice": 1.25,
-        "cardNumber": "30",
-        "cardName": "Holo-UltraBall",
-        "pubDate": "Sat, 31 Aug  2024 08:21:05 GMT"
+    "StakatakaGX #176": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2018/Pokémon_Sun__Moon_-_Celestial_Storm_-_Base/176/Rainbow_-_Stakataka_GX/25881788",
+        "salePrice": 13.5,
+        "cardNumber": "176",
+        "cardName": "StakatakaGX",
+        "pubDate": "Sun, 01 Sep  2024 04:11:36 GMT"
     },
-    "Holo-FightingEnergy #34": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_TCG_Classic_-_Venusaur_Deck_(CLV)/034/Holo_-_Fighting_Energy/25897467",
-        "salePrice": 1.25,
-        "cardNumber": "34",
-        "cardName": "Holo-FightingEnergy",
-        "pubDate": "Sat, 31 Aug  2024 08:21:03 GMT"
+    "Holo-Banette #4": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2007/Pokemon_-_EX_Power_Keepers_-_Base/4/Holo_-_Banette/4348400",
+        "salePrice": 3.75,
+        "cardNumber": "4",
+        "cardName": "Holo-Banette",
+        "pubDate": "Sat, 31 Aug  2024 11:43:13 GMT"
     },
-    "Holo-ProfessorOak #25": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_TCG_Classic_-_Blastoise_Deck_(CLB)/025/Holo_-_Professor_Oak/25897529",
-        "salePrice": 1.25,
-        "cardNumber": "25",
-        "cardName": "Holo-ProfessorOak",
-        "pubDate": "Sat, 31 Aug  2024 08:20:49 GMT"
+    "Holo-Bellossom #3": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2005/Pokemon_-_EX_Unseen_Forces_-_Base/3/Holo_-_Bellossom/4347278",
+        "salePrice": 6.55,
+        "cardNumber": "3",
+        "cardName": "Holo-Bellossom",
+        "pubDate": "Sat, 31 Aug  2024 11:31:20 GMT"
     },
-    "Holo-PokeBall #23": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_TCG_Classic_-_Blastoise_Deck_(CLB)/023/Holo_-_Poke_Ball/25897530",
-        "salePrice": 1.25,
-        "cardNumber": "23",
-        "cardName": "Holo-PokeBall",
-        "pubDate": "Sat, 31 Aug  2024 08:20:47 GMT"
+    "Murkrow #47": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2003/Pokemon_-_EX_Sandstorm_-_Base_-_Reverse_Foil/47/Murkrow/5959597",
+        "salePrice": 3.75,
+        "cardNumber": "47",
+        "cardName": "Murkrow",
+        "pubDate": "Sat, 31 Aug  2024 11:18:44 GMT"
     },
-    "Holo-Rocket'sAdmin. #27": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_TCG_Classic_-_Blastoise_Deck_(CLB)/027/Holo_-_Rockets_Admin/25897531",
-        "salePrice": 1.25,
-        "cardNumber": "27",
-        "cardName": "Holo-Rocket'sAdmin.",
-        "pubDate": "Sat, 31 Aug  2024 08:20:43 GMT"
-    },
-    "Holo-Bill #18": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_TCG_Classic_-_Blastoise_Deck_(CLB)/018/Holo_-_Bill/25988145",
-        "salePrice": 3.25,
-        "cardNumber": "18",
-        "cardName": "Holo-Bill",
-        "pubDate": "Sat, 31 Aug  2024 08:20:37 GMT"
-    },
-    "Holo-ComputerSearch #20": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_TCG_Classic_-_Blastoise_Deck_(CLB)/020/Holo_-_Computer_Search/25988148",
-        "salePrice": 3.25,
-        "cardNumber": "20",
-        "cardName": "Holo-ComputerSearch",
-        "pubDate": "Sat, 31 Aug  2024 08:20:28 GMT"
-    },
-    "Holo-PsychicEnergy #34": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_TCG_Classic_-_Blastoise_Deck_(CLB)/034/Holo_-_Psychic_Energy/25988265",
-        "salePrice": 1.75,
-        "cardNumber": "34",
-        "cardName": "Holo-PsychicEnergy",
-        "pubDate": "Sat, 31 Aug  2024 08:20:06 GMT"
-    },
-    "Holo-Boss'sOrders #19": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_TCG_Classic_-_Charizard_Deck_(CLC)/019/Holo_-_Bosss_Orders/25988465",
-        "salePrice": 1.75,
-        "cardNumber": "19",
-        "cardName": "Holo-Boss'sOrders",
-        "pubDate": "Sat, 31 Aug  2024 08:19:51 GMT"
-    },
-    "Holo-PokeBall #21": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_TCG_Classic_-_Charizard_Deck_(CLC)/021/Holo_-_Poke_Ball/25988467",
-        "salePrice": 1.75,
-        "cardNumber": "21",
-        "cardName": "Holo-PokeBall",
-        "pubDate": "Sat, 31 Aug  2024 08:19:44 GMT"
-    },
-    "Holo-PokemonFanClub #22": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_TCG_Classic_-_Charizard_Deck_(CLC)/022/Holo_-_Pokemon_Fan_Club/25988469",
-        "salePrice": 1.75,
-        "cardNumber": "22",
-        "cardName": "Holo-PokemonFanClub",
-        "pubDate": "Sat, 31 Aug  2024 08:19:40 GMT"
-    },
-    "Holo-ProfessorOak #23": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_TCG_Classic_-_Charizard_Deck_(CLC)/023/Holo_-_Professor_Oak/25988471",
-        "salePrice": 1.75,
-        "cardNumber": "23",
-        "cardName": "Holo-ProfessorOak",
-        "pubDate": "Sat, 31 Aug  2024 08:19:35 GMT"
-    },
-    "Holo-RareCandy #24": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_TCG_Classic_-_Charizard_Deck_(CLC)/024/Holo_-_Rare_Candy/25988472",
-        "salePrice": 1.75,
-        "cardNumber": "24",
-        "cardName": "Holo-RareCandy",
-        "pubDate": "Sat, 31 Aug  2024 08:19:24 GMT"
-    },
-    "Holo-Rocket'sAdmin. #25": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_TCG_Classic_-_Charizard_Deck_(CLC)/025/Holo_-_Rockets_Admin/25988473",
-        "salePrice": 1.75,
-        "cardNumber": "25",
-        "cardName": "Holo-Rocket'sAdmin.",
-        "pubDate": "Sat, 31 Aug  2024 08:19:21 GMT"
-    },
-    "Holo-SuperRod #27": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_TCG_Classic_-_Charizard_Deck_(CLC)/027/Holo_-_Super_Rod/25988475",
-        "salePrice": 1.75,
-        "cardNumber": "27",
-        "cardName": "Holo-SuperRod",
-        "pubDate": "Sat, 31 Aug  2024 08:19:17 GMT"
-    },
-    "Holo-SuperScoopUp #28": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_TCG_Classic_-_Charizard_Deck_(CLC)/028/Holo_-_Super_Scoop_Up/25988476",
-        "salePrice": 1.75,
-        "cardNumber": "28",
-        "cardName": "Holo-SuperScoopUp",
-        "pubDate": "Sat, 31 Aug  2024 08:19:14 GMT"
-    },
-    "Holo-VSSeeker #31": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_TCG_Classic_-_Charizard_Deck_(CLC)/031/Holo_-_VS_Seeker/25988478",
-        "salePrice": 1.75,
-        "cardNumber": "31",
-        "cardName": "Holo-VSSeeker",
-        "pubDate": "Sat, 31 Aug  2024 08:19:08 GMT"
-    },
-    "Holo-FireEnergy #33": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_TCG_Classic_-_Charizard_Deck_(CLC)/033/Holo_-_Fire_Energy/25988479",
-        "salePrice": 1.75,
-        "cardNumber": "33",
-        "cardName": "Holo-FireEnergy",
-        "pubDate": "Sat, 31 Aug  2024 08:19:05 GMT"
-    },
-    "Holo-LightningEnergy #34": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_TCG_Classic_-_Charizard_Deck_(CLC)/034/Holo_-_Lightning_Energy/25988480",
-        "salePrice": 1.75,
-        "cardNumber": "34",
-        "cardName": "Holo-LightningEnergy",
-        "pubDate": "Sat, 31 Aug  2024 08:18:19 GMT"
-    },
-    "Latios #2": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2004/Pokémon_EX_Trainer_Kit_Latias__Latios_-_Latios_Half_Deck_-_German/2/Latios/26381794/Ungraded/COMC/EX-NM",
+    "RaichuBREAK #50": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2015/Pokémon_XY_-_BREAKthrough_-_Base/50/Raichu_BREAK/11913913",
         "salePrice": 5.25,
-        "cardNumber": "2",
-        "cardName": "Latios",
-        "pubDate": "Sat, 31 Aug  2024 06:18:38 GMT"
-    },
-    "FireEnergy #167": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2017/Pokemon_Sun__Moon_-_Burning_Shadows_-_Base/167/Secret_-_Fire_Energy/15631190",
-        "salePrice": 17.25,
-        "cardNumber": "167",
-        "cardName": "FireEnergy",
-        "pubDate": "Sat, 31 Aug  2024 06:08:21 GMT"
-    },
-    "Holo-TeamMagma'sClaydol #8": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2004/Pokemon_EX_Team_Magma_vs_Team_Aqua_-_Booster_Pack_Base/8/Holo_-_Team_Magmas_Claydol/12720071",
-        "salePrice": 9.25,
-        "cardNumber": "8",
-        "cardName": "Holo-TeamMagma'sClaydol",
-        "pubDate": "Sat, 31 Aug  2024 04:45:34 GMT"
-    },
-    "Eevee #11": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2018/Pokemon_McDonalds_Collection_7_-_Happy_Meal_Promos/11/Eevee_(Confetti_Holo)/14053347",
-        "salePrice": 9.25,
-        "cardNumber": "11",
-        "cardName": "Eevee",
-        "pubDate": "Sat, 31 Aug  2024 04:45:26 GMT"
-    },
-    "Nincada #68": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2003/Pokémon_-_EX_Dragon_-_Base_-_Reverse_Foil/68/Nincada/22756266",
-        "salePrice": 5.25,
-        "cardNumber": "68",
-        "cardName": "Nincada",
-        "pubDate": "Sat, 31 Aug  2024 04:41:21 GMT"
-    },
-    "PokeBall #87": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2005/Pokemon_-_EX_Unseen_Forces_-_Base_-_Reverse_Foil/87/Poke_Ball/22759418",
-        "salePrice": 8.75,
-        "cardNumber": "87",
-        "cardName": "PokeBall",
-        "pubDate": "Sat, 31 Aug  2024 04:40:01 GMT"
+        "cardNumber": "50",
+        "cardName": "RaichuBREAK",
+        "pubDate": "Sat, 31 Aug  2024 11:16:13 GMT"
     },
     "LurantisGX #15": {
         "guid": "https://www.comc.com/Cards/Pokemon/2017/Pokémon_Sun__Moon_-_Base_-_Base/15/Lurantis_GX/12280876",
