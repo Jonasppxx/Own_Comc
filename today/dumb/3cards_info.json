@@ -1,707 +1,187 @@
 [
     {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_Shadowless/30/Ivysaur/6241713",
-        "url": "https://www.pricecharting.com/game/pokemon-base-set/ivysaur-shadowless-30",
-        "salePrice": 3.58
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_Shadowless/44/Bulbasaur/9973225",
-        "url": "https://www.pricecharting.com/game/pokemon-base-set/bulbasaur-shadowless-44",
-        "salePrice": 2.41
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_Shadowless/17/Beedrill/10473189/Ungraded/COMC/EX-NM",
-        "url": "https://www.pricecharting.com/game/pokemon-base-set/beedrill-shadowless-17",
-        "salePrice": 4.75
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2006/Pokémon_EX_-_Dragon_Frontiers_-_Expansion_Set_Base/11/Togetic/4348072",
-        "url": "https://www.pricecharting.com/game/pokemon-dragon-frontiers/togetic-11",
-        "salePrice": 12.25
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2007/Pokémon_-_Diamond__Pearl_-_Base_Set/55/Mantyke/4348559",
-        "url": "https://www.pricecharting.com/game/pokemon-diamond-&-pearl/mantyke-55",
-        "salePrice": 20.25
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_Shadowless/24/Charmeleon/8505367",
-        "url": "https://www.pricecharting.com/game/pokemon-base-set/charmeleon-shadowless-24",
+        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Fossil_-_Base/13/Holo_-_Muk/4340602/Ungraded/COMC/EX-NM",
+        "url": "https://www.pricecharting.com/game/pokemon-fossil/muk-13",
         "salePrice": 1.75
     },
     {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Base_Set_-_Base_-_Shadowless/46/Charmander/10473185",
-        "url": "https://www.pricecharting.com/game/pokemon-base-set/charmander-shadowless-46",
-        "salePrice": 2.0
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2007/Pokémon_-_Diamond__Pearl_-_Base_Set/120/Empoleon/4348624/Ungraded/COMC/EX-NM",
-        "url": "https://www.pricecharting.com/game/pokemon-diamond-&-pearl/empoleon-120",
-        "salePrice": 7.25
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Jungle_-_Base/3/Holo_-_Flareon/5681933",
-        "url": "https://www.pricecharting.com/game/pokemon-jungle/flareon-3",
-        "salePrice": 26.85
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Jungle_-_Base/25/Pinsir/4340489",
-        "url": "https://www.pricecharting.com/game/pokemon-jungle/pinsir-25",
-        "salePrice": 1.19
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999-2003/Pokemon_Wizards_of_the_Coast_-_Exclusive_Black_Star_Promos/3/Mewtwo_(Pokemon_The_First_Movie)/5713992",
-        "url": "https://www.pricecharting.com/game/pokemon-promo/mewtwo-3",
-        "salePrice": 8.24
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2000/Pokemon_Team_Rocket_-_Base_-_1st_Edition/40/Dark_Machoke/4341553",
-        "url": "https://www.pricecharting.com/game/pokemon-team-rocket/dark-machoke-1st-edition-40",
-        "salePrice": 1.73
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2000/Pokemon_-_Gym_Heroes_-_Base_-_Unlimited/42/Erikas_Dratini/4341991",
-        "url": "https://www.pricecharting.com/game/pokemon-gym-heroes/erikas-dratini-42",
-        "salePrice": 1.25
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2002/Pokemon_Legendary_Collection_-_Base_-_Reverse_Foil/83/Nidoran_M/4344676/Ungraded/COMC/G-VG-EX",
-        "url": "https://www.pricecharting.com/game/pokemon-legendary-collection/nidoran-m-reverse-holo-83",
-        "salePrice": 44.99
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2002/Pokemon_e-Card_Series_-_Aquapolis_-_Base_-_Reverse_Foil/72/Cubone/22759420",
-        "url": "https://www.pricecharting.com/game/pokemon-aquapolis/cubone-reverse-holo-72",
-        "salePrice": 21.5
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2002/Pokemon_e-Card_Series_-_Expedition_-_Base/47/Feraligatr/4344481",
-        "url": "https://www.pricecharting.com/game/pokemon-expedition/feraligatr-47",
+        "guid": "https://www.comc.com/Cards/Pokemon/2016/Pokémon_XY_Evolutions_-_20th_Anniversary_Base_-_Portuguese/52/Mewtwo_EX/26378892",
+        "url": "https://www.pricecharting.com/game/pokemon-evolutions-portuguese/mewtwo-ex-52",
         "salePrice": 20.25
     },
     {
-        "guid": "https://www.comc.com/Cards/Pokemon/2002/Pokemon_e-Card_Series_-_Expedition_-_Base/83/Jynx/4344517",
-        "url": "https://www.pricecharting.com/game/pokemon-expedition/jynx-83",
-        "salePrice": 10.25
+        "guid": "https://www.comc.com/Cards/Pokemon/2022/Pokémon_Sword__Shield_-_Lost_Origin_-_Base/069/Radiant_Gardevoir/21026011",
+        "url": "https://www.pricecharting.com/game/pokemon-lost-origin/radiant-gardevoir-69",
+        "salePrice": 0.48
     },
     {
-        "guid": "https://www.comc.com/Cards/Pokemon/2007/Pokémon_Diamond__Pearl_-_Secret_Wonders_-_Base/112/Squirtle/4348975",
-        "url": "https://www.pricecharting.com/game/pokemon-diamond-pearl-wonders-base/squirtle-112",
-        "salePrice": 2.23
+        "guid": "https://www.comc.com/Cards/Pokemon/2022/Pokémon_Sword__Shield_-_Brilliant_Stars_-_Base_-_Reverse_Foil/150/Ultra_Ball/18768114",
+        "url": "https://www.pricecharting.com/game/pokemon-brilliant-stars/ultra-ball-reverse-holo-150",
+        "salePrice": 0.83
     },
     {
-        "guid": "https://www.comc.com/Cards/Pokemon/2007/Pokémon_Diamond__Pearl_-_Mysterious_Treasures_-_Base_-_Reverse_Foil/44/Croconaw/5751905",
-        "url": "https://www.pricecharting.com/game/pokemon-mysterious-treasures/croconaw-reverse-holo-44",
-        "salePrice": 7.75
+        "guid": "https://www.comc.com/Cards/Pokemon/2021/Pokémon_Sword__Shield_-_Battle_Styles_-_Base/149/Full_Art_-_Necrozma_V/17528255",
+        "url": "https://www.pricecharting.com/game/pokemon-battle-styles/necrozma-v-149",
+        "salePrice": 3.42
     },
     {
-        "guid": "https://www.comc.com/Cards/Pokemon/2009/Pokémon_-_Platinum_-_Base/2/Holo_-_Blastoise/5850587",
-        "url": "https://www.pricecharting.com/game/pokemon-platinum/blastoise-2",
-        "salePrice": 14.0
+        "guid": "https://www.comc.com/Cards/Pokemon/2021/Pokémon_Sword__Shield_-_Battle_Styles_-_Base/109/Corviknight_V/16976954/Ungraded/COMC/EX-NM",
+        "url": "https://www.pricecharting.com/game/pokemon-battle-styles/corviknight-v-109",
+        "salePrice": 0.97
     },
     {
-        "guid": "https://www.comc.com/Cards/Pokemon/2012/Pokemon_Black__White_-_Boundaries_Crossed_-_Base/31/Blastoise/6214471",
-        "url": "https://www.pricecharting.com/game/pokemon-boundaries-crossed/blastoise-31",
-        "salePrice": 4.25
+        "guid": "https://www.comc.com/Cards/Pokemon/2021/Pokémon_Sword__Shield_-_Battle_Styles_-_Base/175/Secret_-_Phoebe/17459479",
+        "url": "https://www.pricecharting.com/game/pokemon-battle-styles/phoebe-175",
+        "salePrice": 15.24
     },
     {
-        "guid": "https://www.comc.com/Cards/Pokemon/2019/Pokémon_Sun__Moon_-_Cosmic_Eclipse_-_Base_-_Reverse_Foil/187/Chaotic_Swell/15202564/Ungraded/COMC/EX-NM",
-        "url": "https://www.pricecharting.com/game/pokemon-cosmic-eclipse/chaotic-swell-reverse-holo-187",
-        "salePrice": 4.24
+        "guid": "https://www.comc.com/Cards/Pokemon/2021/Pokémon_Sword__Shield_-_Shining_Fates_-_Base/003/Celebi/16875295",
+        "url": "https://www.pricecharting.com/game/pokemon-sword-shield-shining-fates-base/celebi-3",
+        "salePrice": 0.4
     },
     {
-        "guid": "https://www.comc.com/Cards/Pokemon/2019/Pokemon_Sun__Moon_-_Unified_Minds_-_Base/253/Secret_-_Reset_Stamp/14631343",
-        "url": "https://www.pricecharting.com/game/pokemon-unified-minds/reset-stamp-253",
-        "salePrice": 5.25
+        "guid": "https://www.comc.com/Cards/Pokemon/2021/Pokémon_Sword__Shield_-_Shining_Fates_-_Base/017/Amazing_Rare_-_Reshiram/16801573",
+        "url": "https://www.pricecharting.com/game/pokemon-sword-shield-shining-fates-base/amazing-reshiram-17",
+        "salePrice": 0.61
     },
     {
-        "guid": "https://www.comc.com/Cards/Pokemon/2019/Pokémon_Sun__Moon_-_Unbroken_Bonds_-_Base/208/Full_Art_-_Celesteela_GX/14613281",
-        "url": "https://www.pricecharting.com/game/pokemon-unbroken-bonds/celesteela-gx-208",
-        "salePrice": 4.24
+        "guid": "https://www.comc.com/Cards/Pokemon/2021/Pokémon_Sword__Shield_-_Shining_Fates_-_Base/021/Amazing_Rare_-_Kyogre/16773254",
+        "url": "https://www.pricecharting.com/game/pokemon-sword-shield-shining-fates-base/amazing-kyogre-21",
+        "salePrice": 0.69
     },
     {
-        "guid": "https://www.comc.com/Cards/Pokemon/2019/Pokémon_Sun__Moon_-_Unbroken_Bonds_-_Base/212/Full_Art_-_Molayne/15203619",
-        "url": "https://www.pricecharting.com/game/pokemon-unbroken-bonds/molayne-212",
-        "salePrice": 5.25
+        "guid": "https://www.comc.com/Cards/Pokemon/2021/Pokémon_Sword__Shield_-_Fusion_Arts_(s8)_-_Base_-_Japanese/049/Dreepy/24630657",
+        "url": "https://www.pricecharting.com/game/pokemon-sword-shield-fusion-arts-base-japanese/dreepy-49",
+        "salePrice": 0.7
     },
     {
-        "guid": "https://www.comc.com/Cards/Pokemon/2019-2020/Pokémon_Sun__Moon_-_Team_Up_-_Base/33/Pikachu__Zekrom_GX/14249926",
-        "url": "https://www.pricecharting.com/game/pokemon-team-up/pikachu-zekrom-gx-33",
-        "salePrice": 10.0
+        "guid": "https://www.comc.com/Cards/Pokemon/2021/Pokémon_Sword__Shield_-_Fusion_Arts_(s8)_-_Base_-_Japanese/065/Mandibuzz/24752432",
+        "url": "https://www.pricecharting.com/game/pokemon-sword-shield-fusion-arts-base-japanese/mandibuzz-65",
+        "salePrice": 0.85
     },
     {
-        "guid": "https://www.comc.com/Cards/Pokemon/2019-2020/Pokémon_Sun__Moon_-_Team_Up_-_Base_-_Reverse_Foil/59/Nidoking/16672645",
-        "url": "https://www.pricecharting.com/game/pokemon-team-up/nidoking-reverse-holo-59",
-        "salePrice": 4.85
+        "guid": "https://www.comc.com/Cards/Pokemon/2021/Pokémon_Sword__Shield_-_Fusion_Arts_(s8)_-_Base_-_Japanese/010/Grubbin/26253784",
+        "url": "https://www.pricecharting.com/game/pokemon-sword-shield-fusion-arts-base-japanese/grubbin-10",
+        "salePrice": 1.75
     },
     {
-        "guid": "https://www.comc.com/Cards/Pokemon/2018/Pokemon_Sun__Moon_-_Lost_Thunder_-_Base/120/Umbreon/14508393",
-        "url": "https://www.pricecharting.com/game/pokemon-lost-thunder/umbreon-120",
-        "salePrice": 5.05
+        "guid": "https://www.comc.com/Cards/Pokemon/2021/Pokémon_Sword__Shield_-_Fusion_Arts_(s8)_-_Base_-_Japanese/023/Clamperl/26253785",
+        "url": "https://www.pricecharting.com/game/pokemon-sword-shield-fusion-arts-base-japanese/clamperl-23",
+        "salePrice": 1.75
     },
     {
-        "guid": "https://www.comc.com/Cards/Pokemon/2018/Pokemon_Sun__Moon_-_Lost_Thunder_-_Base_-_Reverse_Foil/89/Espeon/16521837",
-        "url": "https://www.pricecharting.com/game/pokemon-lost-thunder/espeon-reverse-holo-89",
-        "salePrice": 6.25
+        "guid": "https://www.comc.com/Cards/Pokemon/2021/Pokémon_Sword__Shield_-_Fusion_Arts_(s8)_-_Base_-_Japanese/057/Drilbur/26253787",
+        "url": "https://www.pricecharting.com/game/pokemon-sword-shield-fusion-arts-base-japanese/drilbur-57",
+        "salePrice": 1.75
     },
     {
-        "guid": "https://www.comc.com/Cards/Pokemon/2018/Pokémon_Sun__Moon_-_Dragon_Majesty_-_Base/76/Full_Art_-_Fiery_Flint/17073848",
-        "url": "https://www.pricecharting.com/game/pokemon-dragon-majesty/fiery-flint-76",
-        "salePrice": 5.25
+        "guid": "https://www.comc.com/Cards/Pokemon/2021/Pokémon_Sword__Shield_-_Fusion_Arts_(s8)_-_Base_-_Japanese/055/Onix/26253788",
+        "url": "https://www.pricecharting.com/game/pokemon-sword-shield-fusion-arts-base-japanese/onix-55",
+        "salePrice": 1.75
     },
     {
-        "guid": "https://www.comc.com/Cards/Pokemon/2018/Pokémon_Sun__Moon_-_Forbidden_Light_-_Base_-_Reverse_Foil/63/Croagunk/25920795/Ungraded/COMC/EX-NM",
-        "url": "https://www.pricecharting.com/game/pokemon-forbidden-light/croagunk-reverse-holo-63",
-        "salePrice": 5.24
+        "guid": "https://www.comc.com/Cards/Pokemon/2021/Pokémon_Sword__Shield_-_Fusion_Arts_(s8)_-_Base_-_Japanese/087/Rookidee/26253790",
+        "url": "https://www.pricecharting.com/game/pokemon-sword-shield-fusion-arts-base-japanese/rookidee-87",
+        "salePrice": 1.75
     },
     {
-        "guid": "https://www.comc.com/Cards/Pokemon/2015/Pokemon_XY_-_Roaring_Skies_-_Base/109/Secret_-_Energy_Switch/12358892",
-        "url": "https://www.pricecharting.com/game/pokemon-roaring-skies/energy-switch-109",
-        "salePrice": 18.25
+        "guid": "https://www.comc.com/Cards/Pokemon/2021/Pokémon_Sword__Shield_-_Fusion_Arts_(s8)_-_Base_-_Japanese/089/Crossceiver/26253792",
+        "url": "https://www.pricecharting.com/game/pokemon-sword-shield-fusion-arts-base-japanese/crossceiver-89",
+        "salePrice": 1.75
     },
     {
-        "guid": "https://www.comc.com/Cards/Pokemon/2016/Pokémon_XY_-_Generations_-_Base/35/Holo_-_Gengar/11876462",
-        "url": "https://www.pricecharting.com/game/pokemon-generations/gengar-35",
-        "salePrice": 4.0
+        "guid": "https://www.comc.com/Cards/Pokemon/2021/Pokémon_Sword__Shield_-_Fusion_Arts_(s8)_-_Base_-_Japanese/097/Dancer/26253795",
+        "url": "https://www.pricecharting.com/game/pokemon-sword-shield-fusion-arts-base-japanese/dancer-97",
+        "salePrice": 1.75
     },
     {
-        "guid": "https://www.comc.com/Cards/Pokemon/2016/Pokémon_XY_-_Breakpoint_-_Base/92/Ho-Oh_EX/12653383",
-        "url": "https://www.pricecharting.com/game/pokemon-breakpoint/ho-oh-ex-92",
-        "salePrice": 4.5
+        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokémon_Sword__Shield_-_Crown_Zenith_-_Base/059/Holo_-_Mewtwo/22228090",
+        "url": "https://www.pricecharting.com/game/pokemon-crown-zenith/mewtwo-59",
+        "salePrice": 3.51
     },
     {
-        "guid": "https://www.comc.com/Cards/Pokemon/2016/Pokémon_XY_-_Breakpoint_-_Base/41/Greninja_BREAK/12657704",
-        "url": "https://www.pricecharting.com/game/pokemon-breakpoint/greninja-break-41",
-        "salePrice": 2.65
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2016/Pokémon_XY_Evolutions_-_20th_Anniversary_Base_-_Reverse_Foil/97/Darkness_Energy/11992282",
-        "url": "https://www.pricecharting.com/game/pokemon-evolutions/darkness-energy-reverse-holo-97",
-        "salePrice": 2.0
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2022/Pokémon_Sword__Shield_-_Lost_Origin_-_Base_-_Reverse_Foil/081/Spectrier/23715111/Ungraded/COMC/EX-NM",
-        "url": "https://www.pricecharting.com/game/pokemon-lost-origin/spectrier-reverse-holo-81",
-        "salePrice": 4.24
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2022/Pokémon_Sword__Shield_-_Lost_Origin_-_Base/201/Secret_-_Giratina_VSTAR/21642636",
-        "url": "https://www.pricecharting.com/game/pokemon-lost-origin/giratina-vstar-201",
-        "salePrice": 28.25
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2022/Pokémon_Sword__Shield_-_Lost_Origin_-_Base/049/Kyurem_VMAX/21724756",
-        "url": "https://www.pricecharting.com/game/pokemon-lost-origin/kyurem-vmax-49",
-        "salePrice": 1.15
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2022/Pokémon_Sword__Shield_-_Astral_Radiance_-_Base_-_Reverse_Foil/038/Glaceon/21704860",
-        "url": "https://www.pricecharting.com/game/pokemon-astral-radiance/glaceon-reverse-holo-38",
-        "salePrice": 1.2
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2022/Pokémon_Sword__Shield_-_Brilliant_Stars_-_Base/157/Full_Art_-_Pikachu_V/18908592",
-        "url": "https://www.pricecharting.com/game/pokemon-brilliant-stars/pikachu-v-157",
-        "salePrice": 8.12
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2022/Pokémon_Sword__Shield_-_Brilliant_Stars_-_Base_-_Reverse_Foil/072/Hitmontop/18774232",
-        "url": "https://www.pricecharting.com/game/pokemon-brilliant-stars/hitmontop-reverse-holo-72",
-        "salePrice": 1.55
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2022/Pokémon_Sword__Shield_-_Brilliant_Stars_-_Base/094/Grimmsnarl/18780749",
-        "url": "https://www.pricecharting.com/game/pokemon-brilliant-stars/grimmsnarl-94",
-        "salePrice": 1.3
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2022/Pokémon_Sword__Shield_-_Brilliant_Stars_-_Base/151/Double_Turbo_Energy/18880147",
-        "url": "https://www.pricecharting.com/game/pokemon-brilliant-stars/double-turbo-energy-151",
-        "salePrice": 5.5
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2022/Pokémon_Sword__Shield_-_Brilliant_Stars_-_Base_-_Reverse_Foil/032/Corphish/23675259",
-        "url": "https://www.pricecharting.com/game/pokemon-brilliant-stars/corphish-reverse-holo-32",
-        "salePrice": 1.5
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2022/Pokémon_Sword__Shield_-_Brilliant_Stars_-_Base/135/Choice_Belt/24465994",
-        "url": "https://www.pricecharting.com/game/pokemon-brilliant-stars/choice-belt-135",
-        "salePrice": 1.55
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2021/Pokemon_Sword__Shield_-_Fusion_Strike_-_Base/267/Secret_-_Boltund_VMAX/19744976",
-        "url": "https://www.pricecharting.com/game/pokemon-fusion-strike/boltund-vmax-267",
-        "salePrice": 5.77
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2021/Pokemon_Sword__Shield_-_Fusion_Strike_-_Base/206/Snorlax/22117757",
-        "url": "https://www.pricecharting.com/game/pokemon-fusion-strike/snorlax-206",
-        "salePrice": 4.36
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2021/Pokémon_Sword__Shield_-_Battle_Styles_-_Base_-_Reverse_Foil/044/Electabuzz/17023564/Ungraded/COMC/EX-NM",
-        "url": "https://www.pricecharting.com/game/pokemon-battle-styles/electabuzz-reverse-holo-44",
-        "salePrice": 4.24
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2020/Pokémon_Sword__Shield_-_Vivid_Voltage_-_Base/111/Garbodor/16487386",
-        "url": "https://www.pricecharting.com/game/pokemon-vivid-voltage/garbodor-111",
-        "salePrice": 2.05
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2020/Pokémon_Sword__Shield_-_Vivid_Voltage_-_Base/139/Chatot/16528843",
-        "url": "https://www.pricecharting.com/game/pokemon-vivid-voltage/chatot-139",
-        "salePrice": 2.05
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2020/Pokémon_Sword__Shield_-_Vivid_Voltage_-_Base/183/Ultra_Rare_-_Nessa/16513679",
-        "url": "https://www.pricecharting.com/game/pokemon-vivid-voltage/nessa-183",
-        "salePrice": 7.75
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2020/Pokémon_Sword__Shield_-_Vivid_Voltage_-_Base/199/Secret_-_Oranguru/16523846",
-        "url": "https://www.pricecharting.com/game/pokemon-vivid-voltage/oranguru-199",
-        "salePrice": 7.99
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2020/Pokémon_Sword__Shield_-_Infinity_Zone_(s3)_-_Base_-_Japanese/065/Eternatus_VMAX/23177145",
-        "url": "https://www.pricecharting.com/game/pokemon-sword-shield-infinity-zone-base-japanese/eternatus-vmax-65",
-        "salePrice": 2.25
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2022/Pokémon_Sword__Shield_-_Pokemon_Go_-_Base/072/Ultra_Rare_-_Mewtwo_V/21642062",
-        "url": "https://www.pricecharting.com/game/pokemon-go/mewtwo-v-72",
-        "salePrice": 17.75
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokémon_Sword__Shield_-_Crown_Zenith_-_Base/018/Charizard_V/22372827",
-        "url": "https://www.pricecharting.com/game/pokemon-crown-zenith/charizard-v-18",
-        "salePrice": 9.25
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2022/Pokémon_Sword__Shield_-_Dark_Phantasma_(s10a_T)_-_Base_-_Thai/077/Character_Rare_-_Snorlax/26381814",
-        "url": "https://www.pricecharting.com/game/pokemon-sword-shield-dark-phantasma-base/character-snorlax-77",
-        "salePrice": 16.25
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2020/Pokemon_Sword__Shield_-_Base/050/Lapras_VMAX/16158001",
-        "url": "https://www.pricecharting.com/game/pokemon-sword-shield-base/lapras-vmax-50",
+        "guid": "https://www.comc.com/Cards/Pokemon/2022/Pokémon_Sword__Shield_-_Pokemon_Go_-_Base/010/Holo_-_Charizard/19896700",
+        "url": "https://www.pricecharting.com/game/pokemon-go/charizard-10",
         "salePrice": 3.25
     },
     {
-        "guid": "https://www.comc.com/Cards/Pokemon/2020/Pokémon_Sword__Shield_-_VMAX_Rising_(s1a)_-_Base_-_Korean/018/Galarian_Mr_Mime/26381392",
-        "url": "https://www.pricecharting.com/game/pokemon-sword-shield-vmax-rising-base/galarian-mr-mime-18",
-        "salePrice": 2.75
+        "guid": "https://www.comc.com/Cards/Pokemon/2022/Pokémon_Sword__Shield_-_Pokemon_Go_-_Base/011/Radiant_Charizard/20051787",
+        "url": "https://www.pricecharting.com/game/pokemon-go/radiant-charizard-11",
+        "salePrice": 6.49
     },
     {
-        "guid": "https://www.comc.com/Cards/Pokemon/2021/Pokémon_Sword__Shield_-_Eevee_Heroes_(s6a)_-_Base_-_Korean/048/Umbreon_VMAX/23700475",
-        "url": "https://www.pricecharting.com/game/pokemon-sword-shield-eevee-heroes-base/umbreon-vmax-48",
-        "salePrice": 8.24
+        "guid": "https://www.comc.com/Cards/Pokemon/2022/Pokémon_Sword__Shield_-_Pokemon_Go_-_Base/043/Holo_-_Tyranitar/20566049",
+        "url": "https://www.pricecharting.com/game/pokemon-go/tyranitar-43",
+        "salePrice": 0.53
     },
     {
-        "guid": "https://www.comc.com/Cards/Pokemon/2021/Pokémon_Sword__Shield_-_Eevee_Heroes_(s6a)_-_Base_-_Korean/035/Espeon_V/25166177",
-        "url": "https://www.pricecharting.com/game/pokemon-sword-shield-eevee-heroes-base/espeon-v-35",
+        "guid": "https://www.comc.com/Cards/Pokemon/2019/Pokémon_Sword__Shield_-_Sword_(S1W)_-_Base_-_Japanese/006/Thwackey/26192383",
+        "url": "https://www.pricecharting.com/game/pokemon-sword-shield-sword-base-japanese/thwackey-6",
+        "salePrice": 3.25
+    },
+    {
+        "guid": "https://www.comc.com/Cards/Pokemon/2020/Pokémon_Sword__Shield_-_Legendary_Pulse_(s3a)_-_Base_-_Japanese/056/Rayquaza_(Amazing_Rare)/17625390",
+        "url": "https://www.pricecharting.com/game/pokemon-sword-shield-legendary-pulse-base-japanese/rayquaza-56",
+        "salePrice": 9.99
+    },
+    {
+        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokémon_Scarlet__Violet_-_Obsidian_Flames_(OBF)_-_Base/204/Illustration_Rare_-_Houndour/23918198",
+        "url": "https://www.pricecharting.com/game/pokemon-obsidian-flames/houndour-204",
         "salePrice": 2.5
     },
     {
-        "guid": "https://www.comc.com/Cards/Pokemon/2020/Pokémon_Sword__Shield_-_VMAX_Rising_(s1a)_-_Base_-_Korean/034/Natu/26381395",
-        "url": "https://www.pricecharting.com/game/pokemon-sword-shield-vmax-rising-base/natu-34",
-        "salePrice": 1.99
+        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokémon_Scarlet__Violet_-_Obsidian_Flames_(OBF)_-_Base/222/Special_Illustration_Rare_-_Eiscue_ex/23918111",
+        "url": "https://www.pricecharting.com/game/pokemon-obsidian-flames/eiscue-ex-222",
+        "salePrice": 3.85
     },
     {
-        "guid": "https://www.comc.com/Cards/Pokemon/2020/Pokémon_Sword__Shield_-_VMAX_Rising_(s1a)_-_Base_-_Korean/005/Snorunt/26381396",
-        "url": "https://www.pricecharting.com/game/pokemon-sword-shield-vmax-rising-base/snorunt-5",
-        "salePrice": 1.99
+        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_Paldea_Evolved_-_Base/015/Meowscarada_ex/23427014",
+        "url": "https://www.pricecharting.com/game/pokemon-paldea-evolved/meowscarada-ex-15",
+        "salePrice": 0.75
     },
     {
-        "guid": "https://www.comc.com/Cards/Pokemon/2020/Pokémon_Sword__Shield_-_VMAX_Rising_(s1a)_-_Base_-_Korean/033/Toxtricity/26381401",
-        "url": "https://www.pricecharting.com/game/pokemon-sword-shield-vmax-rising-base/toxtricity-33",
-        "salePrice": 1.99
+        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_Paldea_Evolved_-_Base/254/Ultra_Rare_-_Iono/23451962",
+        "url": "https://www.pricecharting.com/game/pokemon-paldea-evolved/iono-254",
+        "salePrice": 32.55
     },
     {
-        "guid": "https://www.comc.com/Cards/Pokemon/2020/Pokémon_Sword__Shield_-_VMAX_Rising_(s1a)_-_Base_-_Korean/035/Xatu/26381400",
-        "url": "https://www.pricecharting.com/game/pokemon-sword-shield-vmax-rising-base/xatu-35",
-        "salePrice": 2.0
+        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_Paldea_Evolved_-_Base/052/Quaquaval_ex/23483627",
+        "url": "https://www.pricecharting.com/game/pokemon-paldea-evolved/quaquaval-ex-52",
+        "salePrice": 0.95
     },
     {
-        "guid": "https://www.comc.com/Cards/Pokemon/2022/Pokemon_Sword__Shield_-_Paradigm_Trigger_(s12)_-_Base_-_Korean/048/Claydol/26381406",
-        "url": "https://www.pricecharting.com/game/pokemon-sword-shield-paradigm-trigger-base/claydol-48",
-        "salePrice": 2.0
+        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_Paldea_Evolved_-_Base/275/Hyper_Rare_-_Ting-Lu_ex/23554484",
+        "url": "https://www.pricecharting.com/game/pokemon-paldea-evolved/ting-lu-ex-275",
+        "salePrice": 6.9
     },
     {
-        "guid": "https://www.comc.com/Cards/Pokemon/2022/Pokemon_Sword__Shield_-_Paradigm_Trigger_(s12)_-_Base_-_Korean/032/Zeraora/26381405",
-        "url": "https://www.pricecharting.com/game/pokemon-sword-shield-paradigm-trigger-base/zeraora-32",
-        "salePrice": 2.0
+        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_Paldea_Evolved_-_Base/220/Illustration_Rare_-_Nacli/23780342",
+        "url": "https://www.pricecharting.com/game/pokemon-paldea-evolved/nacli-220",
+        "salePrice": 19.25
     },
     {
-        "guid": "https://www.comc.com/Cards/Pokemon/2022/Pokemon_Sword__Shield_-_Paradigm_Trigger_(s12)_-_Base_-_Korean/039/Sigilyph/26381407",
-        "url": "https://www.pricecharting.com/game/pokemon-sword-shield-paradigm-trigger-base/sigilyph-39",
-        "salePrice": 2.0
+        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_(SV1EN)_-_Base/208/Illustration_Rare_-_Pachirisu/23304094",
+        "url": "https://www.pricecharting.com/game/pokemon-scarlet-violet/pachirisu-208",
+        "salePrice": 4.04
     },
     {
-        "guid": "https://www.comc.com/Cards/Pokemon/2022/Pokemon_Sword__Shield_-_Paradigm_Trigger_(s12)_-_Base_-_Korean/065/Aron/26381408",
-        "url": "https://www.pricecharting.com/game/pokemon-sword-shield-paradigm-trigger-base/aron-65",
-        "salePrice": 2.0
+        "guid": "https://www.comc.com/Cards/Pokemon/2023-Current/Pokémon_Scarlet__Violet_-_SVP_Black_Star_-_Promos/049/Zapdos_ex/24473426",
+        "url": "https://www.pricecharting.com/game/pokemon-promo/zapdos-ex-49",
+        "salePrice": 0.97
     },
     {
-        "guid": "https://www.comc.com/Cards/Pokemon/2022/Pokemon_Sword__Shield_-_Paradigm_Trigger_(s12)_-_Base_-_Korean/082/Archen/26381410",
-        "url": "https://www.pricecharting.com/game/pokemon-sword-shield-paradigm-trigger-base/archen-82",
-        "salePrice": 1.75
+        "guid": "https://www.comc.com/Cards/Pokemon/2023-Current/Pokémon_Scarlet__Violet_-_SVP_Black_Star_-_Promos/030/Chien-Pao_ex/24892726",
+        "url": "https://www.pricecharting.com/game/pokemon-promo/chien-pao-ex-30",
+        "salePrice": 2.86
     },
     {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023-Current/Pokemon_Scarlet__Violet_-_Paldean_Fates_-_Base/217/Shiny_Ultra_Rare_-_Gardevoir_ex/25179908",
-        "url": "https://www.pricecharting.com/game/pokemon-paldean-fates/gardevoir-ex-217",
-        "salePrice": 3.01
+        "guid": "https://www.comc.com/Cards/Pokemon/1999/Burger_King_Master_Trainer_Collection_-_Base/06/Charizard_(Collectible_Movie_Scene_1)/16480363",
+        "url": "https://www.pricecharting.com/game/burger-king-master-trainer-collection-base/charizard-6",
+        "salePrice": 4.35
     },
     {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023-Current/Pokemon_Scarlet__Violet_-_Paldean_Fates_-_Base/213/Shiny_Ultra_Rare_-_Toedscruel_ex/25222625",
-        "url": "https://www.pricecharting.com/game/pokemon-paldean-fates/toedscruel-ex-213",
-        "salePrice": 2.75
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_Paradox_Rift_(PAREN)_-_Base/006/Dwebble/24439694",
-        "url": "https://www.pricecharting.com/game/pokemon-paradox-rift/dwebble-6",
-        "salePrice": 1.25
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_Paradox_Rift_(PAREN)_-_Base/024/Crocalor/24439712",
-        "url": "https://www.pricecharting.com/game/pokemon-paradox-rift/crocalor-24",
-        "salePrice": 1.25
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_Paradox_Rift_(PAREN)_-_Base/033/Remoraid/24439721",
-        "url": "https://www.pricecharting.com/game/pokemon-paradox-rift/remoraid-33",
-        "salePrice": 1.24
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_Paradox_Rift_(PAREN)_-_Base/064/Joltik/24439752",
-        "url": "https://www.pricecharting.com/game/pokemon-paradox-rift/joltik-64",
-        "salePrice": 1.24
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_Paradox_Rift_(PAREN)_-_Base/099/Minior/24439787",
-        "url": "https://www.pricecharting.com/game/pokemon-paradox-rift/minior-99",
-        "salePrice": 1.25
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_Paradox_Rift_(PAREN)_-_Base/149/Loudred/24439837",
-        "url": "https://www.pricecharting.com/game/pokemon-paradox-rift/loudred-149",
-        "salePrice": 1.25
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_Paradox_Rift_(PAREN)_-_Base/170/Professor_Sadas_Vitality/24439858",
-        "url": "https://www.pricecharting.com/game/pokemon-paradox-rift/professor-sadas-vitality-170",
-        "salePrice": 1.25
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_Paradox_Rift_(PAREN)_-_Base/258/Special_Illustration_Rare_-_Rika/24439946",
-        "url": "https://www.pricecharting.com/game/pokemon-paradox-rift/rika-258",
-        "salePrice": 7.68
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_Paradox_Rift_(PAREN)_-_Base/203/Illustration_Rare_-_Slither_Wing/24439891",
-        "url": "https://www.pricecharting.com/game/pokemon-paradox-rift/slither-wing-203",
-        "salePrice": 4.0
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_Paradox_Rift_(PAREN)_-_Base/135/Aegislash_ex/24439823",
-        "url": "https://www.pricecharting.com/game/pokemon-paradox-rift/aegislash-ex-135",
-        "salePrice": 1.84
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokémon_Scarlet__Violet_-_151_(sv2a_T)_-_Base_-_Thai/143/Snorlax/26381816",
-        "url": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/snorlax-143",
-        "salePrice": 5.25
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokémon_Scarlet__Violet_-_151_(sv2a_T)_-_Base_-_Thai/181/Art_Rare_-_Snorlax/26381818",
-        "url": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/art-snorlax-181",
-        "salePrice": 16.25
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_151_(MEWEN)_-_Base/003/Venusaur_ex/24063147",
-        "url": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/venusaur-ex-3",
-        "salePrice": 1.5
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_151_(MEWEN)_-_Base/180/Illustration_Rare_-_Omanyte/24063325",
-        "url": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/omanyte-180",
-        "salePrice": 7.26
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_151_(MEWEN)_-_Base/203/Special_Illustration_Rare_-_Erikas_Invitation/24063348",
-        "url": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/erikas-invitation-203",
-        "salePrice": 22.56
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokémon_Scarlet__Violet_-_Obsidian_Flames_(OBF)_-_Base_-_Reverse_Foil/155/Varoom/24146709",
-        "url": "https://www.pricecharting.com/game/pokemon-obsidian-flames/varoom-reverse-holo-155",
-        "salePrice": 5.24
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokémon_Scarlet__Violet_-_Obsidian_Flames_(OBF)_-_Base/228/Hyper_Rare_-_Charizard_ex/23895834",
-        "url": "https://www.pricecharting.com/game/pokemon-obsidian-flames/charizard-ex-228",
-        "salePrice": 42.99
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokémon_Scarlet__Violet_-_Obsidian_Flames_(OBF)_-_Base/212/Ultra_Rare__-_Vespiquen_ex/24035883",
-        "url": "https://www.pricecharting.com/game/pokemon-obsidian-flames/vespiquen-ex-212",
-        "salePrice": 5.56
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokémon_Scarlet__Violet_-_Obsidian_Flames_(OBF)_-_Base/200/Illustration_Rare_-_Palafin/24035888",
-        "url": "https://www.pricecharting.com/game/pokemon-obsidian-flames/palafin-200",
-        "salePrice": 3.25
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokémon_Scarlet__Violet_-_Obsidian_Flames_(OBF)_-_Base/214/Ultra_Rare__-_Absol_ex/24054538",
-        "url": "https://www.pricecharting.com/game/pokemon-obsidian-flames/absol-ex-214",
-        "salePrice": 1.25
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_Paldea_Evolved_-_Base/201/Illustration_Rare_-_Fuecoco/23554076",
-        "url": "https://www.pricecharting.com/game/pokemon-paldea-evolved/fuecoco-201",
-        "salePrice": 13.25
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_Paldea_Evolved_-_Base/278/Hyper_Rare_-_Grass_Energy/23918390",
-        "url": "https://www.pricecharting.com/game/pokemon-paldea-evolved/grass-energy-278",
-        "salePrice": 7.75
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_Paldea_Evolved_-_Base/233/Ultra_Rare_-_Skeledirge_ex/23922338",
-        "url": "https://www.pricecharting.com/game/pokemon-paldea-evolved/skeledirge-ex-233",
-        "salePrice": 3.75
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_Paldea_Evolved_-_Base_-_Reverse_Foil/062/Pikachu/23848992",
-        "url": "https://www.pricecharting.com/game/pokemon-paldea-evolved/pikachu-reverse-holo-62",
-        "salePrice": 1.31
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_Paldea_Evolved_-_Base/219/Illustration_Rare_-_Sudowoodo/24103045",
-        "url": "https://www.pricecharting.com/game/pokemon-paldea-evolved/sudowoodo-219",
-        "salePrice": 14.48
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_Paldea_Evolved_-_Base/218/Illustration_Rare_-_Paldean_Tauros/23748767",
-        "url": "https://www.pricecharting.com/game/pokemon-paldea-evolved/paldean-tauros-218",
-        "salePrice": 13.31
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_Paldea_Evolved_-_Base_-_Reverse_Foil/075/Pawmo/24091152",
-        "url": "https://www.pricecharting.com/game/pokemon-paldea-evolved/pawmo-reverse-holo-75",
-        "salePrice": 1.2
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2024/Pokemon_Scarlet__Violet_-_Twilight_Masquerade_-_Base/068/Luxray_ex/26005226",
-        "url": "https://www.pricecharting.com/game/pokemon-twilight-masquerade/luxray-ex-68",
-        "salePrice": 2.24
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2024/Pokemon_Scarlet__Violet_-_Twilight_Masquerade_-_Base/215/Special_Illustration_Rare_-_Cornerstone_Mask_Ogerpon_ex/26005356",
-        "url": "https://www.pricecharting.com/game/pokemon-twilight-masquerade/cornerstone-mask-ogerpon-ex-215",
-        "salePrice": 21.99
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2024/Pokemon_Scarlet__Violet_-_Twilight_Masquerade_-_Base/096/Fezandipiti/25818904",
-        "url": "https://www.pricecharting.com/game/pokemon-twilight-masquerade/fezandipiti-96",
-        "salePrice": 1.14
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_(SV1EN)_-_Base/162/Squawkabilly/23674558",
-        "url": "https://www.pricecharting.com/game/pokemon-scarlet-violet/squawkabilly-162",
-        "salePrice": 2.23
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023-Current/Pokémon_Scarlet__Violet_-_SVP_Black_Star_-_Promos_-_Portuguese/096/Cyclizar/26381797",
-        "url": "https://www.pricecharting.com/game/pokemon-promo-portuguese/cyclizar-96",
-        "salePrice": 5.25
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2024/Pokemon_Scarlet__Violet_-_Temporal_Forces_-_Base_-_Portuguese/078/Flutter_Mane/26381798",
-        "url": "https://www.pricecharting.com/game/pokemon-temporal-forces-portuguese/flutter-mane-78",
-        "salePrice": 5.25
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2024/Pokemon_Scarlet__Violet_-_Temporal_Forces_-_Base_-_Portuguese/029/Magcargo/26381799",
-        "url": "https://www.pricecharting.com/game/pokemon-temporal-forces-portuguese/magcargo-29",
-        "salePrice": 3.25
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2024/Pokemon_Scarlet__Violet_-_Temporal_Forces_-_Base_-_Portuguese_Reverse_Foil/011/Grotle/26381810",
-        "url": "https://www.pricecharting.com/game/pokemon-temporal-forces-portuguese/grotle-reverse-holo-11",
-        "salePrice": 2.75
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2024/Pokemon_Scarlet__Violet_-_Temporal_Forces_-_Base_-_Portuguese_Reverse_Foil/018/Grubbin/26381811",
-        "url": "https://www.pricecharting.com/game/pokemon-temporal-forces-portuguese/grubbin-reverse-holo-18",
-        "salePrice": 2.75
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2024/Pokemon_Scarlet__Violet_-_Temporal_Forces_-_Base_-_Portuguese_Reverse_Foil/048/Finizen/26381812",
-        "url": "https://www.pricecharting.com/game/pokemon-temporal-forces-portuguese/finizen-reverse-holo-48",
-        "salePrice": 2.75
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2024/Pokemon_Scarlet__Violet_-_Temporal_Forces_-_Base_-_Portuguese_Reverse_Foil/116/Meltan/26381813",
-        "url": "https://www.pricecharting.com/game/pokemon-temporal-forces-portuguese/meltan-reverse-holo-116",
-        "salePrice": 2.75
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_(SV1EN)_-_Base/220/Illustration_Rare_-_Kingambit/22855413",
-        "url": "https://www.pricecharting.com/game/pokemon-scarlet-violet/kingambit-220",
-        "salePrice": 5.75
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_(SV1EN)_-_Base/204/Illustration_Rare_-_Slowpoke/23196668",
-        "url": "https://www.pricecharting.com/game/pokemon-scarlet-violet/slowpoke-204",
-        "salePrice": 6.25
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2024/Pokemon_Scarlet__Violet_-_Temporal_Forces_-_Base/187/Ultra_Rare_-_Incineroar_ex/25999297",
-        "url": "https://www.pricecharting.com/game/pokemon-temporal-forces/incineroar-ex-187",
-        "salePrice": 3.25
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokémon_Scarlet__Violet_-_Violet_ex_(sv1V)_-_Base_-_Korean/034/Pawmi/26381385",
-        "url": "https://www.pricecharting.com/game/pokemon-scarlet-violet-violet-ex-base/pawmi-34",
-        "salePrice": 2.25
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokémon_Scarlet__Violet_-_Violet_ex_(sv1V)_-_Base_-_Korean/013/Capsakid/26381386",
-        "url": "https://www.pricecharting.com/game/pokemon-scarlet-violet-violet-ex-base/capsakid-13",
-        "salePrice": 2.75
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokémon_Scarlet__Violet_-_Violet_ex_(sv1V)_-_Base_-_Korean/062/Greedent/26381387",
-        "url": "https://www.pricecharting.com/game/pokemon-scarlet-violet-violet-ex-base/greedent-62",
-        "salePrice": 2.75
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokémon_Scarlet__Violet_-_Violet_ex_(sv1V)_-_Base_-_Korean/029/Pachirisu/26381388",
-        "url": "https://www.pricecharting.com/game/pokemon-scarlet-violet-violet-ex-base/pachirisu-29",
-        "salePrice": 2.99
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokémon_Scarlet__Violet_-_Violet_ex_(sv1V)_-_Base_-_Korean/054/Maschiff/25456711",
-        "url": "https://www.pricecharting.com/game/pokemon-scarlet-violet-violet-ex-base/maschiff-54",
-        "salePrice": 2.45
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2024/Pokemon_Scarlet__Violet_-_Shrouded_Fable_-_Base/042/Copperajah/26378066",
-        "url": "https://www.pricecharting.com/game/pokemon-scarlet-violet-shrouded-fable-base/copperajah-42",
-        "salePrice": 2.38
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2024/Pokemon_Scarlet__Violet_-_Shrouded_Fable_-_Base/025/Blood_Moon_Ursaluna/26378067",
-        "url": "https://www.pricecharting.com/game/pokemon-scarlet-violet-shrouded-fable-base/blood-moon-ursaluna-25",
-        "salePrice": 2.38
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2024/Pokemon_Scarlet__Violet_-_Shrouded_Fable_-_Base_-_Reverse_Foil/063/Powerglass/26378068",
-        "url": "https://www.pricecharting.com/game/pokemon-scarlet-violet-shrouded-fable-base/powerglass-reverse-holo-63",
-        "salePrice": 1.91
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2024/Pokemon_Scarlet__Violet_-_Shrouded_Fable_-_Base_-_Reverse_Foil/031/Zorua/26378071",
-        "url": "https://www.pricecharting.com/game/pokemon-scarlet-violet-shrouded-fable-base/zorua-reverse-holo-31",
-        "salePrice": 2.38
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2024/Pokemon_Scarlet__Violet_-_Shrouded_Fable_-_Base_-_Reverse_Foil/011/Seadra/26378072",
-        "url": "https://www.pricecharting.com/game/pokemon-scarlet-violet-shrouded-fable-base/seadra-reverse-holo-11",
-        "salePrice": 2.38
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2024/Pokemon_Scarlet__Violet_-_Shrouded_Fable_-_Base_-_Reverse_Foil/051/Furfrou/26378073",
-        "url": "https://www.pricecharting.com/game/pokemon-scarlet-violet-shrouded-fable-base/furfrou-reverse-holo-51",
-        "salePrice": 2.38
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2024/Pokemon_Scarlet__Violet_-_Shrouded_Fable_-_Base_-_Reverse_Foil/052/Stufful/26378074",
-        "url": "https://www.pricecharting.com/game/pokemon-scarlet-violet-shrouded-fable-base/stufful-reverse-holo-52",
-        "salePrice": 2.38
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2024/Pokemon_Scarlet__Violet_-_Shrouded_Fable_-_Base_-_Reverse_Foil/020/Dusknoir/26378075",
-        "url": "https://www.pricecharting.com/game/pokemon-scarlet-violet-shrouded-fable-base/dusknoir-reverse-holo-20",
-        "salePrice": 2.38
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2024/Pokemon_Scarlet__Violet_-_Shrouded_Fable_-_Base_-_Reverse_Foil/018/Duskull/26378076",
-        "url": "https://www.pricecharting.com/game/pokemon-scarlet-violet-shrouded-fable-base/duskull-reverse-holo-18",
-        "salePrice": 2.38
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2024/Pokemon_Scarlet__Violet_-_Shrouded_Fable_-_Base_-_Reverse_Foil/023/Croagunk/26378077",
-        "url": "https://www.pricecharting.com/game/pokemon-scarlet-violet-shrouded-fable-base/croagunk-reverse-holo-23",
-        "salePrice": 2.38
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2024/Pokemon_Scarlet__Violet_-_Shrouded_Fable_-_Base_-_Reverse_Foil/034/Malamar/26331046",
-        "url": "https://www.pricecharting.com/game/pokemon-scarlet-violet-shrouded-fable-base/malamar-reverse-holo-34",
-        "salePrice": 1.43
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023-Current/Pokémon_Scarlet__Violet_-_SVP_Black_Star_-_Promos/121/Revavroom/26037517",
-        "url": "https://www.pricecharting.com/game/pokemon-promo/revavroom-121",
-        "salePrice": 4.05
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2003/Pokémon_-_EX_Dragon_-_Base/9/Holo_-_Roselia/4345505",
-        "url": "https://www.pricecharting.com/game/pokemon-ex-dragon-base/roselia-9",
-        "salePrice": 1.74
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2007/Pokemon_-_EX_Power_Keepers_-_Base/5/Holo_-_Blaziken/7973724/Ungraded/COMC/EX-NM",
-        "url": "https://www.pricecharting.com/game/pokemon-ex-power-keepers-base/blaziken-5",
-        "salePrice": 8.5
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2017/Pokémon_Sun__Moon_-_Guardians_Rising_-_Base/166/Secret_-_Double_Colorless_Energy/15147277",
-        "url": "https://www.pricecharting.com/game/pokemon-sun-moon-guardians-rising-base/double-colorless-energy-166",
-        "salePrice": 28.25
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2017/Pokémon_Sun__Moon_-_Guardians_Rising_-_Base/162/Secret_-_Enhanced_Hammer/16613666",
-        "url": "https://www.pricecharting.com/game/pokemon-sun-moon-guardians-rising-base/enhanced-hammer-162",
-        "salePrice": 13.25
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2017/Pokémon_Sun__Moon_-_Crimson_Invasion_-_Base_-_Reverse_Foil/120/Counter_Catcher/25182602",
-        "url": "https://www.pricecharting.com/game/pokemon-sun-moon-crimson-invasion-base/counter-catcher-reverse-holo-120",
-        "salePrice": 13.75
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2018/Pokémon_Sun__Moon_-_Celestial_Storm_-_Base/176/Rainbow_-_Stakataka_GX/25881788",
-        "url": "https://www.pricecharting.com/game/pokemon-sun-moon-celestial-storm-base/stakataka-gx-176",
-        "salePrice": 13.5
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2007/Pokemon_-_EX_Power_Keepers_-_Base/4/Holo_-_Banette/4348400",
-        "url": "https://www.pricecharting.com/game/pokemon-ex-power-keepers-base/banette-4",
-        "salePrice": 3.75
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2005/Pokemon_-_EX_Unseen_Forces_-_Base/3/Holo_-_Bellossom/4347278",
-        "url": "https://www.pricecharting.com/game/pokemon-ex-unseen-forces-base/bellossom-3",
-        "salePrice": 6.55
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2003/Pokemon_-_EX_Sandstorm_-_Base_-_Reverse_Foil/47/Murkrow/5959597",
-        "url": "https://www.pricecharting.com/game/pokemon-ex-sandstorm-base/murkrow-reverse-holo-47",
-        "salePrice": 3.75
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2015/Pokémon_XY_-_BREAKthrough_-_Base/50/Raichu_BREAK/11913913",
-        "url": "https://www.pricecharting.com/game/pokemon-xy-breakthrough-base/raichu-break-50",
-        "salePrice": 5.25
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2017/Pokémon_Sun__Moon_-_Base_-_Base/15/Lurantis_GX/12280876",
-        "url": "https://www.pricecharting.com/game/pokemon-sun-moon-base-base/lurantis-gx-15",
-        "salePrice": 1.25
+        "guid": "https://www.comc.com/Cards/Pokemon/2021/Pokémon_-_Celebrations_-_Base/018/Zamazenta_V/17656548",
+        "url": "https://www.pricecharting.com/game/pokemon-celebrations-base/zamazenta-v-18",
+        "salePrice": 0.54
     }
 ]
