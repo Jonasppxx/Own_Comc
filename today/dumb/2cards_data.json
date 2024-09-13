@@ -1,177 +1,72 @@
 {
-    "BugCatchingSet #143": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2024/Pokemon_Scarlet__Violet_-_Twilight_Masquerade_-_Base_-_Reverse_Foil/143/Bug_Catching_Set/26037033",
-        "salePrice": 1.43,
-        "cardNumber": "143",
-        "cardName": "BugCatchingSet",
-        "pubDate": "Mon, 09 Sep  2024 23:06:19 GMT"
-    },
-    "RadiantGreninja #46": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2022/Pokémon_Sword__Shield_-_Astral_Radiance_-_Base/046/Radiant_Greninja/19763729",
-        "salePrice": 3.72,
-        "cardNumber": "46",
-        "cardName": "RadiantGreninja",
-        "pubDate": "Mon, 09 Sep  2024 11:59:14 GMT"
-    },
-    "Klara #194": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2021/Pokemon_Sword__Shield_-_Chilling_Reign_-_Base/194/Full_Art_-_Klara/17429171",
-        "salePrice": 11.0,
-        "cardNumber": "194",
-        "cardName": "Klara",
-        "pubDate": "Mon, 09 Sep  2024 15:29:51 GMT"
-    },
-    "Rhyperior #39": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2022/Pokémon_Sword__Shield_-_Battle_Region_(s9a)_-_Base_-_Japanese_Reverse_Foil/039/Rhyperior/21416966",
-        "salePrice": 2.25,
-        "cardNumber": "39",
-        "cardName": "Rhyperior",
-        "pubDate": "Tue, 10 Sep  2024 12:26:45 GMT"
-    },
-    "Hoothoot #55": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2022/Pokémon_Sword__Shield_-_Battle_Region_(s9a)_-_Base_-_Japanese_Reverse_Foil/055/Hoothoot/21417087",
-        "salePrice": 2.25,
-        "cardNumber": "55",
-        "cardName": "Hoothoot",
-        "pubDate": "Tue, 10 Sep  2024 12:26:38 GMT"
-    },
-    "Holo-Pyroar #16": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2022/Pokémon_Sword__Shield_-_Battle_Region_(s9a)_-_Base_-_Japanese/016/Holo_-_Pyroar/23375838",
-        "salePrice": 4.25,
-        "cardNumber": "16",
-        "cardName": "Holo-Pyroar",
-        "pubDate": "Tue, 10 Sep  2024 12:26:09 GMT"
-    },
-    "Holo-Gallade #34": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2022/Pokémon_Sword__Shield_-_Battle_Region_(s9a)_-_Base_-_Japanese/034/Holo_-_Gallade/23375848",
-        "salePrice": 4.25,
-        "cardNumber": "34",
-        "cardName": "Holo-Gallade",
-        "pubDate": "Tue, 10 Sep  2024 12:26:06 GMT"
-    },
-    "Vileplume #3": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2022/Pokémon_Sword__Shield_-_Battle_Region_(s9a)_-_Base_-_Japanese/003/Vileplume/23428122",
-        "salePrice": 5.25,
-        "cardNumber": "3",
-        "cardName": "Vileplume",
-        "pubDate": "Tue, 10 Sep  2024 12:26:04 GMT"
-    },
-    "Chandelure #14": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2022/Pokémon_Sword__Shield_-_Battle_Region_(s9a)_-_Base_-_Japanese/014/Chandelure/23428123",
-        "salePrice": 1.23,
-        "cardNumber": "14",
-        "cardName": "Chandelure",
-        "pubDate": "Tue, 10 Sep  2024 12:26:00 GMT"
-    },
-    "RadiantCharizard #20": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokémon_Sword__Shield_-_Crown_Zenith_-_Base/020/Radiant_Charizard/22212694",
-        "salePrice": 6.25,
-        "cardNumber": "20",
-        "cardName": "RadiantCharizard",
-        "pubDate": "Tue, 10 Sep  2024 02:57:13 GMT"
-    },
-    "Poliwhirl #176": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_151_(MEWEN)_-_Base/176/Illustration_Rare_-_Poliwhirl/24063321",
-        "salePrice": 14.55,
-        "cardNumber": "176",
-        "cardName": "Poliwhirl",
-        "pubDate": "Mon, 09 Sep  2024 03:47:29 GMT"
-    },
-    "LoveBall #156": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2024/Pokemon_Scarlet__Violet_-_Twilight_Masquerade_-_Base/156/Love_Ball/26005309",
-        "salePrice": 2.75,
-        "cardNumber": "156",
-        "cardName": "LoveBall",
-        "pubDate": "Tue, 10 Sep  2024 01:19:35 GMT"
-    },
-    "Enamorus #93": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2024/Pokemon_Scarlet__Violet_-_Twilight_Masquerade_-_Base/093/Enamorus/26005250",
-        "salePrice": 1.38,
-        "cardNumber": "93",
-        "cardName": "Enamorus",
-        "pubDate": "Mon, 09 Sep  2024 23:06:37 GMT"
-    },
-    "Mightyena #114": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2024/Pokemon_Scarlet__Violet_-_Twilight_Masquerade_-_Base_-_Reverse_Foil/114/Mightyena/26037029",
-        "salePrice": 1.43,
-        "cardNumber": "114",
-        "cardName": "Mightyena",
-        "pubDate": "Mon, 09 Sep  2024 23:06:10 GMT"
-    },
-    "Munkidoriex #37": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2024/Pokemon_Scarlet__Violet_-_Shrouded_Fable_-_Base/037/Munkidori_ex/26481369",
-        "salePrice": 1.5,
-        "cardNumber": "37",
-        "cardName": "Munkidoriex",
-        "pubDate": "Tue, 10 Sep  2024 14:41:37 GMT"
-    },
-    "DangerousLaser #58": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2024/Pokemon_Scarlet__Violet_-_Shrouded_Fable_-_Base_-_Reverse_Foil/058/Dangerous_Laser/26484772",
+    "Holo-Muk #13": {
+        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Fossil_-_Base/13/Holo_-_Muk/4340602/Ungraded/COMC/EX-NM",
         "salePrice": 1.75,
-        "cardNumber": "58",
-        "cardName": "DangerousLaser",
-        "pubDate": "Tue, 10 Sep  2024 14:41:20 GMT"
+        "cardNumber": "13",
+        "cardName": "Holo-Muk",
+        "pubDate": "Thu, 12 Sep  2024 13:48:50 GMT"
     },
-    "Fezandipitiex #38": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2024/Pokemon_Scarlet__Violet_-_Shrouded_Fable_-_Base_-_Reverse_Foil/038/Fezandipiti_ex/26484900",
-        "salePrice": 6.25,
-        "cardNumber": "38",
-        "cardName": "Fezandipitiex",
-        "pubDate": "Tue, 10 Sep  2024 14:41:08 GMT"
+    "DarkFlareon #35": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2000/Pokemon_Team_Rocket_-_Base_-_1st_Edition/35/Dark_Flareon/4341548",
+        "salePrice": 10.25,
+        "cardNumber": "35",
+        "cardName": "DarkFlareon",
+        "pubDate": "Fri, 13 Sep  2024 13:44:53 GMT"
     },
-    "Dachsbunex #67": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2024/Pokemon_Scarlet__Violet_-_Stellar_Crown_-_Base/067/Dachsbun_ex/26486009",
-        "salePrice": 2.25,
-        "cardNumber": "67",
-        "cardName": "Dachsbunex",
-        "pubDate": "Tue, 10 Sep  2024 14:40:47 GMT"
+    "MHeracrossEX #5": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2014/Pokemon_XY_-_Furious_Fists_-_Base/5/M_Heracross_EX/11803785/Ungraded/COMC/EX-NM",
+        "salePrice": 1.83,
+        "cardNumber": "5",
+        "cardName": "MHeracrossEX",
+        "pubDate": "Fri, 13 Sep  2024 13:44:35 GMT"
     },
-    "Pecharunt #129": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023-Current/Pokémon_Scarlet__Violet_-_SVP_Black_Star_-_Promos/129/Pecharunt/26485123",
-        "salePrice": 2.75,
-        "cardNumber": "129",
-        "cardName": "Pecharunt",
-        "pubDate": "Tue, 10 Sep  2024 03:51:54 GMT"
+    "AlolanNinetalesGX #68": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2019/Pokémon_Sun__Moon_-_Cosmic_Eclipse_(SM12)_-_Base_-_Chinese/068/Alolan_Ninetales_GX/26490472",
+        "salePrice": 5.25,
+        "cardNumber": "68",
+        "cardName": "AlolanNinetalesGX",
+        "pubDate": "Thu, 12 Sep  2024 15:42:40 GMT"
     },
-    "Tinkatonex #31": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023-Current/Pokémon_Scarlet__Violet_-_SVP_Black_Star_-_Promos/031/Tinkaton_ex/24755236",
-        "salePrice": 9.99,
-        "cardNumber": "31",
-        "cardName": "Tinkatonex",
-        "pubDate": "Mon, 09 Sep  2024 17:36:58 GMT"
+    "BlazikenVMAX #21": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2021/Pokemon_Sword__Shield_-_Chilling_Reign_-_Base/021/Blaziken_VMAX/17349282",
+        "salePrice": 1.45,
+        "cardNumber": "21",
+        "cardName": "BlazikenVMAX",
+        "pubDate": "Fri, 13 Sep  2024 05:14:19 GMT"
     },
-    "Bellsprout #69": {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Burger_King_Master_Trainer_Collection_-_Base/69/Bellsprout_(Collectible_Movie_Scene_5)/16606419/Ungraded/COMC/EX-NM",
-        "salePrice": 1.2,
-        "cardNumber": "69",
-        "cardName": "Bellsprout",
-        "pubDate": "Tue, 10 Sep  2024 13:38:19 GMT"
+    "NecrozmaV #149": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2021/Pokémon_Sword__Shield_-_Battle_Styles_-_Base/149/Full_Art_-_Necrozma_V/17528255",
+        "salePrice": 3.42,
+        "cardNumber": "149",
+        "cardName": "NecrozmaV",
+        "pubDate": "Thu, 12 Sep  2024 04:29:01 GMT"
     },
-    "Electabuzz #125": {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Burger_King_Master_Trainer_Collection_-_Base/125/Electabuzz_(Collectible_Movie_Scene_9)/17425486/Ungraded/COMC/EX-NM",
-        "salePrice": 1.2,
-        "cardNumber": "125",
-        "cardName": "Electabuzz",
-        "pubDate": "Tue, 10 Sep  2024 13:38:19 GMT"
+    "Houndour #204": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokémon_Scarlet__Violet_-_Obsidian_Flames_(OBF)_-_Base/204/Illustration_Rare_-_Houndour/23918198",
+        "salePrice": 2.5,
+        "cardNumber": "204",
+        "cardName": "Houndour",
+        "pubDate": "Thu, 12 Sep  2024 13:49:52 GMT"
     },
-    "Magneton #82": {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Burger_King_Master_Trainer_Collection_-_Base/82/Magneton_(Collectible_Movie_Scene_6)/24576180",
-        "salePrice": 6.5,
-        "cardNumber": "82",
-        "cardName": "Magneton",
-        "pubDate": "Tue, 10 Sep  2024 13:37:53 GMT"
+    "Ivysaur #2": {
+        "guid": "https://www.comc.com/Cards/Pokemon/1998/Pokemon_KFC_Mini_Cards_-_Base/02/Ivysaur/20947814/Ungraded/COMC/G-VG-EX",
+        "salePrice": 9.95,
+        "cardNumber": "2",
+        "cardName": "Ivysaur",
+        "pubDate": "Thu, 12 Sep  2024 21:55:56 GMT"
     },
-    "Blissey #242": {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999/Game_FreakNintendo_Poker_Playing_Cards_-_Base_-_Gold_Back/242/Blissey_(Queen_of_Spades)/26472086",
-        "salePrice": 11.75,
-        "cardNumber": "242",
-        "cardName": "Blissey",
-        "pubDate": "Tue, 10 Sep  2024 04:32:13 GMT"
+    "EspeonGX #34": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2022/Pokémon_Sun__Moon_-_Crossing_the_Sky_-_Red_-_Chinese/034/Espeon_GX/26490474",
+        "salePrice": 5.25,
+        "cardNumber": "34",
+        "cardName": "EspeonGX",
+        "pubDate": "Thu, 12 Sep  2024 15:43:07 GMT"
     },
-    "Cosmog #6": {
-        "guid": "https://www.comc.com/Cards/Pokemon/2017/Pokemon_McDonalds_Collection_6_-_Happy_Meal_Promos/6/Cosmog/12914237",
-        "salePrice": 6.0,
-        "cardNumber": "6",
-        "cardName": "Cosmog",
-        "pubDate": "Mon, 09 Sep  2024 17:23:30 GMT"
+    "ZekromGX #63": {
+        "guid": "https://www.comc.com/Cards/Pokemon/2022/Pokémon_Sun__Moon_-_Crossing_the_Sky_-_Green_-_Chinese/063/Zekrom_GX/26490473",
+        "salePrice": 5.25,
+        "cardNumber": "63",
+        "cardName": "ZekromGX",
+        "pubDate": "Thu, 12 Sep  2024 15:42:55 GMT"
     }
 }

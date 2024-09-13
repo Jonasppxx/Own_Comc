@@ -1,26 +1,32 @@
 [
     {
-        "guid": "https://www.comc.com/Cards/Pokemon/2024/Pokemon_Scarlet__Violet_-_Twilight_Masquerade_-_Base_-_Reverse_Foil/143/Bug_Catching_Set/26037033",
-        "url": "https://www.pricecharting.com/game/pokemon-twilight-masquerades/bug-catching-set-reverse-holo-143",
-        "comc": 1.43,
-        "pricecharting": 1.73
+        "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Fossil_-_Base/13/Holo_-_Muk/4340602/Ungraded/COMC/EX-NM",
+        "url": "https://www.pricecharting.com/game/pokemon-fossil/muk-13",
+        "comc": 1.75,
+        "pricecharting": 4.32
     },
     {
-        "guid": "https://www.comc.com/Cards/Pokemon/2022/Pokémon_Sword__Shield_-_Astral_Radiance_-_Base/046/Radiant_Greninja/19763729",
-        "url": "https://www.pricecharting.com/game/pokemon-astral-radiance/radiant-greninja-46",
-        "comc": 3.72,
-        "pricecharting": 4.4
+        "guid": "https://www.comc.com/Cards/Pokemon/2014/Pokemon_XY_-_Furious_Fists_-_Base/5/M_Heracross_EX/11803785/Ungraded/COMC/EX-NM",
+        "url": "https://www.pricecharting.com/game/pokemon-xy-furious-fists-base/m-heracross-ex-5",
+        "comc": 1.83,
+        "pricecharting": 5.94
     },
     {
-        "guid": "https://www.comc.com/Cards/Pokemon/2021/Pokemon_Sword__Shield_-_Chilling_Reign_-_Base/194/Full_Art_-_Klara/17429171",
-        "url": "https://www.pricecharting.com/game/pokemon-chilling-reign/klara-194",
-        "comc": 11.0,
-        "pricecharting": 14.53
+        "guid": "https://www.comc.com/Cards/Pokemon/2021/Pokemon_Sword__Shield_-_Chilling_Reign_-_Base/021/Blaziken_VMAX/17349282",
+        "url": "https://www.pricecharting.com/game/pokemon-chilling-reign/blaziken-vmax-21",
+        "comc": 1.45,
+        "pricecharting": 2.97
     },
     {
-        "guid": "https://www.comc.com/Cards/Pokemon/2024/Pokemon_Scarlet__Violet_-_Twilight_Masquerade_-_Base/093/Enamorus/26005250",
-        "url": "https://www.pricecharting.com/game/pokemon-twilight-masquerade/enamorus-93",
-        "comc": 1.38,
-        "pricecharting": 1.68
+        "guid": "https://www.comc.com/Cards/Pokemon/2021/Pokémon_Sword__Shield_-_Battle_Styles_-_Base/149/Full_Art_-_Necrozma_V/17528255",
+        "url": "https://www.pricecharting.com/game/pokemon-battle-styles/necrozma-v-149",
+        "comc": 3.42,
+        "pricecharting": 5.34
+    },
+    {
+        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokémon_Scarlet__Violet_-_Obsidian_Flames_(OBF)_-_Base/204/Illustration_Rare_-_Houndour/23918198",
+        "url": "https://www.pricecharting.com/game/pokemon-obsidian-flames/houndour-204",
+        "comc": 2.5,
+        "pricecharting": 3.65
     }
 ]
