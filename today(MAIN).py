@@ -17,7 +17,7 @@ scripts = [
     "3url_generator.py",
     "4fertigen.py",
     "5compare_values.py"
-]
+] 
 
 # Gehe in das Verzeichnis mit den Skripten
 os.chdir(directory)
