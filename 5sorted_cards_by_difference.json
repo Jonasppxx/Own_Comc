@@ -77,6 +77,13 @@
         "difference": 47.599999999999994
     },
     {
+        "guid": "https://www.comc.com/Cards/Pokemon/2009/Pokémon_Platinum_-_Supreme_Victors_-_Base_-_Reverse_Foil/13/Venusaur/24365971",
+        "url": "https://www.pricecharting.com/game/pokemon-supreme-victors/venusaur-reverse-holo-13",
+        "comc": 5.25,
+        "pricecharting": 9.76,
+        "difference": 46.20901639344262
+    },
+    {
         "guid": "https://www.comc.com/Cards/Pokemon/2000/Pokemon_Team_Rocket_-_Base/21/Dark_Charizard/4341617/Ungraded/COMC/G-VG-EX",
         "url": "https://www.pricecharting.com/game/pokemon-team-rocket/dark-charizard-21",
         "comc": 15.45,
@@ -96,6 +103,13 @@
         "comc": 7.85,
         "pricecharting": 13.93,
         "difference": 43.64680545585068
+    },
+    {
+        "guid": "https://www.comc.com/Cards/Pokemon/1999-2003/Pokemon_Wizards_of_the_Coast_-_Exclusive_Black_Star_Promos/48/Articuno/5714038",
+        "url": "https://www.pricecharting.com/game/pokemon-promo/articuno-48",
+        "comc": 15.85,
+        "pricecharting": 27.97,
+        "difference": 43.33214158026457
     },
     {
         "guid": "https://www.comc.com/Cards/Pokemon/2012/Pokémon_Black__White_-_Dragons_Exalted_-_Base/92/Giratina_EX/12492689/Ungraded/COMC/PR-FR",
@@ -133,13 +147,6 @@
         "difference": 38.13953488372093
     },
     {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999-2003/Pokemon_Wizards_of_the_Coast_-_Exclusive_Black_Star_Promos/48/Articuno/5714038",
-        "url": "https://www.pricecharting.com/game/pokemon-promo/articuno-48",
-        "comc": 15.85,
-        "pricecharting": 25.49,
-        "difference": 37.81875245194193
-    },
-    {
         "guid": "https://www.comc.com/Cards/Pokemon/1999-2003/Pokemon_Wizards_of_the_Coast_-_Exclusive_Black_Star_Promos/53/Suicune/5714043",
         "url": "https://www.pricecharting.com/game/pokemon-promo/suicune-53",
         "comc": 11.25,
@@ -147,18 +154,18 @@
         "difference": 37.5
     },
     {
+        "guid": "https://www.comc.com/Cards/Pokemon/2002/Pokemon_e-Card_Series_-_Expedition_-_Base/97/Charmander/4344531",
+        "url": "https://www.pricecharting.com/game/pokemon-expedition/charmander-97",
+        "comc": 5.25,
+        "pricecharting": 8.38,
+        "difference": 37.35083532219571
+    },
+    {
         "guid": "https://www.comc.com/Cards/Pokemon/2002/Pokemon_e-Card_Series_-_Expedition_-_Base/98/Charmander/13130342",
         "url": "https://www.pricecharting.com/game/pokemon-expedition/charmander-98",
         "comc": 5.05,
         "pricecharting": 7.99,
         "difference": 36.795994993742184
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2009/Pokémon_Platinum_-_Supreme_Victors_-_Base_-_Reverse_Foil/13/Venusaur/24365971",
-        "url": "https://www.pricecharting.com/game/pokemon-supreme-victors/venusaur-reverse-holo-13",
-        "comc": 5.25,
-        "pricecharting": 8.28,
-        "difference": 36.59420289855072
     },
     {
         "guid": "https://www.comc.com/Cards/Pokemon/2002/Pokemon_e-Card_Series_-_Expedition_-_Base_-_Reverse_Foil/104/Cyndaquil/4344813/Ungraded/COMC/EX-NM",
@@ -329,13 +336,6 @@
         "difference": 24.504950495049503
     },
     {
-        "guid": "https://www.comc.com/Cards/Pokemon/2002/Pokemon_e-Card_Series_-_Expedition_-_Base/97/Charmander/4344531",
-        "url": "https://www.pricecharting.com/game/pokemon-expedition/charmander-97",
-        "comc": 5.25,
-        "pricecharting": 6.94,
-        "difference": 24.351585014409228
-    },
-    {
         "guid": "https://www.comc.com/Cards/Pokemon/2010/Pokémon_-_HeartGold__SoulSilver_-_Base_-_Reverse_Foil/98/Pokemon_Communication/12428206",
         "url": "https://www.pricecharting.com/game/pokemon-heartgold-&-soulsilver/pokemon-communication-reverse-holo-98",
         "comc": 7.05,
@@ -355,6 +355,13 @@
         "comc": 8.54,
         "pricecharting": 11.06,
         "difference": 22.78481012658229
+    },
+    {
+        "guid": "https://www.comc.com/Cards/Pokemon/2003/Pokemon_EX_-_Ruby__Sapphire_-_Base/5/Holo_-_Delcatty/4345292",
+        "url": "https://www.pricecharting.com/game/pokemon-ruby-&-sapphire/delcatty-5",
+        "comc": 6.25,
+        "pricecharting": 8.02,
+        "difference": 22.069825436408973
     },
     {
         "guid": "https://www.comc.com/Cards/Pokemon/2019/Pokémon_Sun__Moon_-_Cosmic_Eclipse_-_Base/245/Secret_-_Mimikyu/14947699",
@@ -448,6 +455,13 @@
         "difference": 19.070512820512825
     },
     {
+        "guid": "https://www.comc.com/Cards/Pokemon/1999-2003/Pokemon_Wizards_of_the_Coast_-_Exclusive_Black_Star_Promos/51/Rapidash/5714041/Ungraded/COMC/PR-FR",
+        "url": "https://www.pricecharting.com/game/pokemon-promo/rapidash-51",
+        "comc": 8.59,
+        "pricecharting": 10.58,
+        "difference": 18.809073724007565
+    },
+    {
         "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Fossil_-_Base/11/Holo_-_Magneton/4340600/Ungraded/COMC/EX-NM",
         "url": "https://www.pricecharting.com/game/pokemon-fossil/magneton-11",
         "comc": 6.5,
@@ -460,13 +474,6 @@
         "comc": 33.25,
         "pricecharting": 40.89,
         "difference": 18.68427488383468
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2022/Pokémon_Sword__Shield_-_Pokemon_Go_-_Base/011/Radiant_Charizard/20051787",
-        "url": "https://www.pricecharting.com/game/pokemon-go/radiant-charizard-11",
-        "comc": 5.24,
-        "pricecharting": 6.44,
-        "difference": 18.633540372670808
     },
     {
         "guid": "https://www.comc.com/Cards/Pokemon/1999/Pokemon_Fossil_-_Base/6/Holo_-_Haunter/4340595/Ungraded/COMC/EX-NM",
@@ -502,20 +509,6 @@
         "comc": 5.05,
         "pricecharting": 6.09,
         "difference": 17.077175697865353
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2003/Pokemon_EX_-_Ruby__Sapphire_-_Base/5/Holo_-_Delcatty/4345292",
-        "url": "https://www.pricecharting.com/game/pokemon-ruby-&-sapphire/delcatty-5",
-        "comc": 6.25,
-        "pricecharting": 7.45,
-        "difference": 16.107382550335572
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2002/Pokemon_e-Card_Series_-_Aquapolis_-_Base/1/Ampharos/15391385",
-        "url": "https://www.pricecharting.com/game/pokemon-aquapolis/ampharos-1",
-        "comc": 9.05,
-        "pricecharting": 10.72,
-        "difference": 15.578358208955223
     },
     {
         "guid": "https://www.comc.com/Cards/Pokemon/2018/Pokémon_Sun__Moon_-_Forbidden_Light_-_Base/140/Rainbow_-_Ultra_Necrozma_GX/16455141",
@@ -558,6 +551,13 @@
         "comc": 7.25,
         "pricecharting": 8.5,
         "difference": 14.705882352941178
+    },
+    {
+        "guid": "https://www.comc.com/Cards/Pokemon/2002/Pokemon_e-Card_Series_-_Aquapolis_-_Base/1/Ampharos/15391385",
+        "url": "https://www.pricecharting.com/game/pokemon-aquapolis/ampharos-1",
+        "comc": 9.05,
+        "pricecharting": 10.6,
+        "difference": 14.622641509433954
     },
     {
         "guid": "https://www.comc.com/Cards/Pokemon/2015/Pokémon_XY_-_Double_Crisis_-_Base_-_Reverse_Foil/12/Team_Magmas_Aron/13628087",
@@ -616,20 +616,6 @@
         "difference": 12.935323383084581
     },
     {
-        "guid": "https://www.comc.com/Cards/Pokemon/1999-2003/Pokemon_Wizards_of_the_Coast_-_Exclusive_Black_Star_Promos/51/Rapidash/5714041/Ungraded/COMC/PR-FR",
-        "url": "https://www.pricecharting.com/game/pokemon-promo/rapidash-51",
-        "comc": 9.25,
-        "pricecharting": 10.58,
-        "difference": 12.570888468809075
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2012/Pokémon_Black__White_-_Dark_Explorers_-_Expansion_Set_Base_-_Reverse_Foil/23/Slowpoke/12938372/Ungraded/COMC/EX-NM",
-        "url": "https://www.pricecharting.com/game/pokemon-dark-explorers/slowpoke-reverse-holo-23",
-        "comc": 5.5,
-        "pricecharting": 6.29,
-        "difference": 12.559618441971384
-    },
-    {
         "guid": "https://www.comc.com/Cards/Pokemon/2019/Pokemon_Sun__Moon_-_Unified_Minds_-_Base/54/Raichu__Alolan_Raichu_GX/14631127",
         "url": "https://www.pricecharting.com/game/pokemon-unified-minds/raichu-alolan-raichu-gx-54",
         "comc": 7.25,
@@ -649,6 +635,13 @@
         "comc": 15.98,
         "pricecharting": 18.12,
         "difference": 11.810154525386315
+    },
+    {
+        "guid": "https://www.comc.com/Cards/Pokemon/2012/Pokémon_Black__White_-_Dark_Explorers_-_Expansion_Set_Base_-_Reverse_Foil/23/Slowpoke/12938372/Ungraded/COMC/EX-NM",
+        "url": "https://www.pricecharting.com/game/pokemon-dark-explorers/slowpoke-reverse-holo-23",
+        "comc": 5.5,
+        "pricecharting": 6.22,
+        "difference": 11.575562700964626
     },
     {
         "guid": "https://www.comc.com/Cards/Pokemon/2000/Pokemon_-_Gym_Heroes_-_Base_-_Unlimited/19/Holo_-_The_Rockets_Trap/4341968/Ungraded/COMC/EX-NM",
@@ -679,13 +672,6 @@
         "difference": 10.452143276570764
     },
     {
-        "guid": "https://www.comc.com/Cards/Pokemon/2013/Pokemon_Black__White_-_Legendary_Treasures_-_Base/53/Holo_-_Mewtwo/12053485",
-        "url": "https://www.pricecharting.com/game/pokemon-legendary-treasures/mewtwo-53",
-        "comc": 6.23,
-        "pricecharting": 6.95,
-        "difference": 10.359712230215823
-    },
-    {
         "guid": "https://www.comc.com/Cards/Pokemon/2000/Pokemon_Base_Set_2_-_Base/3/Holo_-_Chansey/4341274",
         "url": "https://www.pricecharting.com/game/pokemon-base-set-2/chansey-3",
         "comc": 6.75,
@@ -698,13 +684,6 @@
         "comc": 5.05,
         "pricecharting": 5.61,
         "difference": 9.98217468805705
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2019/Pokémon_Sun__Moon_-_Unbroken_Bonds_-_Base/216/Rainbow_-_Venomoth_GX/14508668",
-        "url": "https://www.pricecharting.com/game/pokemon-unbroken-bonds/venomoth-gx-216",
-        "comc": 7.95,
-        "pricecharting": 8.83,
-        "difference": 9.966024915062286
     },
     {
         "guid": "https://www.comc.com/Cards/Pokemon/2010/Pokémon_HeartGold__SoulSilver_-_Undaunted_-_Base_-_Reverse_Foil/28/Jolteon/12495798/Ungraded/COMC/EX-NM",
@@ -812,11 +791,11 @@
         "difference": 7.035175879396978
     },
     {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokémon_Scarlet__Violet_-_Obsidian_Flames_(OBF)_-_Base/164/Pidgeot_ex/23918048",
-        "url": "https://www.pricecharting.com/game/pokemon-obsidian-flames/pidgeot-ex-164",
-        "comc": 6.5,
-        "pricecharting": 6.99,
-        "difference": 7.010014306151648
+        "guid": "https://www.comc.com/Cards/Pokemon/2019/Pokémon_Sun__Moon_-_Unbroken_Bonds_-_Base/216/Rainbow_-_Venomoth_GX/14508668",
+        "url": "https://www.pricecharting.com/game/pokemon-unbroken-bonds/venomoth-gx-216",
+        "comc": 7.95,
+        "pricecharting": 8.55,
+        "difference": 7.017543859649128
     },
     {
         "guid": "https://www.comc.com/Cards/Pokemon/1999-2003/Pokemon_Wizards_of_the_Coast_-_Exclusive_Black_Star_Promos/21/Moltres/5714006",
@@ -866,13 +845,6 @@
         "comc": 10.65,
         "pricecharting": 11.4,
         "difference": 6.578947368421052
-    },
-    {
-        "guid": "https://www.comc.com/Cards/Pokemon/2023/Pokemon_Scarlet__Violet_-_151_(MEWEN)_-_Base/176/Illustration_Rare_-_Poliwhirl/24063321",
-        "url": "https://www.pricecharting.com/game/pokemon-scarlet-&-violet-151/poliwhirl-176",
-        "comc": 10.05,
-        "pricecharting": 10.75,
-        "difference": 6.511627906976737
     },
     {
         "guid": "https://www.comc.com/Cards/Pokemon/2016/Pokémon_XY_Evolutions_-_20th_Anniversary_Base/22/M_Blastoise_EX/11992306",
@@ -957,6 +929,20 @@
         "comc": 12.25,
         "pricecharting": 12.63,
         "difference": 3.0087094220110906
+    },
+    {
+        "guid": "https://www.comc.com/Cards/Pokemon/2015/Pokemon_XY_-_Roaring_Skies_-_Base/109/Secret_-_Energy_Switch/12358892",
+        "url": "https://www.pricecharting.com/game/pokemon-roaring-skies/energy-switch-109",
+        "comc": 12.25,
+        "pricecharting": 12.62,
+        "difference": 2.9318541996830367
+    },
+    {
+        "guid": "https://www.comc.com/Cards/Pokemon/2018/Pokémon_Sun__Moon_-_Celestial_Storm_-_Base/159/Full_Art_-_Stakataka_GX/16611794",
+        "url": "https://www.pricecharting.com/game/pokemon-sun-moon-celestial-storm-base/stakataka-gx-159",
+        "comc": 5.15,
+        "pricecharting": 5.3,
+        "difference": 2.830188679245273
     },
     {
         "guid": "https://www.comc.com/Cards/Pokemon/2002/Pokemon_e-Card_Series_-_Expedition_-_Base_-_German_Reverse_Foil/64/Typhlosion/26377620/Ungraded/COMC/EX-NM",
