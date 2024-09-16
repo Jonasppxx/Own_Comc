@@ -44,6 +44,16 @@ def verarbeite_urls(input_dateipfad, output_dateipfad):
         url = url.replace("-spanish","")
         url = url.replace("-korean","")
         url = url.replace("-russian","")
+        url = url.replace("-italian","")
+        url = url.replace("-portuguese","")
+        url = url.replace("-japanese","")
+        url = url.replace("-chinese","")
+        url = url.replace("-dutch","")
+        url = url.replace("-swedish","")
+        url = url.replace("-danish","")
+        url = url.replace("-norwegian","")
+        
+
         url = url.replace("-spanish-unlimited","")
         url = url.replace("impostor","imposter")
 
@@ -76,9 +86,9 @@ def verarbeite_urls(input_dateipfad, output_dateipfad):
             
             
 
-   
-
-
+        url = url.replace("pokemon-kfc-mini-cards-base","pokemon-kfc-mini-cards")
+        url = url.replace("pokemon-diamond-pearl-legends-awakened-booster-pack-base-set-a","pokemon-legends-awakened")
+        url = url.replace("prism-","")
         url = url.replace("pokemon-fossil-base","pokemon-fossil")
         url = url.replace("pokemon-fossil-1st-edition","pokemon-fossil")
         url = url.replace("pokemon-jungle-base","pokemon-jungle")
@@ -349,6 +359,7 @@ def verarbeite_urls(input_dateipfad, output_dateipfad):
         url = url.replace("pokemon-scarlet-violet-temporal-forces-base","pokemon-temporal-forces")
         url = url.replace("sylveon-vmax-075","sylveon-vmax-75")
         url = url.replace("pokemon-gym-challenge-base-unlimited","pokemon-gym-challenge")
+
         url = re.sub(r'\d+', lambda x: str(int(x.group()) * 1), url)
 
         parts = url.split('/')
