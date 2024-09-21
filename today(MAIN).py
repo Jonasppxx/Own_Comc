@@ -2,9 +2,6 @@ import subprocess
 import os
 import datetime
 
-# Verwenden Sie einen Rohstring für den Dateipfad
-file = open(r"C:\Users\jonas\OneDrive\Desktop\GITHUB\Own_Comc\Own_Comc\log.txt", "a")
-file.write(f"{datetime.datetime.now()} - The Script ran\n")
 
 # Pfad zum Verzeichnis mit den Skripten
 directory = os.path.join(os.path.dirname(__file__), 'today')
